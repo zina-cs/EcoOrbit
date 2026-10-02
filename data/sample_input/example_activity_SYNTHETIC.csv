@@ -1,0 +1,2 @@
+facility_id,period,fuel_type,fuel_quantity,fuel_unit,fuel_factor_kgco2e_per_unit,electricity_kwh,electricity_factor_kgco2e_per_kwh,factor_source,activity_source
+NIDEC001,2025-04,SYNTHETIC_DIESEL,1000,L,2.68,10000,0.60,SYNTHETIC_FACTOR_FOR_SOFTWARE_DEMO,SYNTHETIC_ACTIVITY_FOR_SOFTWARE_DEMO

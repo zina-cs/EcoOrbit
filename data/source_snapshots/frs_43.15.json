@@ -1,0 +1,2138 @@
+{
+"Results":{
+"FRSFacility":[
+{
+"RegistryId":"110019184167",
+"FacilityName":"95 MT. READ BLVD. LLC",
+"LocationAddress":"95 MT READ BLVD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611-1923",
+"FIPSCode":"36055",
+"Latitude83":"43.152104",
+"Longitude83":"-77.660702"
+}
+,{
+"RegistryId":"110019436396",
+"FacilityName":"A B DICK COMPANY",
+"LocationAddress":"811 JEFFERSON RD",
+"SupplementalLocation":null,
+"CityName":"HENRIETTA",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14467",
+"FIPSCode":"36055",
+"Latitude83":"43.08715",
+"Longitude83":"-77.61851"
+}
+,{
+"RegistryId":"110000838121",
+"FacilityName":"ABB KENT-TAYLOR INC",
+"LocationAddress":"95 AMES STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"36055",
+"Latitude83":"43.151",
+"Longitude83":"-77.64395"
+}
+,{
+"RegistryId":"110004361716",
+"FacilityName":"ADVANCE CIRCUIT TECHNOLOGY, INC.",
+"LocationAddress":"19 JET VIEW DR",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624 -4903",
+"FIPSCode":"36055",
+"Latitude83":"43.10973",
+"Longitude83":"-77.69734"
+}
+,{
+"RegistryId":"110071286424",
+"FacilityName":"ALCO MANUFACTURING CORPORATION",
+"LocationAddress":"1425 UNIVERSITY AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14607",
+"FIPSCode":"36055",
+"Latitude83":"43.14909",
+"Longitude83":"-77.56484"
+}
+,{
+"RegistryId":"110071287445",
+"FacilityName":"ALCO MANUFACTURING CORPORATION",
+"LocationAddress":"255 HUMBOLDT ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14610",
+"FIPSCode":"36055",
+"Latitude83":"43.153036",
+"Longitude83":"-77.56183"
+}
+,{
+"RegistryId":"110002094974",
+"FacilityName":"ALLIANCE METAL STAMPING & FABRICATING",
+"LocationAddress":"12 PIXLEY INDUSTRIAL PKWY.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.14098",
+"Longitude83":"-77.71189"
+}
+,{
+"RegistryId":"110002094956",
+"FacilityName":"ALLING & CORY CO",
+"LocationAddress":"110 LAGRANGE AVE.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14613",
+"FIPSCode":"36055",
+"Latitude83":"43.18577",
+"Longitude83":"-77.65324"
+}
+,{
+"RegistryId":"110000327897",
+"FacilityName":"AMERADA HESS CORP  ROCHESTER-LYELL AVENUE TERMINAL",
+"LocationAddress":"1975 LYELL AVE.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606",
+"FIPSCode":"36055",
+"Latitude83":"43.16468",
+"Longitude83":"-77.67899"
+}
+,{
+"RegistryId":"110015345401",
+"FacilityName":"AMERICAN AEROGEL CORPORATION",
+"LocationAddress":"460 BUFFALO RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"36055",
+"Latitude83":"43.15103",
+"Longitude83":"-77.66232"
+}
+,{
+"RegistryId":"110001575126",
+"FacilityName":"AMERICAN NATIONAL CAN CO",
+"LocationAddress":"815 E. WHITNEY RD",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450-1030",
+"FIPSCode":"36055",
+"Latitude83":"43.10848",
+"Longitude83":"-77.44964"
+}
+,{
+"RegistryId":"110000807119",
+"FacilityName":"AMERICAN PACKAGING CORP",
+"LocationAddress":"777 DRIVING PARK AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14613",
+"FIPSCode":"36055",
+"Latitude83":"43.181847",
+"Longitude83":"-77.651925"
+}
+,{
+"RegistryId":"110070128661",
+"FacilityName":"AMERICAN PACKAGING CORP",
+"LocationAddress":"100 BEAVER RD",
+"SupplementalLocation":null,
+"CityName":"CHURCHVILLE",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14428",
+"FIPSCode":"36055",
+"Latitude83":"43.09552",
+"Longitude83":"-77.74559"
+}
+,{
+"RegistryId":"110070552649",
+"FacilityName":"AMERICAN PACKAGING CORPORATION",
+"LocationAddress":"100 APC DRIVE",
+"SupplementalLocation":null,
+"CityName":"CHURCHVILLE",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14428",
+"FIPSCode":"NY055",
+"Latitude83":"43.098376",
+"Longitude83":"-77.738301"
+}
+,{
+"RegistryId":"110000848673",
+"FacilityName":"AMETEK INC",
+"LocationAddress":"255 NORTH UNION STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605-2699",
+"FIPSCode":"36055",
+"Latitude83":"43.1647",
+"Longitude83":"-77.59153"
+}
+,{
+"RegistryId":"110022522251",
+"FacilityName":"API TECHNOLOGIES CORP",
+"LocationAddress":"72 PERINTON PKWY",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450",
+"FIPSCode":"36055",
+"Latitude83":"43.09304",
+"Longitude83":"-77.39255"
+}
+,{
+"RegistryId":"110000327931",
+"FacilityName":"ARCH CHEMICALS INC",
+"LocationAddress":"100 MCKEE RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"NY055",
+"Latitude83":"43.154776",
+"Longitude83":"-77.66765"
+}
+,{
+"RegistryId":"110009479466",
+"FacilityName":"ARCONIC",
+"LocationAddress":"181 MCKEE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"36055",
+"Latitude83":"43.153172",
+"Longitude83":"-77.668197"
+}
+,{
+"RegistryId":"110009465293",
+"FacilityName":"ARNOLD MAGNETIC TECHNOLOGIES CORPORATION",
+"LocationAddress":"770 LINDEN AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14625",
+"FIPSCode":"36055",
+"Latitude83":"43.12112",
+"Longitude83":"-77.50504"
+}
+,{
+"RegistryId":"110001134950",
+"FacilityName":"BAKER COMMODITIES/STAPPENBECK",
+"LocationAddress":"2268 BROWNCROFT BLVD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14625",
+"FIPSCode":"36055",
+"Latitude83":"43.158974",
+"Longitude83":"-77.526349"
+}
+,{
+"RegistryId":"110001595444",
+"FacilityName":"BARTHELMES MANUFACTURING CO INC",
+"LocationAddress":"15 CAIRN ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"36055",
+"Latitude83":"43.14526",
+"Longitude83":"-77.66362"
+}
+,{
+"RegistryId":"110000774895",
+"FacilityName":"BAUSCH & LOMB INC",
+"LocationAddress":"1400 NORTH GOODMAN STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14609-3547",
+"FIPSCode":"36055",
+"Latitude83":"43.180062",
+"Longitude83":"-77.571981"
+}
+,{
+"RegistryId":"110000327922",
+"FacilityName":"BODYCOTE THERMAL PROCESSING INC",
+"LocationAddress":"620 BUFFALO ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611-2006",
+"FIPSCode":"36055",
+"Latitude83":"43.14995",
+"Longitude83":"-77.66586"
+}
+,{
+"RegistryId":"110015784891",
+"FacilityName":"BOSCH SECURITY SYSTEMS INC",
+"LocationAddress":"130 PERINTON PARKWAY",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450-9199",
+"FIPSCode":"36055",
+"Latitude83":"43.09185",
+"Longitude83":"-77.39253"
+}
+,{
+"RegistryId":"110002442134",
+"FacilityName":"BROCKPORT PLANT",
+"LocationAddress":"5251 SWEDEN-WALKER RD",
+"SupplementalLocation":null,
+"CityName":"BROCKPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14420",
+"FIPSCode":"NY055",
+"Latitude83":"43.17364",
+"Longitude83":"-77.90738"
+}
+,{
+"RegistryId":"110000328020",
+"FacilityName":"BUCKEYE ROCHESTER TERMINAL - SOUTH",
+"LocationAddress":"675 BROOKS AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14619",
+"FIPSCode":"36055",
+"Latitude83":"43.13094",
+"Longitude83":"-77.65486"
+}
+,{
+"RegistryId":"110004339957",
+"FacilityName":"CALDWELL MANUFACTURING CO",
+"LocationAddress":"2605 MANITOU RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.15864",
+"Longitude83":"-77.75387"
+}
+,{
+"RegistryId":"110031331280",
+"FacilityName":"CARESTREAM HEALTH AT EASTMAN BUSINESS PARK",
+"LocationAddress":"1049 W RIDGE RD",
+"SupplementalLocation":"EQUIPMENT DEVELOP & MFG",
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.19897",
+"Longitude83":"-77.63147"
+}
+,{
+"RegistryId":"110039496818",
+"FacilityName":"CARESTREAM HEALTH INC - ISC B-117",
+"LocationAddress":"1669 LAKE AVENUE, EASTMAN BUSINESS PARK, BUILDING",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.196959",
+"Longitude83":"-77.628233"
+}
+,{
+"RegistryId":"110001574822",
+"FacilityName":"CASE-HOYT",
+"LocationAddress":"800 ST PAUL ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605",
+"FIPSCode":"36055",
+"Latitude83":"43.17068",
+"Longitude83":"-77.62052"
+}
+,{
+"RegistryId":"110031020375",
+"FacilityName":"CHAMPION PHOTOCHEMISTRY INC",
+"LocationAddress":"1669 LAKE AVE BUILDING 48 MC MC23751",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146523751",
+"FIPSCode":"36055",
+"Latitude83":"43.196959",
+"Longitude83":"-77.628233"
+}
+,{
+"RegistryId":"110002373805",
+"FacilityName":"COAST TO COAST CIRCUITS INC",
+"LocationAddress":"205 LAGRANGE AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14613-1576",
+"FIPSCode":"36055",
+"Latitude83":"43.18693",
+"Longitude83":"-77.65327"
+}
+,{
+"RegistryId":"110000603348",
+"FacilityName":"COOPERVISION SCOTTSVILLE MANUFACTURING OPERATIONS",
+"LocationAddress":"711 NORTH ROAD",
+"SupplementalLocation":null,
+"CityName":"SCOTTSVILLE",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14546-1238",
+"FIPSCode":"36055",
+"Latitude83":"43.02833",
+"Longitude83":"-77.75776"
+}
+,{
+"RegistryId":"110027360969",
+"FacilityName":"CORNING TROPEL CORP",
+"LocationAddress":"60 O'CONNOR RD",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450-1328",
+"FIPSCode":"36055",
+"Latitude83":"43.10501",
+"Longitude83":"-77.45673"
+}
+,{
+"RegistryId":"110012395470",
+"FacilityName":"CYPRESS PACKAGING INC",
+"LocationAddress":"1525 BROOKS AVE.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER,",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.13071",
+"Longitude83":"-77.67696"
+}
+,{
+"RegistryId":"110004451290",
+"FacilityName":"DANISCO US INC GENENCOR DIVISION",
+"LocationAddress":"1700 LEXINGTON AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606",
+"FIPSCode":"36055",
+"Latitude83":"43.17922",
+"Longitude83":"-77.67758"
+}
+,{
+"RegistryId":"110001134843",
+"FacilityName":"DAVENPORT MACHINE",
+"LocationAddress":"167 AMES ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"36055",
+"Latitude83":"43.15339",
+"Longitude83":"-77.643933"
+}
+,{
+"RegistryId":"110009465168",
+"FacilityName":"DESPATCH INDUSTRIES",
+"LocationAddress":"115 N WASHINGTON ST",
+"SupplementalLocation":"115 N WASHINGTON ST",
+"CityName":"EAST ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14445",
+"FIPSCode":"NY055",
+"Latitude83":"43.1175",
+"Longitude83":"-77.48782"
+}
+,{
+"RegistryId":"110019296313",
+"FacilityName":"DISTILLATION PRODUCTS INDUSTRIES DIV",
+"LocationAddress":"2255 MT READ BLVD",
+"SupplementalLocation":null,
+"CityName":"GREECE",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.19372",
+"Longitude83":"-77.659854"
+}
+,{
+"RegistryId":"110001575073",
+"FacilityName":"DOLOMITE PRODUCTS PENFIELD PLANT",
+"LocationAddress":"746 WHALEN ROAD",
+"SupplementalLocation":null,
+"CityName":"PENFIELD",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14526-1022",
+"FIPSCode":"36055",
+"Latitude83":"43.14485",
+"Longitude83":"-77.48456"
+}
+,{
+"RegistryId":"110015784070",
+"FacilityName":"DOMINE BUILDERS SUPPLY",
+"LocationAddress":"100 E. HIGHLAND DR.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14610",
+"FIPSCode":"36055",
+"Latitude83":"43.13864",
+"Longitude83":"-77.55237"
+}
+,{
+"RegistryId":"110000328039",
+"FacilityName":"DUPONT ROCHESTER SENECA AVE",
+"LocationAddress":"69 SENECA AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14621",
+"FIPSCode":"36055",
+"Latitude83":"43.187505",
+"Longitude83":"-77.609057"
+}
+,{
+"RegistryId":"110001590458",
+"FacilityName":"E I DUPONT DE NEMOURS - DRIVING PARK PLANT",
+"LocationAddress":"666 DRIVING PARK AVE",
+"SupplementalLocation":"FACILITY D",
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14613",
+"FIPSCode":"36055",
+"Latitude83":"43.18088",
+"Longitude83":"-77.64816"
+}
+,{
+"RegistryId":"110000492173",
+"FacilityName":"EASTMAN KODAK - KODAK PARK",
+"LocationAddress":"1669 LAKE AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14652",
+"FIPSCode":"36055",
+"Latitude83":"43.197788",
+"Longitude83":"-77.629836"
+}
+,{
+"RegistryId":"110000328128",
+"FacilityName":"EASTMAN KODAK CO",
+"LocationAddress":"901 ELMGROVE RD.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14653-0002",
+"FIPSCode":"36055",
+"Latitude83":"43.15481",
+"Longitude83":"-77.73235"
+}
+,{
+"RegistryId":"110002095009",
+"FacilityName":"EASTMAN KODAK CO ELMGROVE PLANT",
+"LocationAddress":"131 LINCOLN AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14653-5710",
+"FIPSCode":"36055",
+"Latitude83":"43.147217",
+"Longitude83":"-77.655788"
+}
+,{
+"RegistryId":"110001574788",
+"FacilityName":"EASTMAN KODAK CO LINCOLN PLANT",
+"LocationAddress":"121 LINCOLN AVENUE",
+"SupplementalLocation":"LINCOLN PLANT",
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611-2444",
+"FIPSCode":"36055",
+"Latitude83":"43.14796",
+"Longitude83":"-77.65578"
+}
+,{
+"RegistryId":"110000837934",
+"FacilityName":"EASTMAN KODAK HAWK-EYE PLANT",
+"LocationAddress":"20 AVENUE E",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14621",
+"FIPSCode":"NY055",
+"Latitude83":"43.18112",
+"Longitude83":"-77.62616"
+}
+,{
+"RegistryId":"110001603998",
+"FacilityName":"ERDLE PERFORATING CO INC",
+"LocationAddress":"100 PIXLEY INDUSTRIAL PARKWAY",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624-2394",
+"FIPSCode":"36055",
+"Latitude83":"43.13906",
+"Longitude83":"-77.71443"
+}
+,{
+"RegistryId":"110060257234",
+"FacilityName":"EXELIS GEOSPATIAL SYSTEMS",
+"LocationAddress":"800 LEE RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606",
+"FIPSCode":"36055",
+"Latitude83":"43.18175",
+"Longitude83":"-77.68054"
+}
+,{
+"RegistryId":"110072132991",
+"FacilityName":"FAIRLIFE LLC - WEBSTER",
+"LocationAddress":"1886 TEBOR RD",
+"SupplementalLocation":null,
+"CityName":"WEBSTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14580",
+"FIPSCode":"36055",
+"Latitude83":"43.225521",
+"Longitude83":"-77.382944"
+}
+,{
+"RegistryId":"110002094929",
+"FacilityName":"FEDERAL STAMPINGS INC",
+"LocationAddress":"1455 EMERSON ST.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606",
+"FIPSCode":"36055",
+"Latitude83":"43.17384",
+"Longitude83":"-77.67046"
+}
+,{
+"RegistryId":"110000327628",
+"FacilityName":"FERRONICS INC",
+"LocationAddress":"45 O'CONNOR RD.",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450-1386",
+"FIPSCode":"36055",
+"Latitude83":"43.10624",
+"Longitude83":"-77.45837"
+}
+,{
+"RegistryId":"110001574911",
+"FacilityName":"FILTROS PLANT REFRACTORIES DIVISION",
+"LocationAddress":"603 WEST COMMERCIAL STREET",
+"SupplementalLocation":null,
+"CityName":"EAST ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14445-2253",
+"FIPSCode":"36055",
+"Latitude83":"43.117791",
+"Longitude83":"-77.499689"
+}
+,{
+"RegistryId":"110011507869",
+"FacilityName":"FINGER LAKES CHEMICALS, INC.",
+"LocationAddress":"418 ST. PAUL STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605-1734",
+"FIPSCode":"36055",
+"Latitude83":"43.16446",
+"Longitude83":"-77.61377"
+}
+,{
+"RegistryId":"110004413064",
+"FacilityName":"FISHER SCIENTIFIC CO  L L C  PFEIFFER GLASS CO",
+"LocationAddress":"140 BENNINGTON DR.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14616",
+"FIPSCode":"36055",
+"Latitude83":"43.21681",
+"Longitude83":"-77.63805"
+}
+,{
+"RegistryId":"110070626622",
+"FacilityName":"FLINT GROUP CPS",
+"LocationAddress":"73 COOK DRIVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"NY055",
+"Latitude83":"43.08341",
+"Longitude83":"-77.64547"
+}
+,{
+"RegistryId":"110040436061",
+"FacilityName":"FLINT GROUP NORTH AMERICA CORP",
+"LocationAddress":"1128 LEXINGTON AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606",
+"FIPSCode":"NY055",
+"Latitude83":"43.1792",
+"Longitude83":"-77.6607"
+}
+,{
+"RegistryId":"110055497626",
+"FacilityName":"GATES FACILITY",
+"LocationAddress":"1085 BUFFALO RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.14997",
+"Longitude83":"-77.680572"
+}
+,{
+"RegistryId":"110004318505",
+"FacilityName":"GE MDS LLC",
+"LocationAddress":"175 SCIENCE PKWY",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14620",
+"FIPSCode":"36055",
+"Latitude83":"43.11798",
+"Longitude83":"-77.61226"
+}
+,{
+"RegistryId":"110000904317",
+"FacilityName":"GENERAL RAILWAY SIGNAL CORP",
+"LocationAddress":"801 WEST AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611-2453",
+"FIPSCode":"36055",
+"Latitude83":"43.14951",
+"Longitude83":"-77.66252"
+}
+,{
+"RegistryId":"110000848655",
+"FacilityName":"GENESEE VALLEY METAL FINISHING",
+"LocationAddress":"244 VERONA ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146080000",
+"FIPSCode":"36055",
+"Latitude83":"43.16128",
+"Longitude83":"-77.62329"
+}
+,{
+"RegistryId":"110000328075",
+"FacilityName":"GETINGE SOURCING LLC",
+"LocationAddress":"1777 EAST HENRIETTA ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623-3133",
+"FIPSCode":"36055",
+"Latitude83":"43.08586",
+"Longitude83":"-77.6087"
+}
+,{
+"RegistryId":"110000327824",
+"FacilityName":"GM COMPONENTS HOLDINGS LLC",
+"LocationAddress":"1000 LEXINGTON AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606-2810",
+"FIPSCode":"36055",
+"Latitude83":"43.17923",
+"Longitude83":"-77.65488"
+}
+,{
+"RegistryId":"110001617135",
+"FacilityName":"GMC AUTOMOTIVE SYSTEMS LEE RD PLANT",
+"LocationAddress":"500 LEE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606-4256",
+"FIPSCode":"36055",
+"Latitude83":"43.17684",
+"Longitude83":"-77.68063"
+}
+,{
+"RegistryId":"110019495278",
+"FacilityName":"GRIFFITH ENERGY - ROCHESTER TERMINAL",
+"LocationAddress":"275 MCKEE RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"36055",
+"Latitude83":"43.15576",
+"Longitude83":"-77.66765"
+}
+,{
+"RegistryId":"110000328066",
+"FacilityName":"HAMMER LITHOGRAPH CORP",
+"LocationAddress":"330 METRO PARK",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146232696",
+"FIPSCode":"36055",
+"Latitude83":"43.09587",
+"Longitude83":"-77.62286"
+}
+,{
+"RegistryId":"110002094901",
+"FacilityName":"HAMMER PACKAGING CORP",
+"LocationAddress":"200 LUCIUS GORDON DR.",
+"SupplementalLocation":null,
+"CityName":"WEST HENRIETTA",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14586",
+"FIPSCode":"36055",
+"Latitude83":"43.06954",
+"Longitude83":"-77.68437"
+}
+,{
+"RegistryId":"110001575288",
+"FacilityName":"HARDWOOD HOUSE INC",
+"LocationAddress":"569 LYELL AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606-1841",
+"FIPSCode":"36055",
+"Latitude83":"43.16464",
+"Longitude83":"-77.64736"
+}
+,{
+"RegistryId":"110000808797",
+"FacilityName":"HARRIS CORP  RF COMMUNICATIONS DIV",
+"LocationAddress":"570 CULVER ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14609-7442",
+"FIPSCode":"36055",
+"Latitude83":"43.15492",
+"Longitude83":"-77.56886"
+}
+,{
+"RegistryId":"110039496774",
+"FacilityName":"HARRIS CORPORATION, RF COMMUNICATIONS DIVISION",
+"LocationAddress":"50 CARLSON ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14610",
+"FIPSCode":"36055",
+"Latitude83":"43.150751",
+"Longitude83":"-77.560389"
+}
+,{
+"RegistryId":"110046278951",
+"FacilityName":"HARRIS GLOBAL COMMUNICATIONS INC",
+"LocationAddress":"1350 JEFFERSON RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.08702",
+"Longitude83":"-77.5914"
+}
+,{
+"RegistryId":"110000327879",
+"FacilityName":"HIGH FALLS OPERATING CO LLC",
+"LocationAddress":"445 SAINT PAUL ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605",
+"FIPSCode":"36055",
+"Latitude83":"43.164448",
+"Longitude83":"-77.616186"
+}
+,{
+"RegistryId":"110070072093",
+"FacilityName":"HIGH FALLS OPERATING CO. LLC",
+"LocationAddress":"445 ST. PAUL STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14605",
+"FIPSCode":"36055",
+"Latitude83":"43.1647",
+"Longitude83":"-77.61404"
+}
+,{
+"RegistryId":"110000838336",
+"FacilityName":"IMATION ENTERPRISES CORP",
+"LocationAddress":"1999 MOUNT REED BLVD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615-3700",
+"FIPSCode":"36055",
+"Latitude83":"43.19063",
+"Longitude83":"-77.662195"
+}
+,{
+"RegistryId":"110070234692",
+"FacilityName":"IROQUOIS ROCK PRODUCTS/ HENRIETTA DRUM",
+"LocationAddress":"60 RIDGELAND RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.09026",
+"Longitude83":"-77.59993"
+}
+,{
+"RegistryId":"110064134315",
+"FacilityName":"JASCO HEAT TREATING INC",
+"LocationAddress":"75 MACEDON CENTER RD",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450",
+"FIPSCode":"36055",
+"Latitude83":"43.10162",
+"Longitude83":"-77.4309"
+}
+,{
+"RegistryId":"110002094965",
+"FacilityName":"JOHN H HARLAND CO PLANT #22",
+"LocationAddress":"70 METRO PARK",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.09762",
+"Longitude83":"-77.61582"
+}
+,{
+"RegistryId":"110004340080",
+"FacilityName":"KADDIS MANUFACTURING CORP",
+"LocationAddress":"293 PATRIOT WAY",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.11242",
+"Longitude83":"-77.67424"
+}
+,{
+"RegistryId":"110001605175",
+"FacilityName":"KAPLAN CONTAINER CORP",
+"LocationAddress":"130 DESPATCH DR",
+"SupplementalLocation":null,
+"CityName":"EAST ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14445-1448",
+"FIPSCode":"36055",
+"Latitude83":"43.11581",
+"Longitude83":"-77.48465"
+}
+,{
+"RegistryId":"110000327904",
+"FacilityName":"KLEEN BRITE LABORATORIES INC.",
+"LocationAddress":"600 OAK ST.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14608",
+"FIPSCode":"36055",
+"Latitude83":"43.16385",
+"Longitude83":"-77.63018"
+}
+,{
+"RegistryId":"110002094947",
+"FacilityName":"KODAK CO - UTILITIES LAKE STATION",
+"LocationAddress":"541 EDGEMERE DR.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14612",
+"FIPSCode":"36055",
+"Latitude83":"43.27526",
+"Longitude83":"-77.63999"
+}
+,{
+"RegistryId":"110010435065",
+"FacilityName":"LEXINGTON MACHINING",
+"LocationAddress":"677 BUFFALO RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611-2091",
+"FIPSCode":"36055",
+"Latitude83":"43.14996",
+"Longitude83":"-77.66824"
+}
+,{
+"RegistryId":"110070791645",
+"FacilityName":"LI CYCLE INC",
+"LocationAddress":"1720 BOULTER INDUSTRIAL PARK",
+"SupplementalLocation":null,
+"CityName":"WEBSTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14580",
+"FIPSCode":"36055",
+"Latitude83":"43.22713",
+"Longitude83":"-77.39033"
+}
+,{
+"RegistryId":"110070664272",
+"FacilityName":"LI-CYCLE INC - BLDG 350",
+"LocationAddress":"1669 LAKE AVE",
+"SupplementalLocation":"BLDG 350 EASTMAN BUSINESS PARK",
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.196959",
+"Longitude83":"-77.628233"
+}
+,{
+"RegistryId":"110000763674",
+"FacilityName":"LUSTER-COATE METALLIZING CORP.",
+"LocationAddress":"32 E. BUFFALO ST.",
+"SupplementalLocation":null,
+"CityName":"CHURCHVILLE",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"144280390",
+"FIPSCode":"36055",
+"Latitude83":"43.10473",
+"Longitude83":"-77.88088"
+}
+,{
+"RegistryId":"110060257305",
+"FacilityName":"MANITOU CONCRETE- DOLOMITE PRODUCTS CO",
+"LocationAddress":"1260 JEFFERSON RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.08711",
+"Longitude83":"-77.59811"
+}
+,{
+"RegistryId":"110064186036",
+"FacilityName":"MCALPIN INDUSTRIES MONROE PLATING DIV",
+"LocationAddress":"50 BALFOUR ST.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE ",
+"StateAbbr":"NY",
+"ZipCode":"14621",
+"FIPSCode":null,
+"Latitude83":"43.18245",
+"Longitude83":"-77.61829"
+}
+,{
+"RegistryId":"110000498364",
+"FacilityName":"MERSEN USA SPM",
+"LocationAddress":"1500 JEFFERSON ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.08704",
+"Longitude83":"-77.58707"
+}
+,{
+"RegistryId":"110000883633",
+"FacilityName":"METALADE INC FINISHING & ASSEMBLY DIV",
+"LocationAddress":"39 COMMERCE DRIVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.08116",
+"Longitude83":"-77.64107"
+}
+,{
+"RegistryId":"110004562517",
+"FacilityName":"MICROPEN TECHNOLOGIES CORP",
+"LocationAddress":"93 PAPER MILL ST",
+"SupplementalLocation":null,
+"CityName":"HONEOYE FALLS",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14472",
+"FIPSCode":"36055",
+"Latitude83":"42.94969",
+"Longitude83":"-77.58262"
+}
+,{
+"RegistryId":"110070690365",
+"FacilityName":"MILLER BRICK COMPANY",
+"LocationAddress":"734 RIDGEWAY AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.19391",
+"Longitude83":"-77.64972"
+}
+,{
+"RegistryId":"110004393095",
+"FacilityName":"MKS INSTRUMENTS - POWER SOLUTIONS",
+"LocationAddress":"100 HIGHPOWER RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.07744",
+"Longitude83":"-77.6601"
+}
+,{
+"RegistryId":"110000809019",
+"FacilityName":"MONROE COMMUNITY COLLEGE",
+"LocationAddress":"321 STATE ST",
+"SupplementalLocation":"FKA PART OF 343 STATE ST",
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14650",
+"FIPSCode":"36055",
+"Latitude83":"43.16084",
+"Longitude83":"-77.61871"
+}
+,{
+"RegistryId":"110000881314",
+"FacilityName":"MONROE CTY GREATER ROCHESTER INT`L APRT",
+"LocationAddress":"1185 SCOTTSVILLE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624-5123",
+"FIPSCode":"36055",
+"Latitude83":"43.11954",
+"Longitude83":"-77.65414"
+}
+,{
+"RegistryId":"110000327655",
+"FacilityName":"MONROE FLUID TECHNOLOGY",
+"LocationAddress":"36 DRAFFIN RD.",
+"SupplementalLocation":null,
+"CityName":"HILTON",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"144680810",
+"FIPSCode":"36055",
+"Latitude83":"43.26879",
+"Longitude83":"-77.83374"
+}
+,{
+"RegistryId":"110001609938",
+"FacilityName":"MONROE LITHO",
+"LocationAddress":"39 DELEVAN STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605-2890",
+"FIPSCode":"36055",
+"Latitude83":"43.161915",
+"Longitude83":"-77.601495"
+}
+,{
+"RegistryId":"110015588933",
+"FacilityName":"NATIONWIDE CIRCUITS INC",
+"LocationAddress":"1444 EMERSON ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606",
+"FIPSCode":"36055",
+"Latitude83":"43.17384",
+"Longitude83":"-77.67032"
+}
+,{
+"RegistryId":"110000328011",
+"FacilityName":"NU-KOTE INTERNATIONAL",
+"LocationAddress":"1227 RIDGEWAY AVE.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146153713",
+"FIPSCode":"36055",
+"Latitude83":"43.193902",
+"Longitude83":"-77.663715"
+}
+,{
+"RegistryId":"110071044384",
+"FacilityName":"OFD FOODS, LLC",
+"LocationAddress":"1000 RUSH HENRIETTA TOWNLINE RD",
+"SupplementalLocation":null,
+"CityName":"RUSH",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14543",
+"FIPSCode":"36055",
+"Latitude83":"43.018244",
+"Longitude83":"-77.663154"
+}
+,{
+"RegistryId":"110070507087",
+"FacilityName":"OFD PLANT 4",
+"LocationAddress":"1000 RUSH HENRIETTA TOWNLINE ROAD",
+"SupplementalLocation":null,
+"CityName":"WEST HENRIETTA",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14586",
+"FIPSCode":"36055",
+"Latitude83":"43.017766",
+"Longitude83":"-77.662081"
+}
+,{
+"RegistryId":"110009483317",
+"FacilityName":"OLDCASTLE APG NEW ENGLAND",
+"LocationAddress":"735 WANGUM RD",
+"SupplementalLocation":null,
+"CityName":"FISHERS",
+"CountyName":"ONTARIO",
+"StateAbbr":"NY",
+"ZipCode":"14453",
+"FIPSCode":"36069",
+"Latitude83":"43.012",
+"Longitude83":"-77.469"
+}
+,{
+"RegistryId":"110071432788",
+"FacilityName":"OLDCASTLE APG NEW ENGLAND",
+"LocationAddress":"735 WANGUM RD",
+"SupplementalLocation":null,
+"CityName":"VICTOR",
+"CountyName":"ONTARIO COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14564",
+"FIPSCode":"36069",
+"Latitude83":"43.003158",
+"Longitude83":"-77.469749"
+}
+,{
+"RegistryId":"110000328119",
+"FacilityName":"ORTHO-CLINICAL DIAGNOSTICS BUILDING 313",
+"LocationAddress":"513 TECHNOLOGY BLVD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14652",
+"FIPSCode":"36055",
+"Latitude83":"43.19822",
+"Longitude83":"-77.6666"
+}
+,{
+"RegistryId":"110000328155",
+"FacilityName":"PFAUDLER INC",
+"LocationAddress":"1000 W. AVE.",
+"SupplementalLocation":"PO BOX 23600",
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14692",
+"FIPSCode":"36055",
+"Latitude83":"43.147681",
+"Longitude83":"-77.668689"
+}
+,{
+"RegistryId":"110001575180",
+"FacilityName":"PHOTEC, INC",
+"LocationAddress":"1000 DRIVING PARK AV",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14613",
+"FIPSCode":"36055",
+"Latitude83":"43.18636",
+"Longitude83":"-77.65751"
+}
+,{
+"RegistryId":"110071082118",
+"FacilityName":"PLUG POWER INNOVATION CENTER",
+"LocationAddress":"1025 JOHN ST",
+"SupplementalLocation":null,
+"CityName":"WEST HENRIETTA",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14586",
+"FIPSCode":"NY055",
+"Latitude83":"43.06644",
+"Longitude83":"-77.66924"
+}
+,{
+"RegistryId":"110002094803",
+"FacilityName":"PLYMOUTH ROCK PROVISION CO",
+"LocationAddress":"25 O'CONNOR RD.",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450-1327",
+"FIPSCode":"36055",
+"Latitude83":"43.10715",
+"Longitude83":"-77.45909"
+}
+,{
+"RegistryId":"110004339911",
+"FacilityName":"QUALITROL CO., LLC",
+"LocationAddress":"1385 FAIRPORT RD.",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450",
+"FIPSCode":"NY055",
+"Latitude83":"43.098265",
+"Longitude83":"-77.458918"
+}
+,{
+"RegistryId":"110000327986",
+"FacilityName":"R G & E BEEBEE STATION",
+"LocationAddress":"254 MILL ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14614",
+"FIPSCode":"36055",
+"Latitude83":"43.162398",
+"Longitude83":"-77.616898"
+}
+,{
+"RegistryId":"110000498355",
+"FacilityName":"R G & E RUSSELL GENERATING STATION",
+"LocationAddress":"1101 BEACH AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14612",
+"FIPSCode":"36055",
+"Latitude83":"43.268788",
+"Longitude83":"-77.631271"
+}
+,{
+"RegistryId":"110000327780",
+"FacilityName":"RADAX INDUSTRIES INC",
+"LocationAddress":"700 BASKET RD.",
+"SupplementalLocation":null,
+"CityName":"WEBSTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"145809724",
+"FIPSCode":"36055",
+"Latitude83":"43.22633",
+"Longitude83":"-77.38737"
+}
+,{
+"RegistryId":"110006446328",
+"FacilityName":"RAPID PRECISION MACHINING INC",
+"LocationAddress":"625 FISHERS RUN",
+"SupplementalLocation":null,
+"CityName":"VICTOR",
+"CountyName":"ONTARIO",
+"StateAbbr":"NY",
+"ZipCode":"14564",
+"FIPSCode":"36069",
+"Latitude83":"43.00932",
+"Longitude83":"-77.45245"
+}
+,{
+"RegistryId":"110000328137",
+"FacilityName":"RAY-BAN SUN OPTICS INC",
+"LocationAddress":"465 PAUL ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624-4779",
+"FIPSCode":"36055",
+"Latitude83":"43.102157",
+"Longitude83":"-77.707559"
+}
+,{
+"RegistryId":"110071856454",
+"FacilityName":"RED-ROCHESTER LLC - EASTMAN BUSINESS PARK",
+"LocationAddress":"1669 LAKE AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.196959",
+"Longitude83":"-77.628233"
+}
+,{
+"RegistryId":"110060261416",
+"FacilityName":"RED-ROCHESTER LLC - EASTMAN BUSINESS PARK",
+"LocationAddress":"1200 RIDGEWAY AVENUE, SUITE 2121",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.19392",
+"Longitude83":"-77.662794"
+}
+,{
+"RegistryId":"110018934215",
+"FacilityName":"REDCOM LABORATORIES INC",
+"LocationAddress":"ONE REDCOM CENTER",
+"SupplementalLocation":null,
+"CityName":"VICTOR",
+"CountyName":"ONTARIO",
+"StateAbbr":"NY",
+"ZipCode":"14564",
+"FIPSCode":"36069",
+"Latitude83":"43.00875",
+"Longitude83":"-77.44704"
+}
+,{
+"RegistryId":"110000327977",
+"FacilityName":"ROCHESTER BRONZE & ALUMINUM FOUNDRY CO",
+"LocationAddress":"57 SHERER ST.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146111696",
+"FIPSCode":"36055",
+"Latitude83":"43.15349",
+"Longitude83":"-77.649874"
+}
+,{
+"RegistryId":"110040141218",
+"FacilityName":"ROCHESTER COMPUTER RECYCLING & RECOVERY LLC - EWASTE",
+"LocationAddress":"7318 VICTOR MENDON RD",
+"SupplementalLocation":null,
+"CityName":"VICTOR",
+"CountyName":"ONTARIO",
+"StateAbbr":"NY",
+"ZipCode":"14564",
+"FIPSCode":"36069",
+"Latitude83":"42.99543",
+"Longitude83":"-77.43216"
+}
+,{
+"RegistryId":"110001595426",
+"FacilityName":"ROCHESTER FORM MACHINE, I",
+"LocationAddress":"30 PIXLEY INDUSTRIAL PARKWAY",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624-2323",
+"FIPSCode":"36055",
+"Latitude83":"43.14095",
+"Longitude83":"-77.71352"
+}
+,{
+"RegistryId":"110019363491",
+"FacilityName":"ROCHESTER HAULING FACILITY",
+"LocationAddress":"1661 MT READ BLVD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606-2825",
+"FIPSCode":"36055",
+"Latitude83":"43.18435",
+"Longitude83":"-77.65959"
+}
+,{
+"RegistryId":"110000327940",
+"FacilityName":"ROCHESTER HEAVY TERMINAL",
+"LocationAddress":"22 CAIRN STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611-2416",
+"FIPSCode":"36055",
+"Latitude83":"43.142278",
+"Longitude83":"-77.667333"
+}
+,{
+"RegistryId":"110044285715",
+"FacilityName":"ROCHESTER MIDLAND CORP",
+"LocationAddress":"155 PARAGON DR",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.16075",
+"Longitude83":"-77.76449"
+}
+,{
+"RegistryId":"110000328057",
+"FacilityName":"ROCHESTER MIDLAND CORPORATION",
+"LocationAddress":"333 HOLLENBECK ST.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146211328",
+"FIPSCode":"36055",
+"Latitude83":"43.185089",
+"Longitude83":"-77.617274"
+}
+,{
+"RegistryId":"110000327851",
+"FacilityName":"ROCHESTER NY DISTRIBUTION WAREHOUSE",
+"LocationAddress":"123 UPPER FALLS BLVD.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146052185",
+"FIPSCode":"36055",
+"Latitude83":"43.16872",
+"Longitude83":"-77.61525"
+}
+,{
+"RegistryId":"110000327968",
+"FacilityName":"ROCHESTER OVERNIGHT PLATING",
+"LocationAddress":"2 CAIRN ST.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146112476",
+"FIPSCode":"36055",
+"Latitude83":"43.14991",
+"Longitude83":"-77.65966"
+}
+,{
+"RegistryId":"110043988478",
+"FacilityName":"ROCHESTER PRECISION OPTICS LLC",
+"LocationAddress":"850 JOHN ST",
+"SupplementalLocation":null,
+"CityName":"WEST HENRIETTA",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14586",
+"FIPSCode":"36055",
+"Latitude83":"43.07124",
+"Longitude83":"-77.66566"
+}
+,{
+"RegistryId":"110043983927",
+"FacilityName":"ROCHESTER SILVER WORKS LLC",
+"LocationAddress":"725 W RIDGE RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.202435",
+"Longitude83":"-77.644508"
+}
+,{
+"RegistryId":"110000327860",
+"FacilityName":"ROCHESTER STEEL TREATING WORKS",
+"LocationAddress":"962 EAST MAIN STREET",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605-2742",
+"FIPSCode":"36055",
+"Latitude83":"43.16158",
+"Longitude83":"-77.5865"
+}
+,{
+"RegistryId":"110000328093",
+"FacilityName":"ROEHLEN ENGRAVING",
+"LocationAddress":"701 JEFFERSON RD.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146233233",
+"FIPSCode":"36055",
+"Latitude83":"43.086973",
+"Longitude83":"-77.624615"
+}
+,{
+"RegistryId":"110000807208",
+"FacilityName":"RON INK CO INC",
+"LocationAddress":"61 HALSTEAD ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146100000",
+"FIPSCode":"36055",
+"Latitude83":"43.14737",
+"Longitude83":"-77.55184"
+}
+,{
+"RegistryId":"110000327753",
+"FacilityName":"SABIN METALS CORP",
+"LocationAddress":"1647 WHEATLAND CENTER RD",
+"SupplementalLocation":null,
+"CityName":"SCOTTSVILLE",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14546-0905",
+"FIPSCode":"36055",
+"Latitude83":"43.00501",
+"Longitude83":"-77.82149"
+}
+,{
+"RegistryId":"110000328164",
+"FacilityName":"SCHLEGEL SYSTEMS INC",
+"LocationAddress":"1555 JEFFERSON RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"36055",
+"Latitude83":"43.085833",
+"Longitude83":"-77.586667"
+}
+,{
+"RegistryId":"110013336531",
+"FacilityName":"SENDEC CORP",
+"LocationAddress":"151 PERINTON PKY.",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450-9104",
+"FIPSCode":"36055",
+"Latitude83":"43.08907",
+"Longitude83":"-77.39248"
+}
+,{
+"RegistryId":"110001134969",
+"FacilityName":"SENTRY GROUP",
+"LocationAddress":"900 LINDEN AVE.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146252784",
+"FIPSCode":"36055",
+"Latitude83":"43.119313",
+"Longitude83":"-77.49304"
+}
+,{
+"RegistryId":"110001590537",
+"FacilityName":"SOMERVILLE RENDOLL PAPER OPERATIONS",
+"LocationAddress":"439 CENTRAL AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605-3016",
+"FIPSCode":"36055",
+"Latitude83":"43.16286",
+"Longitude83":"-77.60472"
+}
+,{
+"RegistryId":"110000807164",
+"FacilityName":"SOUTHCO / HONEOYE FALLS DIVISION",
+"LocationAddress":"250 EAST ST",
+"SupplementalLocation":null,
+"CityName":"HONEOYE FALLS",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14472",
+"FIPSCode":"36055",
+"Latitude83":"42.955749",
+"Longitude83":"-77.574131"
+}
+,{
+"RegistryId":"110004534503",
+"FacilityName":"SPS MEDICAL SUPPLY CORP",
+"LocationAddress":"6789 W HENRIETTA RD",
+"SupplementalLocation":null,
+"CityName":"RUSH",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14543",
+"FIPSCode":"36055",
+"Latitude83":"43.01873",
+"Longitude83":"-77.66781"
+}
+,{
+"RegistryId":"110000327842",
+"FacilityName":"SPX CORP   LIGHTNING DIV",
+"LocationAddress":"135 MT. READ BLVD.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14611",
+"FIPSCode":"36055",
+"Latitude83":"43.154073",
+"Longitude83":"-77.661882"
+}
+,{
+"RegistryId":"110004339573",
+"FacilityName":"SPX FLOW US LLC - MILLSTEAD WAY",
+"LocationAddress":"1000 MILLSTEAD WAY",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.10923",
+"Longitude83":"-77.67808"
+}
+,{
+"RegistryId":"110041965861",
+"FacilityName":"ST IVES INC CASE HOYT",
+"LocationAddress":"100 BEAVER RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.09552",
+"Longitude83":"-77.74559"
+}
+,{
+"RegistryId":"110030736817",
+"FacilityName":"STAR OF THE WEST MILLING CO. NEW, YORK",
+"LocationAddress":"35 MAIN STREET",
+"SupplementalLocation":null,
+"CityName":"CHURCHVILLE",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14428",
+"FIPSCode":"36055",
+"Latitude83":"43.102949",
+"Longitude83":"-77.884833"
+}
+,{
+"RegistryId":"110019506818",
+"FacilityName":"STONE CONSTRUCTION EQUIPMENT INC",
+"LocationAddress":"32 EAST MAIN ST",
+"SupplementalLocation":null,
+"CityName":"HONEOYE",
+"CountyName":"ONTARIO",
+"StateAbbr":"NY",
+"ZipCode":"14471-0150",
+"FIPSCode":null,
+"Latitude83":"42.95229",
+"Longitude83":"-77.59203"
+}
+,{
+"RegistryId":"110064436187",
+"FacilityName":"SUPERIOR PLUS ENERGY SERVICES-MACEDON",
+"LocationAddress":"922 MACEDON CENTER RD",
+"SupplementalLocation":null,
+"CityName":"MACEDON",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14502",
+"FIPSCode":"36117",
+"Latitude83":"43.094258",
+"Longitude83":"-77.333583"
+}
+,{
+"RegistryId":"110044284958",
+"FacilityName":"TCS INDUSTRIES INC",
+"LocationAddress":"400 TRABOLD RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.134977",
+"Longitude83":"-77.723921"
+}
+,{
+"RegistryId":"110002094910",
+"FacilityName":"TEL-TRU MANUFACTURING",
+"LocationAddress":"392 ST. PAUL ST.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14605-1785",
+"FIPSCode":"36055",
+"Latitude83":"43.16385",
+"Longitude83":"-77.6131"
+}
+,{
+"RegistryId":"110000328146",
+"FacilityName":"THE GLEASON WORKS",
+"LocationAddress":"1000 UNIVERSITY AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14607-1239",
+"FIPSCode":"36055",
+"Latitude83":"43.154308",
+"Longitude83":"-77.575614"
+}
+,{
+"RegistryId":"110012708025",
+"FacilityName":"THERMO SPECTRONIC",
+"LocationAddress":"820 LINDEN AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14625-2710",
+"FIPSCode":"36055",
+"Latitude83":"43.12021",
+"Longitude83":"-77.50081"
+}
+,{
+"RegistryId":"110044285911",
+"FacilityName":"TRUESENSE IMAGING INC",
+"LocationAddress":"1964 LAKE AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615",
+"FIPSCode":"36055",
+"Latitude83":"43.20357",
+"Longitude83":"-77.62837"
+}
+,{
+"RegistryId":"110000328100",
+"FacilityName":"TYCO ELECTRONICS",
+"LocationAddress":"250 METRO PARK",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146232685",
+"FIPSCode":"36055",
+"Latitude83":"43.0975",
+"Longitude83":"-77.62198"
+}
+,{
+"RegistryId":"110000328084",
+"FacilityName":"UNITHER MANUFACTURING LLC",
+"LocationAddress":"755 JEFFERSON RD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14623",
+"FIPSCode":"NY055",
+"Latitude83":"43.084207",
+"Longitude83":"-77.621621"
+}
+,{
+"RegistryId":"110002094938",
+"FacilityName":"UPSTATE NIAGARA COOPERATIVE INC",
+"LocationAddress":"45 FULTON AVE.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14608",
+"FIPSCode":"36055",
+"Latitude83":"43.16961",
+"Longitude83":"-77.62855"
+}
+,{
+"RegistryId":"110021343269",
+"FacilityName":"VALEO ELECTRICAL SYSTEMS INC",
+"LocationAddress":"1555 LYELL AVE.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"146060230",
+"FIPSCode":"36055",
+"Latitude83":"43.16468",
+"Longitude83":"-77.667091"
+}
+,{
+"RegistryId":"110001574902",
+"FacilityName":"VAN DEN BERGH FOODS CO",
+"LocationAddress":"1680 LYELL AVENUE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14606-2312",
+"FIPSCode":"36055",
+"Latitude83":"43.164674",
+"Longitude83":"-77.670282"
+}
+,{
+"RegistryId":"110046278924",
+"FacilityName":"VETTE TECHNOLOGY, L.L.C.",
+"LocationAddress":"6377 DEAN PKWY",
+"SupplementalLocation":null,
+"CityName":"ONTARIO",
+"CountyName":"WAYNE",
+"StateAbbr":"NY",
+"ZipCode":"14519",
+"FIPSCode":"36117",
+"Latitude83":"43.23204",
+"Longitude83":"-77.36418"
+}
+,{
+"RegistryId":"110009465239",
+"FacilityName":"VOPLEX CORP, ALLERTON CHEMICAL DIV",
+"LocationAddress":"763 LINDEN AVE",
+"SupplementalLocation":null,
+"CityName":"PITTSFORD",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14534",
+"FIPSCode":"36055",
+"Latitude83":"43.121035",
+"Longitude83":"-77.505718"
+}
+,{
+"RegistryId":"110055971275",
+"FacilityName":"WEGMANS FOOD MARKETS - CULINARY INNOVATION CENTER",
+"LocationAddress":"360 WEGMANS MARKET ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14624",
+"FIPSCode":"36055",
+"Latitude83":"43.119428",
+"Longitude83":"-77.698221"
+}
+,{
+"RegistryId":"110004446252",
+"FacilityName":"WESTERN BITUMINOUS PRODS",
+"LocationAddress":"2 ROCKWOOD ST",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14610",
+"FIPSCode":"36055",
+"Latitude83":"43.1442",
+"Longitude83":"-77.54975"
+}
+,{
+"RegistryId":"110019051238",
+"FacilityName":"WINDSOR TECHNOLOGY",
+"LocationAddress":"300 SCIENCE PARKWAY-ROCH SC PK",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14620-4257",
+"FIPSCode":"36055",
+"Latitude83":"43.120034",
+"Longitude83":"-77.610207"
+}
+,{
+"RegistryId":"110037143123",
+"FacilityName":"WINDSOR TECHNOLOGY LLC",
+"LocationAddress":"1527 LYELL AVE",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE COUNTY",
+"StateAbbr":"NY",
+"ZipCode":"14606",
+"FIPSCode":"36055",
+"Latitude83":"43.16468",
+"Longitude83":"-77.666202"
+}
+,{
+"RegistryId":"110002094992",
+"FacilityName":"WINROSS CO INC",
+"LocationAddress":"70 PANORAMA CREEK DR.",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14625",
+"FIPSCode":"36055",
+"Latitude83":"43.13181",
+"Longitude83":"-77.49932"
+}
+,{
+"RegistryId":"110001575420",
+"FacilityName":"WM- HIGH ACRES SANITARY LANDFILL AND RECYCLING CENTER",
+"LocationAddress":"425 PERINTON PKWY",
+"SupplementalLocation":null,
+"CityName":"FAIRPORT",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14450",
+"FIPSCode":"36055",
+"Latitude83":"43.084432",
+"Longitude83":"-77.38096"
+}
+,{
+"RegistryId":"110000327799",
+"FacilityName":"XEROX CORPORATION",
+"LocationAddress":"800 PHILLIPS ROAD",
+"SupplementalLocation":null,
+"CityName":"WEBSTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14580",
+"FIPSCode":"36055",
+"Latitude83":"43.227834",
+"Longitude83":"-77.411534"
+}
+,{
+"RegistryId":"110000328002",
+"FacilityName":"XPEDX-ALLING AND CORY",
+"LocationAddress":"1059 WEST RIDGE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROCHESTER",
+"CountyName":"MONROE",
+"StateAbbr":"NY",
+"ZipCode":"14615-2731",
+"FIPSCode":"36055",
+"Latitude83":"43.203684",
+"Longitude83":"-77.655275"
+}
+]
+}
+}

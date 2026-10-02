@@ -1,0 +1,33 @@
+{
+  "protocol": "Site-level 75/25 split stratified by city and label; fixed seed 813; train-only three-fold model selection",
+  "n_train": 36,
+  "n_test": 12,
+  "test_by_city_and_class": "{('Detroit', 0): 2, ('Detroit', 1): 2, ('Jacksonville', 0): 2, ('Jacksonville', 1): 2, ('Rochester', 0): 2, ('Rochester', 1): 2}",
+  "n_industrial_sites": 24,
+  "n_school_controls": 24,
+  "negative_categories": {
+    "OSM school comparison": 24
+  },
+  "feature_count": 60,
+  "candidate_components_cv_accuracy": {
+    "4": 0.6944444444444443,
+    "8": 0.7222222222222222,
+    "12": 0.7222222222222222
+  },
+  "selected_pca_components": 8,
+  "test_accuracy": 0.9166666666666666,
+  "test_auc": 0.9444444444444444,
+  "test_precision": 0.8571428571428571,
+  "test_recall": 1.0,
+  "test_confusion_matrix_school_industrial": [
+    [
+      5,
+      1
+    ],
+    [
+      0,
+      6
+    ]
+  ],
+  "interpretation": "Registry and OSM polygon labels are proxies; small held-out site set; score is not factory-wide accuracy or emission attribution."
+}

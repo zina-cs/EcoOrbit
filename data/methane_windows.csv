@@ -1,0 +1,6 @@
+site_id,window_start,window_end,reason,event_evidence
+stanford_arizona,2022-10-10,2022-11-30,published_controlled_release_period,published_releases_and_blind_tests
+hassi_rmel,2020-01-01,2020-01-15,sample_from_published_2020_study,regional_methane_study_not_specific_date
+jeddah_landfill,2024-02-24,2024-02-28,user_proposed_Feb_26_2024,unverified_event_date
+jeddah_landfill,2024-06-07,2024-06-11,user_proposed_Jun_09_2024,unverified_event_date
+jeddah_landfill,2024-10-13,2024-10-17,user_proposed_Oct_15_2024,unverified_event_date

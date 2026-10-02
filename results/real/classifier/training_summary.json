@@ -1,0 +1,19 @@
+{
+  "n_industrial_sites": 24,
+  "n_school_controls": 24,
+  "n_cities": 3,
+  "feature_count": 60,
+  "pooled_accuracy": 0.75,
+  "pooled_auc": 0.8038194444444444,
+  "pooled_confusion_matrix": [
+    [
+      21,
+      3
+    ],
+    [
+      9,
+      15
+    ]
+  ],
+  "limitation": "Weak site labels; 150m context includes non-roof pixels; school-only negatives; city holdout tests cross-city transfer, not factory-wide parcel accuracy"
+}

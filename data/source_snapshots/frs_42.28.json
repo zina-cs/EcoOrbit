@@ -1,0 +1,6012 @@
+{
+"Results":{
+"FRSFacility":[
+{
+"RegistryId":"110000593055",
+"FacilityName":"3M DETROIT ABRASIVES",
+"LocationAddress":"11900 E EIGHT MILE RD",
+"SupplementalLocation":"P.O. BOX 05130",
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48205",
+"FIPSCode":"26163",
+"Latitude83":"42.4489",
+"Longitude83":"-83.00238"
+}
+,{
+"RegistryId":"110000405865",
+"FacilityName":"AAR CARGO SYSTEMS",
+"LocationAddress":"12633 INKSTER RD.",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481502272",
+"FIPSCode":"26163",
+"Latitude83":"42.37775",
+"Longitude83":"-83.31386"
+}
+,{
+"RegistryId":"110042013889",
+"FacilityName":"AEVITAS SPECIALTY SERVICES CORP",
+"LocationAddress":"663 LYCASTE ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214-3474",
+"FIPSCode":"26163",
+"Latitude83":"42.365441",
+"Longitude83":"-82.966067"
+}
+,{
+"RegistryId":"110002118039",
+"FacilityName":"AEVITAS SPECIALTY SERVICES CORP",
+"LocationAddress":"12680 BEECH DALY RD",
+"SupplementalLocation":null,
+"CityName":"REDFORD",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239",
+"FIPSCode":"26163",
+"Latitude83":"42.379382",
+"Longitude83":"-83.295218"
+}
+,{
+"RegistryId":"110054838459",
+"FacilityName":"AIR PRODUCTS & CHEMICALS INC/DETROIT HYDROGEN FACILITY",
+"LocationAddress":"1025 OAKWOOD BLVD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.28689",
+"Longitude83":"-83.15642"
+}
+,{
+"RegistryId":"110067126096",
+"FacilityName":"AIR PRODUCTS AND CHEMICALS INC./DETROIT HYDROGEN FACILITY MARATHON REFINERY",
+"LocationAddress":"1025 OAKWOOD BLVD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.28689",
+"Longitude83":"-83.15642"
+}
+,{
+"RegistryId":"110000406551",
+"FacilityName":"AJAX METAL PROCESSING INC. (B5830)",
+"LocationAddress":"4651 BELLEVUE STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207-1713",
+"FIPSCode":"26163",
+"Latitude83":"42.369",
+"Longitude83":"-83.0222"
+}
+,{
+"RegistryId":"110000405311",
+"FacilityName":"AJAX METAL PROCESSING-COLD",
+"LocationAddress":"22105 HOOVER ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.45856",
+"Longitude83":"-83.00552"
+}
+,{
+"RegistryId":"110001299041",
+"FacilityName":"AKZO COATINGS INC",
+"LocationAddress":"1221 EAST MCNICHOLS ROAD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203",
+"FIPSCode":"26163",
+"Latitude83":"42.41814",
+"Longitude83":"-83.09068"
+}
+,{
+"RegistryId":"110000406800",
+"FacilityName":"ALCO PRODUCTS, LLC",
+"LocationAddress":"580 ST. JEAN ST.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214-3476",
+"FIPSCode":"26163",
+"Latitude83":"42.36286",
+"Longitude83":"-82.96788"
+}
+,{
+"RegistryId":"110009596437",
+"FacilityName":"ALDOA CO",
+"LocationAddress":"12727 WESTWOOD AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223-3433",
+"FIPSCode":"26163",
+"Latitude83":"42.3808",
+"Longitude83":"-83.23172"
+}
+,{
+"RegistryId":"110001680798",
+"FacilityName":"ALLIED KELITE PRO DV",
+"LocationAddress":"364 MIDLAND AVENUE",
+"SupplementalLocation":null,
+"CityName":"HIGHLAND PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203-3734",
+"FIPSCode":"26163",
+"Latitude83":"42.40672",
+"Longitude83":"-83.1126"
+}
+,{
+"RegistryId":"110056954434",
+"FacilityName":"ALPHA RESINS, LLC",
+"LocationAddress":"17350 RYAN ROAD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.42183",
+"Longitude83":"-83.06259"
+}
+,{
+"RegistryId":"110002117691",
+"FacilityName":"ALTA RACK CO",
+"LocationAddress":"1015 SPRUCE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48201-2535",
+"FIPSCode":"26163",
+"Latitude83":"42.33813",
+"Longitude83":"-83.06426"
+}
+,{
+"RegistryId":"110000406757",
+"FacilityName":"AMERICAN AXLE & MFG",
+"LocationAddress":"1840 HOLBROOK AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212-3442",
+"FIPSCode":"26163",
+"Latitude83":"42.3889",
+"Longitude83":"-83.0628"
+}
+,{
+"RegistryId":"110011807580",
+"FacilityName":"AMERICAN JETWAY CORPORATION",
+"LocationAddress":"34136 MYRTLE STREET",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481841729",
+"FIPSCode":"26163",
+"Latitude83":"42.279167",
+"Longitude83":"-83.375073"
+}
+,{
+"RegistryId":"110002117959",
+"FacilityName":"AMERICAN PETROLEUM",
+"LocationAddress":"12345 SCHAEFER HWY",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227-3421",
+"FIPSCode":"26163",
+"Latitude83":"42.378635",
+"Longitude83":"-83.178183"
+}
+,{
+"RegistryId":"110000779890",
+"FacilityName":"AMERICAN STEEL CORP",
+"LocationAddress":"7170 EAST MCNICHOLS ROAD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212-2037",
+"FIPSCode":"26163",
+"Latitude83":"42.41938",
+"Longitude83":"-83.02936"
+}
+,{
+"RegistryId":"110070740392",
+"FacilityName":"AMERITI MANUFACTURING LLC",
+"LocationAddress":"19300 FILER AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.43647",
+"Longitude83":"-83.03784"
+}
+,{
+"RegistryId":"110001301172",
+"FacilityName":"AMETEK PRESTOLITE MOTORS",
+"LocationAddress":"2801 SOUTH BEECH DALY STREET",
+"SupplementalLocation":null,
+"CityName":"DEARBORN HEIGHTS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48125-1156",
+"FIPSCode":"26163",
+"Latitude83":"42.29077",
+"Longitude83":"-83.29026"
+}
+,{
+"RegistryId":"110000852346",
+"FacilityName":"ANCOTECH, INC.",
+"LocationAddress":"2525 BEECH DALY ROAD",
+"SupplementalLocation":null,
+"CityName":"DEARBORN HEIGHTS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48125-1148",
+"FIPSCode":"26163",
+"Latitude83":"42.29396",
+"Longitude83":"-83.29037"
+}
+,{
+"RegistryId":"110002117968",
+"FacilityName":"ANO-TECH INC",
+"LocationAddress":"14200 MEYERS RD.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227",
+"FIPSCode":"26163",
+"Latitude83":"42.39182",
+"Longitude83":"-83.16887"
+}
+,{
+"RegistryId":"110001300100",
+"FacilityName":"APPLIED PROCESS INC.",
+"LocationAddress":"12238 NEWBURGH RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37366",
+"Longitude83":"-83.4116"
+}
+,{
+"RegistryId":"110070812681",
+"FacilityName":"ARCELORMITTAL TAILORED BLANKS AMERICAS CORPORATION",
+"LocationAddress":"8650 MOUNT ELLIOTT ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.391586",
+"Longitude83":"-83.037346"
+}
+,{
+"RegistryId":"110000406677",
+"FacilityName":"ARCO ALLOYS CORP",
+"LocationAddress":"1891 TROMBLY ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-2195",
+"FIPSCode":"26163",
+"Latitude83":"42.37438",
+"Longitude83":"-83.05386"
+}
+,{
+"RegistryId":"110067425904",
+"FacilityName":"ARROW PROFILE CO",
+"LocationAddress":"2845 E 10 MILE RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48091",
+"FIPSCode":"26099",
+"Latitude83":"42.47653",
+"Longitude83":"-83.07484"
+}
+,{
+"RegistryId":"110003706384",
+"FacilityName":"ARROW UNIFORM RENTAL",
+"LocationAddress":"6400 MONROE BLVD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-1814",
+"FIPSCode":"26163",
+"Latitude83":"42.26138",
+"Longitude83":"-83.25027"
+}
+,{
+"RegistryId":"110024887185",
+"FacilityName":"ASC GIBRALTAR",
+"LocationAddress":"28005 FORT ST",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183-4909",
+"FIPSCode":"26163",
+"Latitude83":"42.10506",
+"Longitude83":"-83.22004"
+}
+,{
+"RegistryId":"110001845567",
+"FacilityName":"ASC INC",
+"LocationAddress":"34165 AUTRY",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150-1333",
+"FIPSCode":"26163",
+"Latitude83":"42.38028",
+"Longitude83":"-83.38104"
+}
+,{
+"RegistryId":"110000406445",
+"FacilityName":"ASH STEVENS LLC",
+"LocationAddress":"18655 KRAUSE",
+"SupplementalLocation":null,
+"CityName":"RIVERVIEW",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48193",
+"FIPSCode":"26163",
+"Latitude83":"42.17201",
+"Longitude83":"-83.17414"
+}
+,{
+"RegistryId":"110000899948",
+"FacilityName":"AUTOMOTIVE FINISHES INC.",
+"LocationAddress":"6430 WYOMING AVENUE",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48126-2342",
+"FIPSCode":"26163",
+"Latitude83":"42.33762",
+"Longitude83":"-83.157"
+}
+,{
+"RegistryId":"110064445667",
+"FacilityName":"AZTECA CONCRETE-REDFORD",
+"LocationAddress":"24940 PLYMOUTH RD",
+"SupplementalLocation":null,
+"CityName":"REDFORD",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48239",
+"FIPSCode":"26163",
+"Latitude83":"42.37102",
+"Longitude83":"-83.28432"
+}
+,{
+"RegistryId":"110000406702",
+"FacilityName":"BAKER & COLLINSON INC",
+"LocationAddress":"12000 MT ELLIOTT AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.4117",
+"Longitude83":"-83.03812"
+}
+,{
+"RegistryId":"110042029961",
+"FacilityName":"BARNES FAMILY GROUP WYANDOTTE LLC",
+"LocationAddress":"3776 11TH ST",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.19436",
+"Longitude83":"-83.16628"
+}
+,{
+"RegistryId":"110000908956",
+"FacilityName":"BASF CORP",
+"LocationAddress":"1700 CANIFF AVENUE",
+"SupplementalLocation":null,
+"CityName":"HAMTRAMCK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.39591",
+"Longitude83":"-83.07041"
+}
+,{
+"RegistryId":"110000407168",
+"FacilityName":"BASF CORP",
+"LocationAddress":"3301 BOURKE AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238",
+"FIPSCode":"26163",
+"Latitude83":"42.39893",
+"Longitude83":"-83.13305"
+}
+,{
+"RegistryId":"110001139036",
+"FacilityName":"BASF CORP",
+"LocationAddress":"5935 MILFORD AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210",
+"FIPSCode":"26163",
+"Latitude83":"42.3473",
+"Longitude83":"-83.12793"
+}
+,{
+"RegistryId":"110000494019",
+"FacilityName":"BASF CORP  - WYANDOTTE FACILITY",
+"LocationAddress":"1609 BIDDLE AVE",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.21712",
+"Longitude83":"-83.15026"
+}
+,{
+"RegistryId":"110009395289",
+"FacilityName":"BASF CORP WHITING  BROWNSTOWN",
+"LocationAddress":"20501 PENNSYLVANIA RD",
+"SupplementalLocation":null,
+"CityName":"RIVERVIEW",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481921230",
+"FIPSCode":"26163",
+"Latitude83":"42.18416",
+"Longitude83":"-83.2339"
+}
+,{
+"RegistryId":"110017411834",
+"FacilityName":"BASF CORPORATION LIVONIA SITE",
+"LocationAddress":"13000 LEVAN ROAD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481501228",
+"FIPSCode":"26163",
+"Latitude83":"42.3625",
+"Longitude83":"-83.4"
+}
+,{
+"RegistryId":"110067129501",
+"FacilityName":"BD DIAGNOSTIC SYSTEMS",
+"LocationAddress":"920 HENRY STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48201",
+"FIPSCode":"26163",
+"Latitude83":"42.33717",
+"Longitude83":"-83.06254"
+}
+,{
+"RegistryId":"110071322262",
+"FacilityName":"BEST CONCRETE & SUPPLY",
+"LocationAddress":"17200 DIX TOLEDO HIGHWAY",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.15",
+"Longitude83":"-83.2583"
+}
+,{
+"RegistryId":"110022904874",
+"FacilityName":"BING ASSEMBLY SYSTEMS",
+"LocationAddress":"1112 ROSEDALE CT",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"482111076",
+"FIPSCode":"26163",
+"Latitude83":"42.394244",
+"Longitude83":"-83.078953"
+}
+,{
+"RegistryId":"110008058387",
+"FacilityName":"BONSAL AMERICAN INC",
+"LocationAddress":"36506 SIBLEY RD",
+"SupplementalLocation":null,
+"CityName":"NEW BOSTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48164",
+"FIPSCode":"26163",
+"Latitude83":"42.16542",
+"Longitude83":"-83.3946"
+}
+,{
+"RegistryId":"110000405730",
+"FacilityName":"BORGWARNER",
+"LocationAddress":"32059 SCHOOLCRAFT",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150-1864",
+"FIPSCode":"26163",
+"Latitude83":"42.38246",
+"Longitude83":"-83.35977"
+}
+,{
+"RegistryId":"110001130286",
+"FacilityName":"BRASS FORGINGS CO.",
+"LocationAddress":"2121 BURDETTE",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220-1992",
+"FIPSCode":"26125",
+"Latitude83":"42.4641",
+"Longitude83":"-83.12606"
+}
+,{
+"RegistryId":"110001130277",
+"FacilityName":"BROAD VOGT & CONANT INC",
+"LocationAddress":"195 CAMPBELL",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218-1001",
+"FIPSCode":"26163",
+"Latitude83":"42.27744",
+"Longitude83":"-83.14149"
+}
+,{
+"RegistryId":"110000493993",
+"FacilityName":"BUCKEYE TERMINALS  LLC -DETROIT TAYLOR TERMINAL",
+"LocationAddress":"8000 SOUTH BEECH DALY ROAD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-2064",
+"FIPSCode":"26163",
+"Latitude83":"42.24938",
+"Longitude83":"-83.2891"
+}
+,{
+"RegistryId":"110000406846",
+"FacilityName":"BUCKEYE TERMINALS, LLC",
+"LocationAddress":"700 SOUTH DEACON STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.28299",
+"Longitude83":"-83.14118"
+}
+,{
+"RegistryId":"110002379453",
+"FacilityName":"BUCKEYE TERMINALS, LLC",
+"LocationAddress":"205 MARION STREET",
+"SupplementalLocation":"P.O. BOX 48218",
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.27654",
+"Longitude83":"-83.12583"
+}
+,{
+"RegistryId":"110000847157",
+"FacilityName":"BUDD COMPANY",
+"LocationAddress":"12141 CHARLEVOIX",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48215-2487",
+"FIPSCode":"26163",
+"Latitude83":"42.38005",
+"Longitude83":"-82.96882"
+}
+,{
+"RegistryId":"110002472422",
+"FacilityName":"BUNDY CORP",
+"LocationAddress":"12345 EAST NINE MILE ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48090",
+"FIPSCode":"26099",
+"Latitude83":"42.46366",
+"Longitude83":"-82.99838"
+}
+,{
+"RegistryId":"110015894567",
+"FacilityName":"BURGESS NORTON MFG CO-TAYLOR",
+"LocationAddress":"25575 BREST RD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.21876",
+"Longitude83":"-83.28661"
+}
+,{
+"RegistryId":"110001301154",
+"FacilityName":"BURNS FABRICATING CO",
+"LocationAddress":"8951 ALPINE STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48204-2888",
+"FIPSCode":"26163",
+"Latitude83":"42.36059",
+"Longitude83":"-83.14746"
+}
+,{
+"RegistryId":"110070689659",
+"FacilityName":"BWB LLC SUPERIOR ONSITE PLANT #12",
+"LocationAddress":"19280 W 8 MILE RD",
+"SupplementalLocation":null,
+"CityName":"SOUTHFIELD",
+"CountyName":"OAKLAND COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48075",
+"FIPSCode":"26125",
+"Latitude83":"42.44424",
+"Longitude83":"-83.23233"
+}
+,{
+"RegistryId":"110000406221",
+"FacilityName":"C L RIECKHOFF CO",
+"LocationAddress":"26265 NORTHLINE",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-4497",
+"FIPSCode":"26163",
+"Latitude83":"42.21124",
+"Longitude83":"-83.29374"
+}
+,{
+"RegistryId":"110043412385",
+"FacilityName":"C MAR PRODUCTS INC",
+"LocationAddress":"2530 22ND ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48216",
+"FIPSCode":"26163",
+"Latitude83":"42.3302",
+"Longitude83":"-83.08815"
+}
+,{
+"RegistryId":"110067595668",
+"FacilityName":"CADILLAC ASPHALT LLC-DIX",
+"LocationAddress":"670 SOUTH DIX STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48096",
+"FIPSCode":"26163",
+"Latitude83":"42.29146",
+"Longitude83":"-83.15566"
+}
+,{
+"RegistryId":"110001830181",
+"FacilityName":"CADILLAC ASPHALT PRODUCTS",
+"LocationAddress":"670 S DIX AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217-1313",
+"FIPSCode":"26163",
+"Latitude83":"42.29146",
+"Longitude83":"-83.15566"
+}
+,{
+"RegistryId":"110001830172",
+"FacilityName":"CADILLAC ASPHALT, LLC, ROMULUS",
+"LocationAddress":"13501 HURON RIVER RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.20456",
+"Longitude83":"-83.40441"
+}
+,{
+"RegistryId":"110000406711",
+"FacilityName":"CADILLAC OIL COMPANY",
+"LocationAddress":"13650 HELEN",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212-2096",
+"FIPSCode":"26163",
+"Latitude83":"42.41709",
+"Longitude83":"-83.03089"
+}
+,{
+"RegistryId":"110000494028",
+"FacilityName":"CADON PLATING CO",
+"LocationAddress":"3715 11TH STREET",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192-6496",
+"FIPSCode":"26163",
+"Latitude83":"42.19478",
+"Longitude83":"-83.1663"
+}
+,{
+"RegistryId":"110018942778",
+"FacilityName":"CARBOLOY INC",
+"LocationAddress":"11177 E. EIGHT MILE ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.44876",
+"Longitude83":"-83.01379"
+}
+,{
+"RegistryId":"110008058369",
+"FacilityName":"CARMEUSE LIME AND STONE RIVER ROUGE OPERATION",
+"LocationAddress":"25 MARION AVE",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.2774",
+"Longitude83":"-83.128"
+}
+,{
+"RegistryId":"110008058350",
+"FacilityName":"CARMEUSE LIME INC",
+"LocationAddress":"310 FORDSON ST.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217-1315",
+"FIPSCode":"26163",
+"Latitude83":"42.29472",
+"Longitude83":"-83.15168"
+}
+,{
+"RegistryId":"110003579119",
+"FacilityName":"CERATIZIT USA, INC.",
+"LocationAddress":"11530 STEPHENS RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.469948",
+"Longitude83":"-83.007647"
+}
+,{
+"RegistryId":"110000405277",
+"FacilityName":"CERATIZIT USA, INC.",
+"LocationAddress":"11350 STEPHENS ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089-1833",
+"FIPSCode":"26099",
+"Latitude83":"42.47061",
+"Longitude83":"-83.01001"
+}
+,{
+"RegistryId":"110027375828",
+"FacilityName":"CHAMPION SPARK PLUG CO",
+"LocationAddress":"20000 CONNER AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234-3227",
+"FIPSCode":"26163",
+"Latitude83":"42.442019",
+"Longitude83":"-83.018566"
+}
+,{
+"RegistryId":"110009454802",
+"FacilityName":"CHARTER MANUFACTURING COMPANY INC",
+"LocationAddress":"23860 SHERWOOD AVENUE",
+"SupplementalLocation":null,
+"CityName":"CENTER LINE",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48015-2011",
+"FIPSCode":"26099",
+"Latitude83":"42.46979",
+"Longitude83":"-83.03589"
+}
+,{
+"RegistryId":"110000406123",
+"FacilityName":"CHEMETALL US, INC.",
+"LocationAddress":"13177 HURON RIVER DR",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.20784",
+"Longitude83":"-83.40456"
+}
+,{
+"RegistryId":"110000406659",
+"FacilityName":"CHEMICAL PROCESSING INC",
+"LocationAddress":"5485 CONCORD AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-3281",
+"FIPSCode":"26163",
+"Latitude83":"42.376381",
+"Longitude83":"-83.02513"
+}
+,{
+"RegistryId":"110025317066",
+"FacilityName":"CHEMSTATION OF DETROIT",
+"LocationAddress":"35355 SCHOOLCRAFT RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.38181",
+"Longitude83":"-83.39164"
+}
+,{
+"RegistryId":"110020518689",
+"FacilityName":"CHEMSTATION OF DETROIT",
+"LocationAddress":"13455 STAMFORD CT",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.3812",
+"Longitude83":"-83.37637"
+}
+,{
+"RegistryId":"110000406515",
+"FacilityName":"CHROME CRAFT CORP",
+"LocationAddress":"318 MIDLAND",
+"SupplementalLocation":null,
+"CityName":"HIGHLAND PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203-3798",
+"FIPSCode":"26163",
+"Latitude83":"42.40787",
+"Longitude83":"-83.11232"
+}
+,{
+"RegistryId":"110000858135",
+"FacilityName":"CHRYSLER CENTER  CIMS 417-24-24",
+"LocationAddress":"12000 CHRYSLER DRIVE",
+"SupplementalLocation":null,
+"CityName":"HIGHLAND PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203",
+"FIPSCode":"26163",
+"Latitude83":"42.39769",
+"Longitude83":"-83.08049"
+}
+,{
+"RegistryId":"110001680949",
+"FacilityName":"CHRYSLER CORP  JEFFERSON ASSEMBLY PLANT S",
+"LocationAddress":"12200 JEFFERSON AVE EAST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48215-3709",
+"FIPSCode":"26163",
+"Latitude83":"42.3695",
+"Longitude83":"-82.96297"
+}
+,{
+"RegistryId":"110022411264",
+"FacilityName":"CHRYSLER CORP - TRENTON ENGINE PLANT",
+"LocationAddress":"2000 VAN HORN ROAD",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.12682",
+"Longitude83":"-83.19197"
+}
+,{
+"RegistryId":"110000407104",
+"FacilityName":"CHRYSLER LLC - DETROIT AXLE",
+"LocationAddress":"6700 LYNCH RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.40488",
+"Longitude83":"-83.03037"
+}
+,{
+"RegistryId":"110009395207",
+"FacilityName":"CHRYSLER MACK AVENUE ENGINE PLANT COMPLEX",
+"LocationAddress":"11570 E WARREN AVE",
+"SupplementalLocation":"ENGINE PLANT",
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214-1673",
+"FIPSCode":"26163",
+"Latitude83":"42.387983",
+"Longitude83":"-82.981838"
+}
+,{
+"RegistryId":"110060497001",
+"FacilityName":"CLEVELAND-CLIFFS STEEL CORP - DEARBORN WORKS",
+"LocationAddress":"4001 MILLER RD",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48120",
+"FIPSCode":"26163",
+"Latitude83":"42.301742",
+"Longitude83":"-83.162934"
+}
+,{
+"RegistryId":"110000406953",
+"FacilityName":"COAT IT INC",
+"LocationAddress":"2300 GAINSBORO AVE.",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220-1330",
+"FIPSCode":"26125",
+"Latitude83":"42.46533",
+"Longitude83":"-83.12887"
+}
+,{
+"RegistryId":"110000406622",
+"FacilityName":"COCA-COLA BOTTLING CO OF MICHIGAN",
+"LocationAddress":"5981 WEST WARREN AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210-1116",
+"FIPSCode":"26163",
+"Latitude83":"42.34446",
+"Longitude83":"-83.12557"
+}
+,{
+"RegistryId":"110000767340",
+"FacilityName":"COLLINS & AIKMAN",
+"LocationAddress":"1515 NEWBURGH ROAD",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48186-4077",
+"FIPSCode":"26163",
+"Latitude83":"42.29751",
+"Longitude83":"-83.40758"
+}
+,{
+"RegistryId":"110007275732",
+"FacilityName":"COLTEC INDUSTRIES INC HOLLEY AUTOMOTIVE DIV",
+"LocationAddress":"11955 EAST NINE MILE ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48090",
+"FIPSCode":"26099",
+"Latitude83":"42.46352",
+"Longitude83":"-83.00323"
+}
+,{
+"RegistryId":"110043090990",
+"FacilityName":"COMERICA BANK",
+"LocationAddress":"27100 HALL RD",
+"SupplementalLocation":null,
+"CityName":"FLAT ROCK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48134",
+"FIPSCode":"26163",
+"Latitude83":"42.10843",
+"Longitude83":"-83.26015"
+}
+,{
+"RegistryId":"110000406579",
+"FacilityName":"COMMONWEALTH INDUSTRIES",
+"LocationAddress":"5900 COMMONWEALTH AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48208-1745",
+"FIPSCode":"26163",
+"Latitude83":"42.36064",
+"Longitude83":"-83.0849"
+}
+,{
+"RegistryId":"110000767420",
+"FacilityName":"CONTINENTAL ALUMINUM CO",
+"LocationAddress":"1610 ALGONQUIN ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48215",
+"FIPSCode":"26163",
+"Latitude83":"42.372172",
+"Longitude83":"-82.957735"
+}
+,{
+"RegistryId":"110044818999",
+"FacilityName":"COOPER STANDARD AUTOMOTIVE",
+"LocationAddress":"11820 GLOBE ST",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.36948",
+"Longitude83":"-83.40924"
+}
+,{
+"RegistryId":"110000405794",
+"FacilityName":"COUNTRY FRESH LLC",
+"LocationAddress":"31770 ENTERPRISE DR.",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481501960",
+"FIPSCode":"26163",
+"Latitude83":"42.37056",
+"Longitude83":"-83.35441"
+}
+,{
+"RegistryId":"110013287362",
+"FacilityName":"CREST INDUSTRIES",
+"LocationAddress":"1337 KING RD.",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481831257",
+"FIPSCode":"26163",
+"Latitude83":"42.15592",
+"Longitude83":"-83.18499"
+}
+,{
+"RegistryId":"110000406392",
+"FacilityName":"CREST INDUSTRIES INC",
+"LocationAddress":"3841-3855 13TH ST.",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192-6407",
+"FIPSCode":"26163",
+"Latitude83":"42.19323",
+"Longitude83":"-83.1686"
+}
+,{
+"RegistryId":"110001841552",
+"FacilityName":"CROWN ENAMELING PRODUCTS INC",
+"LocationAddress":"12601 SOUTHFIED",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223-3473",
+"FIPSCode":"26163",
+"Latitude83":"42.38208",
+"Longitude83":"-83.21787"
+}
+,{
+"RegistryId":"110064164933",
+"FacilityName":"CROWN GROUP",
+"LocationAddress":"6300 E 7 MILE RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.43368",
+"Longitude83":"-83.03844"
+}
+,{
+"RegistryId":"110000407079",
+"FacilityName":"CROWN GROUP FIRE",
+"LocationAddress":"100 MILL STREET",
+"SupplementalLocation":null,
+"CityName":"ECORSE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48229-1096",
+"FIPSCode":"26163",
+"Latitude83":"42.23767",
+"Longitude83":"-83.15301"
+}
+,{
+"RegistryId":"110069253060",
+"FacilityName":"CROWN GROUP LYNCH RD",
+"LocationAddress":"6334 LYNCH RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.40477",
+"Longitude83":"-83.03651"
+}
+,{
+"RegistryId":"110000406301",
+"FacilityName":"CUL MAC INDUSTRIES INCORPORATED",
+"LocationAddress":"3720 S. VENOY RD.",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.28085",
+"Longitude83":"-83.36314"
+}
+,{
+"RegistryId":"110000407097",
+"FacilityName":"DAIMLERCHRYSLER CORP. MOUND RD. ENGINE PLANT",
+"LocationAddress":"20300 MOUND RD.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.44444",
+"Longitude83":"-83.04382"
+}
+,{
+"RegistryId":"110000407220",
+"FacilityName":"DAIMLERCHRYSLER MCGRAW",
+"LocationAddress":"9400 MCGRAW AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210-2078",
+"FIPSCode":"26163",
+"Latitude83":"42.32993",
+"Longitude83":"-83.15617"
+}
+,{
+"RegistryId":"110000407239",
+"FacilityName":"DAIMLERCHRYSLER MT ELLIOTT",
+"LocationAddress":"3675 E. OUTER DR.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.440983",
+"Longitude83":"-83.04028"
+}
+,{
+"RegistryId":"110001299005",
+"FacilityName":"DARLING INGREDIENTS INC",
+"LocationAddress":"3350 GREENFIELD RD",
+"SupplementalLocation":null,
+"CityName":"MELVINDALE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48122",
+"FIPSCode":"26163",
+"Latitude83":"42.29028",
+"Longitude83":"-83.17214"
+}
+,{
+"RegistryId":"110002117628",
+"FacilityName":"DELRAY MECHANICAL CORP",
+"LocationAddress":"12344 DELTA",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-6832",
+"FIPSCode":"26163",
+"Latitude83":"42.21679",
+"Longitude83":"-83.27656"
+}
+,{
+"RegistryId":"110002117913",
+"FacilityName":"DELTA HEAT TREAT",
+"LocationAddress":"12934 EVERGREEN",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223-3453",
+"FIPSCode":"26163",
+"Latitude83":"42.38347",
+"Longitude83":"-83.23674"
+}
+,{
+"RegistryId":"110001680155",
+"FacilityName":"DELUXE CHECK PRINTERS",
+"LocationAddress":"34400 INDUSTRIAL RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37896",
+"Longitude83":"-83.38284"
+}
+,{
+"RegistryId":"110070889284",
+"FacilityName":"DETROIT ASSEMBLY COMPLEX MACK",
+"LocationAddress":"4000 ST JEAN ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48214",
+"FIPSCode":"26163",
+"Latitude83":"42.3811",
+"Longitude83":"-82.97982"
+}
+,{
+"RegistryId":"110009597837",
+"FacilityName":"DETROIT BRAKE MACHINING INC",
+"LocationAddress":"5300 LIVERNOIS AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210-1700",
+"FIPSCode":"26163",
+"Latitude83":"42.33853",
+"Longitude83":"-83.1257"
+}
+,{
+"RegistryId":"110012705082",
+"FacilityName":"DETROIT CHROME ELECTRO FORMING COMPANY",
+"LocationAddress":"7515 LYNDON",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238-2481",
+"FIPSCode":"26163",
+"Latitude83":"42.39536",
+"Longitude83":"-83.14578"
+}
+,{
+"RegistryId":"110041976519",
+"FacilityName":"DETROIT COKE CORP",
+"LocationAddress":"7819 W JEFFERSON AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.292951",
+"Longitude83":"-83.11205"
+}
+,{
+"RegistryId":"110000407202",
+"FacilityName":"DETROIT DIESEL CORPORATION",
+"LocationAddress":"13400 W. OUTER DR.",
+"SupplementalLocation":"DETROIT DIESEL CORPORATION, TS M-05",
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239",
+"FIPSCode":"26163",
+"Latitude83":"42.37642",
+"Longitude83":"-83.26104"
+}
+,{
+"RegistryId":"110022448074",
+"FacilityName":"DETROIT ELECTRO-COATINGS CO L.L.C.",
+"LocationAddress":"2599 22ND ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48216",
+"FIPSCode":"26163",
+"Latitude83":"42.32999",
+"Longitude83":"-83.08802"
+}
+,{
+"RegistryId":"110009596375",
+"FacilityName":"DETROIT FORGE & FNDY.",
+"LocationAddress":"9611 WINFIELD AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48213",
+"FIPSCode":"26163",
+"Latitude83":"42.400275",
+"Longitude83":"-83.027972"
+}
+,{
+"RegistryId":"110002117995",
+"FacilityName":"DETROIT FREE PRESS GARAGE",
+"LocationAddress":"1201 W LAFAYETTE BLVD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48226",
+"FIPSCode":"26163",
+"Latitude83":"42.32687",
+"Longitude83":"-83.05904"
+}
+,{
+"RegistryId":"110002117851",
+"FacilityName":"DETROIT NEWSPAPER AGENCY RIVERFRONT",
+"LocationAddress":"1801 W. JEFFERSON AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48216",
+"FIPSCode":"26163",
+"Latitude83":"42.3225",
+"Longitude83":"-83.06297"
+}
+,{
+"RegistryId":"110028027926",
+"FacilityName":"DETROIT RENEWABLE POWER, LLC",
+"LocationAddress":"5700 RUSSELL ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.368645",
+"Longitude83":"-83.051749"
+}
+,{
+"RegistryId":"110000406285",
+"FacilityName":"DETROIT STEEL CO TRENTON",
+"LocationAddress":"1491 WEST JEFFERSON AVENUE",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183-1240",
+"FIPSCode":"26163",
+"Latitude83":"42.1565",
+"Longitude83":"-83.17491"
+}
+,{
+"RegistryId":"110000406409",
+"FacilityName":"DETROIT TUBULAR RIVET",
+"LocationAddress":"1213 GROVE",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192-7086",
+"FIPSCode":"26163",
+"Latitude83":"42.19229",
+"Longitude83":"-83.1683"
+}
+,{
+"RegistryId":"110002117762",
+"FacilityName":"DIAMOND HEAT TREATING CO",
+"LocationAddress":"5560 WEST JEFFERSON",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.303906",
+"Longitude83":"-83.091528"
+}
+,{
+"RegistryId":"110015901773",
+"FacilityName":"DIPSOL OF AMERICA INC",
+"LocationAddress":"34005 SCHOOLCRAFT",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150-1313",
+"FIPSCode":"26163",
+"Latitude83":"42.38201",
+"Longitude83":"-83.37841"
+}
+,{
+"RegistryId":"110002349682",
+"FacilityName":"DIVERSEY CORP",
+"LocationAddress":"1626 BIDDLE AVENUE",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.217806",
+"Longitude83":"-83.150378"
+}
+,{
+"RegistryId":"110014386173",
+"FacilityName":"DIVERSIFIED CHEMICAL TECHNOLOGIES",
+"LocationAddress":"15477 WOODROW WILSON",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238-1586",
+"FIPSCode":"26163",
+"Latitude83":"42.40613",
+"Longitude83":"-83.11565"
+}
+,{
+"RegistryId":"110000744632",
+"FacilityName":"DIVERSIFIED CHEMICAL TECHNOLOGIES INC",
+"LocationAddress":"15401 WOODROW WILSON",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238",
+"FIPSCode":"26163",
+"Latitude83":"42.4052",
+"Longitude83":"-83.11559"
+}
+,{
+"RegistryId":"110000407177",
+"FacilityName":"DIVERSITAK INC",
+"LocationAddress":"15400 WOODROW WILSON",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238-1564",
+"FIPSCode":"26163",
+"Latitude83":"42.40591",
+"Longitude83":"-83.11563"
+}
+,{
+"RegistryId":"110000405598",
+"FacilityName":"DOUBLE EAGLE STEEL COATING COMPANY",
+"LocationAddress":"3000 MILLER ROAD",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48120",
+"FIPSCode":"26163",
+"Latitude83":"42.31169",
+"Longitude83":"-83.15848"
+}
+,{
+"RegistryId":"110000406917",
+"FacilityName":"DTE ELECTRIC CO - RIVER ROUGE POWER PLANT",
+"LocationAddress":"1 BELANGER PARK DR",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.2727",
+"Longitude83":"-83.1124"
+}
+,{
+"RegistryId":"110002118002",
+"FacilityName":"DTE ELECTRIC COMPANY",
+"LocationAddress":"6421 LYNCH RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.40477",
+"Longitude83":"-83.0362"
+}
+,{
+"RegistryId":"110000406267",
+"FacilityName":"DTE ELECTRIC COMPANY - TRENTON CHANNEL POWER PLANT",
+"LocationAddress":"4695  W JEFFERSON AVE",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.12453",
+"Longitude83":"-83.18632"
+}
+,{
+"RegistryId":"110070432880",
+"FacilityName":"DUBOIS CHEMICALS INC",
+"LocationAddress":"6100 VANCOUVER ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48204",
+"FIPSCode":"26163",
+"Latitude83":"42.35373",
+"Longitude83":"-83.13378"
+}
+,{
+"RegistryId":"110003609587",
+"FacilityName":"EATON RESEARCH CENTER",
+"LocationAddress":"26201 NORTHWESTERN HWY",
+"SupplementalLocation":null,
+"CityName":"SOUTHFIELD",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48076",
+"FIPSCode":"26125",
+"Latitude83":"42.48124",
+"Longitude83":"-83.2562"
+}
+,{
+"RegistryId":"110000614185",
+"FacilityName":"EDW C LEVY CO - PLANT 3",
+"LocationAddress":"100 W WESTFIELD RD",
+"SupplementalLocation":null,
+"CityName":"ECORSE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48229",
+"FIPSCode":"26163",
+"Latitude83":"42.2478",
+"Longitude83":"-83.13889"
+}
+,{
+"RegistryId":"110069533865",
+"FacilityName":"EDW C LEVY CO - PLANT 6",
+"LocationAddress":"13800 MELLON ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.290343",
+"Longitude83":"-83.1582"
+}
+,{
+"RegistryId":"110001841696",
+"FacilityName":"EDWARD C. LEVY COMPANY - PLANT #1",
+"LocationAddress":"8800 DIX AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-1096",
+"FIPSCode":"26163",
+"Latitude83":"42.31455",
+"Longitude83":"-83.13722"
+}
+,{
+"RegistryId":"110000406855",
+"FacilityName":"EDWARD C. LEVY COMPANY - PLANT #6",
+"LocationAddress":"13800 MELLON ROAD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.290343",
+"Longitude83":"-83.1582"
+}
+,{
+"RegistryId":"110000614443",
+"FacilityName":"EDWARDS OIL CO",
+"LocationAddress":"530 S ROUGE ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"482171345",
+"FIPSCode":"26163",
+"Latitude83":"42.29247",
+"Longitude83":"-83.1513"
+}
+,{
+"RegistryId":"110070374301",
+"FacilityName":"EES COKE BATTERY L.L.C. (P0408)",
+"LocationAddress":"1400 ZUG ISLAND RD",
+"SupplementalLocation":"ROOM 415 G.O. / F-40",
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-2892",
+"FIPSCode":"26163",
+"Latitude83":"42.2811",
+"Longitude83":"-83.1113"
+}
+,{
+"RegistryId":"110000406230",
+"FacilityName":"EFTEC NA LLC",
+"LocationAddress":"20219 NORTHLINE RD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.213",
+"Longitude83":"-83.2325"
+}
+,{
+"RegistryId":"110002045019",
+"FacilityName":"ELECTRO PLATING SERVICES INC",
+"LocationAddress":"945 E 10 MILE RD",
+"SupplementalLocation":null,
+"CityName":"MADISON HEIGHTS",
+"CountyName":"OAKLAND COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48071",
+"FIPSCode":"26125",
+"Latitude83":"42.476489",
+"Longitude83":"-83.096198"
+}
+,{
+"RegistryId":"110042411707",
+"FacilityName":"ELRINGKLINGER AUTOMOTIVE MANUFACTURING INC",
+"LocationAddress":"23300 NORTHWESTERN HWY",
+"SupplementalLocation":null,
+"CityName":"SOUTHFIELD",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48075",
+"FIPSCode":"26125",
+"Latitude83":"42.462635",
+"Longitude83":"-83.226157"
+}
+,{
+"RegistryId":"110002117753",
+"FacilityName":"EMCO CHEMICAL, INC.",
+"LocationAddress":"4470 LAWTON AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48208-2198",
+"FIPSCode":"26163",
+"Latitude83":"42.34376",
+"Longitude83":"-83.09252"
+}
+,{
+"RegistryId":"110000494046",
+"FacilityName":"ENERGY TRANSFER MARKETING & TERMINALS LP",
+"LocationAddress":"500 SOUTH DIX ROAD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.29368",
+"Longitude83":"-83.1538"
+}
+,{
+"RegistryId":"110000405320",
+"FacilityName":"ENTHONE   OMI  INC",
+"LocationAddress":"21441 HOOVER RD.",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.45406",
+"Longitude83":"-83.0054"
+}
+,{
+"RegistryId":"110001299176",
+"FacilityName":"ENVIRO SOLIDS LLC -  DEARBORN FACILITY",
+"LocationAddress":"6011 WYOMING AVE",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48126-2335",
+"FIPSCode":"26163",
+"Latitude83":"42.333849",
+"Longitude83":"-83.156942"
+}
+,{
+"RegistryId":"110070690477",
+"FacilityName":"ENVIRONMENTAL DISPOSAL SYSTEM",
+"LocationAddress":"28099 CITRIN DR",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.245828",
+"Longitude83":"-83.308989"
+}
+,{
+"RegistryId":"110003599838",
+"FacilityName":"ENVIRONMENTAL RECYCLING GROUP (ERG) ENVRIONMENTAL SERVICES",
+"LocationAddress":"13040 MERRIMAN RD",
+"SupplementalLocation":"SUITE 200",
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37794",
+"Longitude83":"-83.353"
+}
+,{
+"RegistryId":"110000614381",
+"FacilityName":"ENVIRONMENTAL WASTE CONTROL INC",
+"LocationAddress":"27140 PRINCETON AVE",
+"SupplementalLocation":null,
+"CityName":"INKSTER",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48141-2349",
+"FIPSCode":"26163",
+"Latitude83":"42.29002",
+"Longitude83":"-83.30648"
+}
+,{
+"RegistryId":"110000406695",
+"FacilityName":"EQ DETROIT INC",
+"LocationAddress":"1923 FREDERICK ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-2603",
+"FIPSCode":"26163",
+"Latitude83":"42.36591",
+"Longitude83":"-83.04774"
+}
+,{
+"RegistryId":"110000406132",
+"FacilityName":"EQ RESOURCE RECOVERY FIRE",
+"LocationAddress":"36345 VAN BORN RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-4057",
+"FIPSCode":"26163",
+"Latitude83":"42.26646",
+"Longitude83":"-83.39581"
+}
+,{
+"RegistryId":"110041981807",
+"FacilityName":"EQ RESOURCE RECOVERY INC",
+"LocationAddress":"14000 STANSBURY RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227",
+"FIPSCode":"26163",
+"Latitude83":"42.389504",
+"Longitude83":"-83.182132"
+}
+,{
+"RegistryId":"110044924348",
+"FacilityName":"EUCLID MANUFACTURING LLC",
+"LocationAddress":"1500 E EUCLID ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.38251",
+"Longitude83":"-83.06346"
+}
+,{
+"RegistryId":"110002117904",
+"FacilityName":"EXCELDA MANUFACTURING",
+"LocationAddress":"181 NORTH MARSHALL",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220",
+"FIPSCode":"26125",
+"Latitude83":"42.454413",
+"Longitude83":"-83.128948"
+}
+,{
+"RegistryId":"110064164915",
+"FacilityName":"EXXONMOBIL WOODHAVEN TERMINAL",
+"LocationAddress":"20755 W RD",
+"SupplementalLocation":null,
+"CityName":"WOODHAVEN",
+"CountyName":"WAYNE ",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.13871",
+"Longitude83":"-83.227654"
+}
+,{
+"RegistryId":"110002117600",
+"FacilityName":"FAURECIA EMISSIONS CONTROL TECHNOLOGIES",
+"LocationAddress":"24850 NORTHLINE ROAD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-4594",
+"FIPSCode":"26163",
+"Latitude83":"42.21176",
+"Longitude83":"-83.27814"
+}
+,{
+"RegistryId":"110070716028",
+"FacilityName":"FCA DETROIT ASSEMBLY COMPLEX - MACK",
+"LocationAddress":"4000 ST JEAN",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48214",
+"FIPSCode":"26163",
+"Latitude83":"42.3811",
+"Longitude83":"-82.97982"
+}
+,{
+"RegistryId":"110009395387",
+"FacilityName":"FCA US CONNER AVENUE ASSEMBLY PLANT",
+"LocationAddress":"20000 CONNER AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234-3227",
+"FIPSCode":"26163",
+"Latitude83":"42.442019",
+"Longitude83":"-83.018566"
+}
+,{
+"RegistryId":"110000406837",
+"FacilityName":"FCA US LLC - DETROIT ASSEMBLY COMPLEX (N2155)",
+"LocationAddress":"2101 CONNER STREET",
+"SupplementalLocation":"CIMS 435-07-00",
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48215-2768",
+"FIPSCode":"26163",
+"Latitude83":"42.3715",
+"Longitude83":"-82.9689"
+}
+,{
+"RegistryId":"110071324151",
+"FacilityName":"FCA US LLC - TRENTON ENGINE COMPLEX (B3350)",
+"LocationAddress":"2300 VAN HORN ROAD",
+"SupplementalLocation":"CIMS 453-00-00",
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183-4210",
+"FIPSCode":"26163",
+"Latitude83":"42.12681",
+"Longitude83":"-83.19543"
+}
+,{
+"RegistryId":"110000405384",
+"FacilityName":"FCA US LLC WARREN STAMPING PLANT (B2757)",
+"LocationAddress":"22800 MOUND ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091-5401",
+"FIPSCode":"26099",
+"Latitude83":"42.46139",
+"Longitude83":"-83.0446"
+}
+,{
+"RegistryId":"110031001109",
+"FacilityName":"FEBLO INTERNATIONAL LLC",
+"LocationAddress":"34450 INDUSTRIAL RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.3789",
+"Longitude83":"-83.38542"
+}
+,{
+"RegistryId":"110000406098",
+"FacilityName":"FEDERAL SCREW WORKS",
+"LocationAddress":"34846 GODDARD RD.",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.22313",
+"Longitude83":"-83.38115"
+}
+,{
+"RegistryId":"110039577650",
+"FacilityName":"FERROUS LLC",
+"LocationAddress":"8701 E 8 MILE RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.44872",
+"Longitude83":"-83.01534"
+}
+,{
+"RegistryId":"110072077302",
+"FacilityName":"FERROUS POCESSING AND TRADING COMPANY",
+"LocationAddress":"1333 BREWERY PARK BLVD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207",
+"FIPSCode":"26163",
+"Latitude83":"42.342677",
+"Longitude83":"-83.041828"
+}
+,{
+"RegistryId":"110001301332",
+"FacilityName":"FERROUS PROCESSING & TRADING",
+"LocationAddress":"9100 JOHN KRONK ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210-2004",
+"FIPSCode":"26163",
+"Latitude83":"42.320022",
+"Longitude83":"-83.145539"
+}
+,{
+"RegistryId":"110001294689",
+"FacilityName":"FERROUS PROCESSING & TRADING CO",
+"LocationAddress":"3400 E LAFAYETTE ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207-4962",
+"FIPSCode":"26163",
+"Latitude83":"42.34593",
+"Longitude83":"-83.01446"
+}
+,{
+"RegistryId":"110015832054",
+"FacilityName":"FINTEX, LLC",
+"LocationAddress":"8900 INKSTER",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-2695",
+"FIPSCode":"26163",
+"Latitude83":"42.24227",
+"Longitude83":"-83.3081"
+}
+,{
+"RegistryId":"110000494037",
+"FacilityName":"FITZGERALD FINISHING LLC",
+"LocationAddress":"17450 FILER AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212-1908",
+"FIPSCode":"26163",
+"Latitude83":"42.42206",
+"Longitude83":"-83.03707"
+}
+,{
+"RegistryId":"110000405687",
+"FacilityName":"FLAT ROCK METAL INC",
+"LocationAddress":"26601 W. HURON RIVER DR.",
+"SupplementalLocation":null,
+"CityName":"FLAT ROCK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48134",
+"FIPSCode":"26163",
+"Latitude83":"42.10025",
+"Longitude83":"-83.29462"
+}
+,{
+"RegistryId":"110070813945",
+"FacilityName":"FLEX-N-GATE DETROIT",
+"LocationAddress":"9201 ST CYRIL ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48213",
+"FIPSCode":"26163",
+"Latitude83":"42.39685",
+"Longitude83":"-83.02651"
+}
+,{
+"RegistryId":"110001847529",
+"FacilityName":"FLINT INK CORP",
+"LocationAddress":"25111 GLENDALE AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239-2646",
+"FIPSCode":"26163",
+"Latitude83":"42.38059",
+"Longitude83":"-83.2871"
+}
+,{
+"RegistryId":"110000407113",
+"FacilityName":"FLUID ROUTING SOLUTIONS",
+"LocationAddress":"3775 E. OUTER DR.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"482342978",
+"FIPSCode":"26163",
+"Latitude83":"42.44094",
+"Longitude83":"-83.03846"
+}
+,{
+"RegistryId":"110000605685",
+"FacilityName":"FORD - WAYNE PLANT",
+"LocationAddress":"37625 MICHIGAN AVE.",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.279007",
+"Longitude83":"-83.409062"
+}
+,{
+"RegistryId":"110000406310",
+"FacilityName":"FORD MOTOR CO  - WAYNE INTEGRAL STAMPING",
+"LocationAddress":"37500 VAN BORN",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.26624",
+"Longitude83":"-83.40743"
+}
+,{
+"RegistryId":"110000405614",
+"FacilityName":"FORD MOTOR CO  VULCAN FORGING PLANT",
+"LocationAddress":"3900 WYOMING STREET",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48120-1468",
+"FIPSCode":"26163",
+"Latitude83":"42.315862",
+"Longitude83":"-83.156073"
+}
+,{
+"RegistryId":"110000406276",
+"FacilityName":"FORD MOTOR CO - WOODHAVEN FORGING PLANT",
+"LocationAddress":"24189 ALLEN RD",
+"SupplementalLocation":null,
+"CityName":"WOODHAVEN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.13261",
+"Longitude83":"-83.2258"
+}
+,{
+"RegistryId":"110000856850",
+"FacilityName":"FORD MOTOR CO GLASS TECH CTR",
+"LocationAddress":"25500 WEST OUTER DRIVE",
+"SupplementalLocation":null,
+"CityName":"LINCOLN PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48146-1242",
+"FIPSCode":"26163",
+"Latitude83":"42.26683",
+"Longitude83":"-83.17692"
+}
+,{
+"RegistryId":"110000852845",
+"FacilityName":"FORD MOTOR CO NEW MODEL PROGRAM CTR",
+"LocationAddress":"17000 OAKWOOD BLVD",
+"SupplementalLocation":null,
+"CityName":"ALLEN PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48101",
+"FIPSCode":"26163",
+"Latitude83":"42.28723",
+"Longitude83":"-83.20087"
+}
+,{
+"RegistryId":"110050297717",
+"FacilityName":"FORD MOTOR CO ROUGE COMPLEX",
+"LocationAddress":"3001  MILLER RD",
+"SupplementalLocation":"CSB 104",
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48121",
+"FIPSCode":"26163",
+"Latitude83":"42.3025",
+"Longitude83":"-83.154167"
+}
+,{
+"RegistryId":"110000890661",
+"FacilityName":"FORD MOTOR COMPANY",
+"LocationAddress":"20000 ROTUNDA DRIVE",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48124-3900",
+"FIPSCode":"26163",
+"Latitude83":"42.29411",
+"Longitude83":"-83.22313"
+}
+,{
+"RegistryId":"110000405696",
+"FacilityName":"FORD MOTOR COMPANY - FLAT ROCK ASSEMBLY",
+"LocationAddress":"1  INTERNATIONAL DR",
+"SupplementalLocation":null,
+"CityName":"FLAT ROCK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48134",
+"FIPSCode":"26163",
+"Latitude83":"42.10247",
+"Longitude83":"-83.24356"
+}
+,{
+"RegistryId":"110000405767",
+"FacilityName":"FORD MOTOR COMPANY - FORD LIVONIA SITE",
+"LocationAddress":"36200 PLYMOUTH ROAD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.3702",
+"Longitude83":"-83.3955"
+}
+,{
+"RegistryId":"110000593028",
+"FacilityName":"FORD MOTOR COMPANY - FORD MICHIGAN ASSEMBLY SITE",
+"LocationAddress":"38303 MICHIGAN AVENUE",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.278378",
+"Longitude83":"-83.412204"
+}
+,{
+"RegistryId":"110001848519",
+"FacilityName":"FORD MOTOR WORLD HEADQUARTERS",
+"LocationAddress":"1 AMERICAN RD",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48126",
+"FIPSCode":"26163",
+"Latitude83":"42.3136",
+"Longitude83":"-83.2078"
+}
+,{
+"RegistryId":"110000593000",
+"FacilityName":"FORD WOODHAVEN STAMPING PLANT",
+"LocationAddress":"20900 WEST RD.",
+"SupplementalLocation":null,
+"CityName":"WOODHAVEN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.13953",
+"Longitude83":"-83.23548"
+}
+,{
+"RegistryId":"110041627326",
+"FacilityName":"FORT IRON AND METAL",
+"LocationAddress":"9607 DEARBORN AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.293367",
+"Longitude83":"-83.132488"
+}
+,{
+"RegistryId":"110000562445",
+"FacilityName":"FREEZER SERVICES OF MICHIGAN, LLC",
+"LocationAddress":"8350 ST. AUBIN",
+"SupplementalLocation":null,
+"CityName":"HAMTRAMCK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.383769",
+"Longitude83":"-83.057412"
+}
+,{
+"RegistryId":"110000405437",
+"FacilityName":"FRITO LAY INC",
+"LocationAddress":"1000 ENTERPRISE DR.",
+"SupplementalLocation":null,
+"CityName":"ALLEN PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48101",
+"FIPSCode":"26163",
+"Latitude83":"42.29394",
+"Longitude83":"-83.18712"
+}
+,{
+"RegistryId":"110000406926",
+"FacilityName":"FRITZ PRODUCTS, INC",
+"LocationAddress":"255 MARION STREET",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.27365",
+"Longitude83":"-83.12089"
+}
+,{
+"RegistryId":"110002117708",
+"FacilityName":"FUCHS LUBRICANTS CO MONTGOMERY DIV",
+"LocationAddress":"17191 CHRYSLER FWY.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203",
+"FIPSCode":"26163",
+"Latitude83":"42.39605",
+"Longitude83":"-83.07943"
+}
+,{
+"RegistryId":"110070691775",
+"FacilityName":"FUEL SOURCE",
+"LocationAddress":"29112 E RIVER RD",
+"SupplementalLocation":null,
+"CityName":"GROSSE ILE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48138",
+"FIPSCode":"26163",
+"Latitude83":"42.09433",
+"Longitude83":"-83.15035"
+}
+,{
+"RegistryId":"110041123370",
+"FacilityName":"GAGE PRODUCTS CO",
+"LocationAddress":"821 WANDA AVE",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220",
+"FIPSCode":"26125",
+"Latitude83":"42.451389",
+"Longitude83":"-83.114722"
+}
+,{
+"RegistryId":"110001829727",
+"FacilityName":"GATEWAY ADDITIVE COMPANY",
+"LocationAddress":"6135 LINSDALE STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48204",
+"FIPSCode":"26163",
+"Latitude83":"42.35677",
+"Longitude83":"-83.13625"
+}
+,{
+"RegistryId":"110002082674",
+"FacilityName":"GENERAL MOTORS CO ROMULUS ENGINEERING CTR",
+"LocationAddress":"37350 ECORSE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-1396",
+"FIPSCode":"26163",
+"Latitude83":"42.25202",
+"Longitude83":"-83.40711"
+}
+,{
+"RegistryId":"110009596339",
+"FacilityName":"GENERAL MOTORS CORP CADILLAC CLARK STREET PLANT",
+"LocationAddress":"2860 CLARK STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210",
+"FIPSCode":"26163",
+"Latitude83":"42.32823",
+"Longitude83":"-83.10153"
+}
+,{
+"RegistryId":"110002472306",
+"FacilityName":"GENERAL MOTORS CORP CADILLAC FLEETWOOD ASSEMBLY",
+"LocationAddress":"WEST FORT STREET & WEST END AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.300377",
+"Longitude83":"-83.119191"
+}
+,{
+"RegistryId":"110002117771",
+"FacilityName":"GENERAL MOTORS CORP FISHER GUIDE DIV",
+"LocationAddress":"6307 WEST PORT ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.308409",
+"Longitude83":"-83.108179"
+}
+,{
+"RegistryId":"110000406105",
+"FacilityName":"GENERAL MOTORS CORPORATION",
+"LocationAddress":"36515 VAN BORN RD.",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.26635",
+"Longitude83":"-83.400766"
+}
+,{
+"RegistryId":"110000406640",
+"FacilityName":"GENERAL MOTORS MLCG DETROIT-HAMTRAMCK ASSEM BLY CENTER",
+"LocationAddress":"2500 EAST GENERAL MOTORS BOULEVARD",
+"SupplementalLocation":"PO BOX 431301",
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"MI163",
+"Latitude83":"42.381971",
+"Longitude83":"-83.044919"
+}
+,{
+"RegistryId":"110000493984",
+"FacilityName":"GENERAL MOTORS ROMULUS ENGINE PLANT",
+"LocationAddress":"36880 ECORSE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-1395",
+"FIPSCode":"26163",
+"Latitude83":"42.25217",
+"Longitude83":"-83.3996"
+}
+,{
+"RegistryId":"110002117735",
+"FacilityName":"GENERAL PLATING INC PLANT #1",
+"LocationAddress":"6547 ST. PAUL",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207",
+"FIPSCode":"26163",
+"Latitude83":"42.351705",
+"Longitude83":"-83.01131"
+}
+,{
+"RegistryId":"110000407159",
+"FacilityName":"GENERAL PLATING INCORPORATED PLANT NUMBER 2",
+"LocationAddress":"21841 WYOMING",
+"SupplementalLocation":null,
+"CityName":"OAK PARK",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48237",
+"FIPSCode":"26125",
+"Latitude83":"42.456",
+"Longitude83":"-83.16196"
+}
+,{
+"RegistryId":"110070262951",
+"FacilityName":"GFL â ROMULUS",
+"LocationAddress":"30880 SMITH RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.24558",
+"Longitude83":"-83.34262"
+}
+,{
+"RegistryId":"110042023360",
+"FacilityName":"GHD OPERATING L L C",
+"LocationAddress":"12400 EVERGREEN AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48228",
+"FIPSCode":"26163",
+"Latitude83":"42.3779",
+"Longitude83":"-83.23652"
+}
+,{
+"RegistryId":"110009598738",
+"FacilityName":"GKN SINTER METALS ROMULUS",
+"LocationAddress":"8111 MIDDLEBELT RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.24654",
+"Longitude83":"-83.32813"
+}
+,{
+"RegistryId":"110002117593",
+"FacilityName":"GLADWIN CORP",
+"LocationAddress":"20401 GLADWIN AVE.",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-5279",
+"FIPSCode":"26163",
+"Latitude83":"42.19493",
+"Longitude83":"-83.23421"
+}
+,{
+"RegistryId":"110000405357",
+"FacilityName":"GM POWERTRAIN WARREN TRANSMISSION",
+"LocationAddress":"23500 MOUND ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091-2049",
+"FIPSCode":"26099",
+"Latitude83":"42.46626",
+"Longitude83":"-83.0448"
+}
+,{
+"RegistryId":"110010301930",
+"FacilityName":"GMC CHEVROLET DETROIT ASSEMBLY",
+"LocationAddress":"601 PIQUETTE STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48202-3551",
+"FIPSCode":"26163",
+"Latitude83":"42.36924",
+"Longitude83":"-83.06305"
+}
+,{
+"RegistryId":"110061951936",
+"FacilityName":"GOLDEN REFRIGERANT",
+"LocationAddress":"31800 INDUSTRIAL ROAD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481501820",
+"FIPSCode":"26163",
+"Latitude83":"42.38041",
+"Longitude83":"-83.35747"
+}
+,{
+"RegistryId":"110072214707",
+"FacilityName":"GOLDEN REFRIGERANT",
+"LocationAddress":"1500 JOHN A PAPALAS DR",
+"SupplementalLocation":null,
+"CityName":"LINCOLN PARK",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48146",
+"FIPSCode":"26163",
+"Latitude83":"42.25777",
+"Longitude83":"-83.181607"
+}
+,{
+"RegistryId":"110070556129",
+"FacilityName":"GRANITE INLINER, LLC",
+"LocationAddress":"28529 GODDARD RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.224631",
+"Longitude83":"-83.318986"
+}
+,{
+"RegistryId":"110015680048",
+"FacilityName":"GREEN POLYMERIC MATERIALS, INC",
+"LocationAddress":"6031 JOY RD.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48204",
+"FIPSCode":"26163",
+"Latitude83":"42.36012",
+"Longitude83":"-83.1372"
+}
+,{
+"RegistryId":"110001299069",
+"FacilityName":"GREIF BROTHERS CORP INTL DIV",
+"LocationAddress":"346 GOODELL",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.222394",
+"Longitude83":"-83.15393"
+}
+,{
+"RegistryId":"110007371824",
+"FacilityName":"H O TRERICE CO",
+"LocationAddress":"12950 W EIGHT MILE RD",
+"SupplementalLocation":null,
+"CityName":"OAK PARK",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"482373288",
+"FIPSCode":"26125",
+"Latitude83":"42.44563",
+"Longitude83":"-83.17455"
+}
+,{
+"RegistryId":"110000406793",
+"FacilityName":"HACKETT BRASS FOUNDRY COMPANY",
+"LocationAddress":"1200 LILLIBRIDGE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214-3227",
+"FIPSCode":"26163",
+"Latitude83":"42.36412",
+"Longitude83":"-82.97164"
+}
+,{
+"RegistryId":"110001830243",
+"FacilityName":"HAYES WHEELS INTERNATIONAL INC",
+"LocationAddress":"38481 HURON RIVER DR",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-4819",
+"FIPSCode":"26163",
+"Latitude83":"42.21565",
+"Longitude83":"-83.41505"
+}
+,{
+"RegistryId":"110000405366",
+"FacilityName":"HENKEL US OPERATIONS CORPORATION",
+"LocationAddress":"23343 SHERWOOD AVE",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091",
+"FIPSCode":"26099",
+"Latitude83":"42.46582",
+"Longitude83":"-83.03541"
+}
+,{
+"RegistryId":"110037397340",
+"FacilityName":"HIGHLINE WARREN LLC",
+"LocationAddress":"11800 SEARS DR",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37105",
+"Longitude83":"-83.34579"
+}
+,{
+"RegistryId":"110001847681",
+"FacilityName":"HISPANIC MFG / GONZALEZ MFG",
+"LocationAddress":"2555 CLARK ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.32587",
+"Longitude83":"-83.09984"
+}
+,{
+"RegistryId":"110000406604",
+"FacilityName":"HONEYWELL",
+"LocationAddress":"1200 ZUG ISLAND ROAD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-2892",
+"FIPSCode":"26163",
+"Latitude83":"42.291843",
+"Longitude83":"-83.111131"
+}
+,{
+"RegistryId":"110000405302",
+"FacilityName":"HOOVER STEEL TREATING CO",
+"LocationAddress":"21641 HOOVER RD.",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.455736",
+"Longitude83":"-83.005432"
+}
+,{
+"RegistryId":"110000406720",
+"FacilityName":"HOOVER TREATED WOOD PRODUCTS, INC.",
+"LocationAddress":"7500 EAST DAVISON AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"MI163",
+"Latitude83":"42.42355",
+"Longitude83":"-83.02612"
+}
+,{
+"RegistryId":"110000899966",
+"FacilityName":"HORIZON TECH GROUP ROMULUS DIV",
+"LocationAddress":"27991 NORTHLINE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-2827",
+"FIPSCode":"26163",
+"Latitude83":"42.21021",
+"Longitude83":"-83.312"
+}
+,{
+"RegistryId":"110000783732",
+"FacilityName":"HORIZON TECHNOLOGY GROUP WYANDOTTE",
+"LocationAddress":"4261 13TH STREET",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192-7002",
+"FIPSCode":"26163",
+"Latitude83":"42.18958",
+"Longitude83":"-83.16856"
+}
+,{
+"RegistryId":"110000406748",
+"FacilityName":"HOUGHTON, E.F.",
+"LocationAddress":"14275 LUMPKIN AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.41626",
+"Longitude83":"-83.0787"
+}
+,{
+"RegistryId":"110000783947",
+"FacilityName":"HOWARD TERNES PACKAGING CO",
+"LocationAddress":"700 MANUFACTURERS DR",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48186",
+"FIPSCode":"26163",
+"Latitude83":"42.30464",
+"Longitude83":"-83.40463"
+}
+,{
+"RegistryId":"110003597901",
+"FacilityName":"HUGHES ELECTRONICS PRODUCTS CORP",
+"LocationAddress":"34467 INDUSTRIAL RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.3789",
+"Longitude83":"-83.38539"
+}
+,{
+"RegistryId":"110000767509",
+"FacilityName":"IHC LLC",
+"LocationAddress":"12400 BURT RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48228",
+"FIPSCode":"26163",
+"Latitude83":"42.37849",
+"Longitude83":"-83.24639"
+}
+,{
+"RegistryId":"110008443504",
+"FacilityName":"INALFA ROOF SYSTEMS",
+"LocationAddress":"12500 E 9 MILE RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.4637",
+"Longitude83":"-82.99757"
+}
+,{
+"RegistryId":"110063002218",
+"FacilityName":"INLAND WATERS POLLUTION CONTROL DETROIT FACILITY",
+"LocationAddress":"4086 MICHIGAN AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210",
+"FIPSCode":null,
+"Latitude83":"42.33124",
+"Longitude83":"-83.10077"
+}
+,{
+"RegistryId":"110001224915",
+"FacilityName":"INTERNATIONAL HARDCOAT INC",
+"LocationAddress":"14300 MEYERS RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227",
+"FIPSCode":"26163",
+"Latitude83":"42.39337",
+"Longitude83":"-83.16894"
+}
+,{
+"RegistryId":"110045403112",
+"FacilityName":"INTERNATIONAL PRECAST SOLUTIONS LLC",
+"LocationAddress":"60 HALTINER AVE",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.27147",
+"Longitude83":"-83.13544"
+}
+,{
+"RegistryId":"110043454703",
+"FacilityName":"INTERNATIONAL WILDLIFE REFUGE VISITOR CENTER",
+"LocationAddress":"5437 WEST JEFFERSON AVENUE",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.11476",
+"Longitude83":"-83.19186"
+}
+,{
+"RegistryId":"110001846192",
+"FacilityName":"INVECAST CORP",
+"LocationAddress":"6781 MAXWELL AVE",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091",
+"FIPSCode":"26099",
+"Latitude83":"42.4613",
+"Longitude83":"-83.03343"
+}
+,{
+"RegistryId":"110000405446",
+"FacilityName":"IOV NORTH AMERICA",
+"LocationAddress":"2500 ENTERPRISE DRIVE",
+"SupplementalLocation":null,
+"CityName":"ALLEN PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48101-3528",
+"FIPSCode":"26163",
+"Latitude83":"42.28698",
+"Longitude83":"-83.1937"
+}
+,{
+"RegistryId":"110001135815",
+"FacilityName":"IPMC AQUISITION LLC",
+"LocationAddress":"9125 W. JEFFERSON AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.284522",
+"Longitude83":"-83.124417"
+}
+,{
+"RegistryId":"110000406597",
+"FacilityName":"J & L SPECIALTY STEEL INC",
+"LocationAddress":"330 S. LIVERNOIS",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-3071",
+"FIPSCode":"26163",
+"Latitude83":"42.303012",
+"Longitude83":"-83.100837"
+}
+,{
+"RegistryId":"110000405026",
+"FacilityName":"J D PLATING CO INC",
+"LocationAddress":"25428 JOHN R ST.",
+"SupplementalLocation":null,
+"CityName":"MADISON HEIGHTS",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48071-4098",
+"FIPSCode":"26125",
+"Latitude83":"42.47973",
+"Longitude83":"-83.10486"
+}
+,{
+"RegistryId":"110000406418",
+"FacilityName":"JCI JONES CHEMICALS INC",
+"LocationAddress":"18000 PAYNE AVE.",
+"SupplementalLocation":null,
+"CityName":"RIVERVIEW",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48193-4252",
+"FIPSCode":"26163",
+"Latitude83":"42.17789",
+"Longitude83":"-83.16774"
+}
+,{
+"RegistryId":"110009599933",
+"FacilityName":"JERVIS B WEBB CO PLANT #4",
+"LocationAddress":"4935 HANNAN ROAD",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184-1568",
+"FIPSCode":"26163",
+"Latitude83":"42.27027",
+"Longitude83":"-83.42675"
+}
+,{
+"RegistryId":"110000406347",
+"FacilityName":"JETRION",
+"LocationAddress":"6380 COMMERCE DRIVE",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48185-9120",
+"FIPSCode":"26163",
+"Latitude83":"42.33052",
+"Longitude83":"-83.42241"
+}
+,{
+"RegistryId":"110002472271",
+"FacilityName":"K C JONES PLATING",
+"LocationAddress":"2845 E 10 MILE RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091",
+"FIPSCode":"26099",
+"Latitude83":"42.47653",
+"Longitude83":"-83.07484"
+}
+,{
+"RegistryId":"110000592886",
+"FacilityName":"K C JONES PLATING CO DIV OF CHEMETCO",
+"LocationAddress":"321 WEST TEN MILE ROAD",
+"SupplementalLocation":null,
+"CityName":"HAZEL PARK",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48030",
+"FIPSCode":"26125",
+"Latitude83":"42.476104",
+"Longitude83":"-83.107431"
+}
+,{
+"RegistryId":"110037408873",
+"FacilityName":"K.A. STEEL CHEMICALS INC.",
+"LocationAddress":"36801 WABASH ST",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.20864",
+"Longitude83":"-83.39915"
+}
+,{
+"RegistryId":"110002117806",
+"FacilityName":"KAY SCREEN PRINTING",
+"LocationAddress":"1614 CLAY",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-1741",
+"FIPSCode":"26163",
+"Latitude83":"42.379381",
+"Longitude83":"-83.059914"
+}
+,{
+"RegistryId":"110000406114",
+"FacilityName":"KERR CORPORATION / ROMO MANUFACTURING",
+"LocationAddress":"28200 WICK ROAD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.23918",
+"Longitude83":"-83.31564"
+}
+,{
+"RegistryId":"110002117799",
+"FacilityName":"KEYWELL CORP",
+"LocationAddress":"3075 LONYO AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-1090",
+"FIPSCode":"26163",
+"Latitude83":"42.31896",
+"Longitude83":"-83.13614"
+}
+,{
+"RegistryId":"110072077294",
+"FacilityName":"KNIGHT TRANSFER",
+"LocationAddress":"15721 GLENDALE ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227",
+"FIPSCode":"26163",
+"Latitude83":"42.38241",
+"Longitude83":"-83.20107"
+}
+,{
+"RegistryId":"110007597172",
+"FacilityName":"KOENIG FUEL & SUPPLY CO.",
+"LocationAddress":"500 E 7 MILE RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203",
+"FIPSCode":"26163",
+"Latitude83":"42.432164",
+"Longitude83":"-83.098032"
+}
+,{
+"RegistryId":"110002117922",
+"FacilityName":"KOLENE CORP",
+"LocationAddress":"12890 WESTWOOD ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223-3436",
+"FIPSCode":"26163",
+"Latitude83":"42.38302",
+"Longitude83":"-83.23183"
+}
+,{
+"RegistryId":"110003713615",
+"FacilityName":"KREHER WIRE PROCESSING",
+"LocationAddress":"34822 GODDARD RD.",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.22313",
+"Longitude83":"-83.381106"
+}
+,{
+"RegistryId":"110003715356",
+"FacilityName":"LDM TECHNOLOGIES",
+"LocationAddress":"38070 ECORSE RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.251721",
+"Longitude83":"-83.414479"
+}
+,{
+"RegistryId":"110041976449",
+"FacilityName":"LE PETOMANE VII CUSTODIAL TRUST",
+"LocationAddress":"12381 SCHAEFER HWY",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227",
+"FIPSCode":"26163",
+"Latitude83":"42.37922",
+"Longitude83":"-83.17821"
+}
+,{
+"RegistryId":"110000406766",
+"FacilityName":"LEAR CORP DETROIT",
+"LocationAddress":"4600 NANCY AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212-1271",
+"FIPSCode":"26163",
+"Latitude83":"42.42091",
+"Longitude83":"-83.05707"
+}
+,{
+"RegistryId":"110000406356",
+"FacilityName":"LIBRALTER PLASTICS INC",
+"LocationAddress":"1000 MANUFACTURERS DR.",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481864064",
+"FIPSCode":"26163",
+"Latitude83":"42.30185",
+"Longitude83":"-83.40452"
+}
+,{
+"RegistryId":"110000406490",
+"FacilityName":"LIFE TECHNOLOGIES CORPORATION",
+"LocationAddress":"920 HENRY ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48201",
+"FIPSCode":"26163",
+"Latitude83":"42.33693",
+"Longitude83":"-83.06241"
+}
+,{
+"RegistryId":"110069482795",
+"FacilityName":"LINAMAR STRUCTURES USA",
+"LocationAddress":"26290 WEST EIGHT MILE ROAD",
+"SupplementalLocation":null,
+"CityName":"SOUTHFIELD",
+"CountyName":"OAKLAND COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48033",
+"FIPSCode":"26125",
+"Latitude83":"42.44252",
+"Longitude83":"-83.30217"
+}
+,{
+"RegistryId":"110002117860",
+"FacilityName":"LINCOLN BRASS WORKS INC",
+"LocationAddress":"2051 ROSA PARKS BLVD.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48216",
+"FIPSCode":"26163",
+"Latitude83":"42.329999",
+"Longitude83":"-83.071198"
+}
+,{
+"RegistryId":"110015903904",
+"FacilityName":"LIQUID CARBONIC SPECIALTY GAS CORP",
+"LocationAddress":"12820 EVERGREEN RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223",
+"FIPSCode":"26163",
+"Latitude83":"42.38155",
+"Longitude83":"-83.23668"
+}
+,{
+"RegistryId":"110000405810",
+"FacilityName":"M & H INDUSTRIES INC",
+"LocationAddress":"32500 CAPITOL ST.",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37296",
+"Longitude83":"-83.36451"
+}
+,{
+"RegistryId":"110067041150",
+"FacilityName":"M-LOK INC",
+"LocationAddress":"17760 CLARANN ST",
+"SupplementalLocation":null,
+"CityName":"MELVINDALE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48122",
+"FIPSCode":"26163",
+"Latitude83":"42.27944",
+"Longitude83":"-83.17168"
+}
+,{
+"RegistryId":"110070691681",
+"FacilityName":"MAC CASTINGS",
+"LocationAddress":"13600 GIRARDIN ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.4161",
+"Longitude83":"-83.03453"
+}
+,{
+"RegistryId":"110000406999",
+"FacilityName":"MACDERMID INC",
+"LocationAddress":"1221 FARROW AVE",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220",
+"FIPSCode":"26125",
+"Latitude83":"42.45724",
+"Longitude83":"-83.11811"
+}
+,{
+"RegistryId":"110008058341",
+"FacilityName":"MACK AVENUE ENGINE PLANT",
+"LocationAddress":"4500 ST JEAN",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214",
+"FIPSCode":"26163",
+"Latitude83":"42.38441",
+"Longitude83":"-82.98197"
+}
+,{
+"RegistryId":"110000406613",
+"FacilityName":"MAGNI INDUSTRIES INC",
+"LocationAddress":"2771 HAMMOND",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-1239",
+"FIPSCode":"26163",
+"Latitude83":"42.32298",
+"Longitude83":"-83.11128"
+}
+,{
+"RegistryId":"110042061274",
+"FacilityName":"MAKSTEEL PROCESSING LLC I A UNION PARTNERS CO.",
+"LocationAddress":"4343 WYOMING ST",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48126",
+"FIPSCode":"26163",
+"Latitude83":"42.320661",
+"Longitude83":"-83.157823"
+}
+,{
+"RegistryId":"110000406864",
+"FacilityName":"MARATHON PETROLEUM",
+"LocationAddress":"12700 TORONTO ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.2764",
+"Longitude83":"-83.14918"
+}
+,{
+"RegistryId":"110000554828",
+"FacilityName":"MARATHON PETROLEUM CO LP",
+"LocationAddress":"1300 S FORT ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217-294",
+"FIPSCode":"26163",
+"Latitude83":"42.2841",
+"Longitude83":"-83.1527"
+}
+,{
+"RegistryId":"110002117334",
+"FacilityName":"MARTIN FOUNDRY CO",
+"LocationAddress":"25401 W. OUTER DR.",
+"SupplementalLocation":null,
+"CityName":"MELVINDALE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48122-1941",
+"FIPSCode":"26163",
+"Latitude83":"42.26604",
+"Longitude83":"-83.17479"
+}
+,{
+"RegistryId":"110001841525",
+"FacilityName":"MARTIN MARIETTA MAGNESIA SPECIALTIES INC",
+"LocationAddress":"160 SAMUEL B MILTON DRIVE",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218-1149",
+"FIPSCode":"26163",
+"Latitude83":"42.258411",
+"Longitude83":"-83.145679"
+}
+,{
+"RegistryId":"110003645093",
+"FacilityName":"MASCOTECH SPECIAL VEHICLES",
+"LocationAddress":"9500 MT ELLIOTT",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-1673",
+"FIPSCode":"26163",
+"Latitude83":"42.399",
+"Longitude83":"-83.03763"
+}
+,{
+"RegistryId":"110002117744",
+"FacilityName":"MASTER PLATERS",
+"LocationAddress":"1086 BELLEVUE ST.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"482073648",
+"FIPSCode":"26163",
+"Latitude83":"42.349629",
+"Longitude83":"-83.009048"
+}
+,{
+"RegistryId":"110009597230",
+"FacilityName":"MATERIALS PROCESSING INC COATING DIV",
+"LocationAddress":"7000 LONYO DR",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48126-2369",
+"FIPSCode":"26163",
+"Latitude83":"42.34294",
+"Longitude83":"-83.15449"
+}
+,{
+"RegistryId":"110002117441",
+"FacilityName":"MAURER-SHUMAKER INC",
+"LocationAddress":"37025 INDUSTRIAL RD.",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481501146",
+"FIPSCode":"26163",
+"Latitude83":"42.37894",
+"Longitude83":"-83.40948"
+}
+,{
+"RegistryId":"110000406980",
+"FacilityName":"MAVERICK TUBE CORPORATION",
+"LocationAddress":"965 WANDA AVENUE",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220-2620",
+"FIPSCode":"26125",
+"Latitude83":"42.45503",
+"Longitude83":"-83.11312"
+}
+,{
+"RegistryId":"110070690100",
+"FacilityName":"MAYER ALLOYS CORP",
+"LocationAddress":"511 E 11 MILE RD",
+"SupplementalLocation":null,
+"CityName":"MADISON HEIGHTS",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48071",
+"FIPSCode":"26125",
+"Latitude83":"42.49085",
+"Longitude83":"-83.101766"
+}
+,{
+"RegistryId":"110060257154",
+"FacilityName":"MCCOIG CONCRETE-SPRINGWELLS",
+"LocationAddress":"1441 SPRINGWELLS CT",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.28937",
+"Longitude83":"-83.10735"
+}
+,{
+"RegistryId":"110002117664",
+"FacilityName":"MCCORD PAYEN INC MCCORD GASKET DIV",
+"LocationAddress":"191 LABADIE",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.227014",
+"Longitude83":"-83.151404"
+}
+,{
+"RegistryId":"110010742786",
+"FacilityName":"MCLOUTH STEEL GIBRALTAR PLANT",
+"LocationAddress":"2800 WEST JEFFERSON STREET",
+"SupplementalLocation":null,
+"CityName":"GIBRALTAR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48173",
+"FIPSCode":"26163",
+"Latitude83":"42.103075",
+"Longitude83":"-83.200292"
+}
+,{
+"RegistryId":"110000407211",
+"FacilityName":"MCNICHOLS POLISHING & ANODIZING INC",
+"LocationAddress":"12139 WOODBINE",
+"SupplementalLocation":null,
+"CityName":"REDFORD TWP",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239-2417",
+"FIPSCode":"26163",
+"Latitude83":"42.37561",
+"Longitude83":"-83.27684"
+}
+,{
+"RegistryId":"110002117325",
+"FacilityName":"MEANS INDUSTRIES INC MELVINDALE",
+"LocationAddress":"19500 ALLEN RD",
+"SupplementalLocation":null,
+"CityName":"MELVINDALE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48122",
+"FIPSCode":"26163",
+"Latitude83":"42.27538",
+"Longitude83":"-83.19303"
+}
+,{
+"RegistryId":"110001843845",
+"FacilityName":"MEL FARR FORD INC",
+"LocationAddress":"26500 HARDING ST",
+"SupplementalLocation":null,
+"CityName":"OAK PARK",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48237-1003",
+"FIPSCode":"26125",
+"Latitude83":"42.48663",
+"Longitude83":"-83.19924"
+}
+,{
+"RegistryId":"110025333342",
+"FacilityName":"MELODY FARMS LLC",
+"LocationAddress":"1000 MAPLE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207-2756",
+"FIPSCode":"26163",
+"Latitude83":"42.34127",
+"Longitude83":"-83.04011"
+}
+,{
+"RegistryId":"110002117673",
+"FacilityName":"MERCURY MANUFACTURING COMPANY",
+"LocationAddress":"1212 GROVE ST.",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192-7099",
+"FIPSCode":"26163",
+"Latitude83":"42.1923",
+"Longitude83":"-83.16757"
+}
+,{
+"RegistryId":"110001680887",
+"FacilityName":"MERCURY PAINT CO",
+"LocationAddress":"14300 SCHAEFER",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227-3689",
+"FIPSCode":"26163",
+"Latitude83":"42.3931",
+"Longitude83":"-83.17872"
+}
+,{
+"RegistryId":"110070691795",
+"FacilityName":"MERIDIAN",
+"LocationAddress":"4000 TOWN CENTER",
+"SupplementalLocation":"SUITE 1000",
+"CityName":"SOUTHFIELD",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48075",
+"FIPSCode":null,
+"Latitude83":"42.47924",
+"Longitude83":"-83.24391"
+}
+,{
+"RegistryId":"110000407015",
+"FacilityName":"METALDYNE PRECISION FORMING",
+"LocationAddress":"19001 GLENDALE AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223-3423",
+"FIPSCode":"26163",
+"Latitude83":"42.38179",
+"Longitude83":"-83.22775"
+}
+,{
+"RegistryId":"110015746754",
+"FacilityName":"METALLURGICAL PROCESSING CO",
+"LocationAddress":"23075 WARNER AVENUE",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091",
+"FIPSCode":"26099",
+"Latitude83":"42.46314",
+"Longitude83":"-83.07429"
+}
+,{
+"RegistryId":"110070913704",
+"FacilityName":"METREX RESEARCH",
+"LocationAddress":"28210 WICK RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.23917",
+"Longitude83":"-83.31618"
+}
+,{
+"RegistryId":"110070690024",
+"FacilityName":"METROPOLITAN ALLOYS",
+"LocationAddress":"17385 RYAN RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.42199",
+"Longitude83":"-83.06258"
+}
+,{
+"RegistryId":"110067128600",
+"FacilityName":"MICHIGAN ATF HOLDINGS, LLC",
+"LocationAddress":"11850 WAYNE ROAD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.21714",
+"Longitude83":"-83.3833"
+}
+,{
+"RegistryId":"110000700741",
+"FacilityName":"MICHIGAN CHROME & CHEMICAL COMPANY",
+"LocationAddress":"8611-35 GRINNELL AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48213",
+"FIPSCode":"26163",
+"Latitude83":"42.40094",
+"Longitude83":"-83.01685"
+}
+,{
+"RegistryId":"110000493966",
+"FacilityName":"MICHIGAN DAIRY",
+"LocationAddress":"29601 INDUSTRIAL ROAD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.38009",
+"Longitude83":"-83.33614"
+}
+,{
+"RegistryId":"110002117815",
+"FacilityName":"MICHIGAN INDUSTRIAL FINISHES",
+"LocationAddress":"9045 VINCENT",
+"SupplementalLocation":null,
+"CityName":"HAMTRAMCK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-1580",
+"FIPSCode":"26163",
+"Latitude83":"42.39588",
+"Longitude83":"-83.04241"
+}
+,{
+"RegistryId":"110001848788",
+"FacilityName":"MICHIGAN MARINE TERMINAL",
+"LocationAddress":"225 MARION STREET",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.27557",
+"Longitude83":"-83.12214"
+}
+,{
+"RegistryId":"110014379485",
+"FacilityName":"MICHLIN CHEMICAL CORP",
+"LocationAddress":"3951 SCHAEFER DR",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48228",
+"FIPSCode":"26163",
+"Latitude83":"42.316149",
+"Longitude83":"-83.175694"
+}
+,{
+"RegistryId":"110002117361",
+"FacilityName":"MICHLIN DIAZO PRODS CORP",
+"LocationAddress":"10501 HAGGERTY ST.",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481261900",
+"FIPSCode":"26163",
+"Latitude83":"42.3388",
+"Longitude83":"-83.16339"
+}
+,{
+"RegistryId":"110001224997",
+"FacilityName":"MICRO MIRROR",
+"LocationAddress":"30210 W 8 MILE RD",
+"SupplementalLocation":null,
+"CityName":"FARMINGTON HILLS",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48336",
+"FIPSCode":"26125",
+"Latitude83":"42.4414",
+"Longitude83":"-83.34488"
+}
+,{
+"RegistryId":"110002117655",
+"FacilityName":"MICRO PLATERS SALES ( DBA HAJJAR PLATING SERVICE)",
+"LocationAddress":"38300 VAN BORN RD.",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.26609",
+"Longitude83":"-83.4147"
+}
+,{
+"RegistryId":"110070690034",
+"FacilityName":"MID MICHIGAN CRUSHING AND RECYCLING",
+"LocationAddress":"14411 OAKLAND AVE",
+"SupplementalLocation":null,
+"CityName":"HIGHLAND PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203",
+"FIPSCode":"26163",
+"Latitude83":"42.411493",
+"Longitude83":"-83.089775"
+}
+,{
+"RegistryId":"110000407033",
+"FacilityName":"MILFORD FABRICATING CO",
+"LocationAddress":"19200 GLENDALE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223-3474",
+"FIPSCode":"26163",
+"Latitude83":"42.38176",
+"Longitude83":"-83.22936"
+}
+,{
+"RegistryId":"110039570247",
+"FacilityName":"MINKIN CHANDLER CORP",
+"LocationAddress":"15400 OAKWOOD DR",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.18994",
+"Longitude83":"-83.39254"
+}
+,{
+"RegistryId":"110002045046",
+"FacilityName":"MOBIL WOODHAVEN LUBE PLANT",
+"LocationAddress":"20089 WEST ROAD",
+"SupplementalLocation":null,
+"CityName":"WOODHAVEN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183-3320",
+"FIPSCode":"26163",
+"Latitude83":"42.14066",
+"Longitude83":"-83.22684"
+}
+,{
+"RegistryId":"110042072388",
+"FacilityName":"MONARCH PETROLEUM INC",
+"LocationAddress":"600 S DEACON ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.28359",
+"Longitude83":"-83.14069"
+}
+,{
+"RegistryId":"110002117218",
+"FacilityName":"MORTELL CO",
+"LocationAddress":"23333 SHERWOOD RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091-5362",
+"FIPSCode":"26099",
+"Latitude83":"42.46514",
+"Longitude83":"-83.03533"
+}
+,{
+"RegistryId":"110042029596",
+"FacilityName":"MOTORS LIQUIDATION COMPANY",
+"LocationAddress":"12200 MIDDLEBELT RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37466",
+"Longitude83":"-83.33331"
+}
+,{
+"RegistryId":"110009597864",
+"FacilityName":"MPLX TERMINALS LLC",
+"LocationAddress":"28001 CITRIN DRIVE",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.245659",
+"Longitude83":"-83.308248"
+}
+,{
+"RegistryId":"110009599755",
+"FacilityName":"MURRAY SANDBLAST & PAINT INC",
+"LocationAddress":"10701 MIDDLEBELT RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.22637",
+"Longitude83":"-83.32735"
+}
+,{
+"RegistryId":"110000899984",
+"FacilityName":"NATIONAL METAL PROCESSING INC",
+"LocationAddress":"3105 BEAUFAIT",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207",
+"FIPSCode":"26163",
+"Latitude83":"42.35968",
+"Longitude83":"-83.01734"
+}
+,{
+"RegistryId":"110001294787",
+"FacilityName":"NATIONAL VARNISH CO",
+"LocationAddress":"609 ST JEAN",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214-0001",
+"FIPSCode":"26163",
+"Latitude83":"42.36319",
+"Longitude83":"-82.96811"
+}
+,{
+"RegistryId":"110011812869",
+"FacilityName":"NCOC INC  (NATIONAL CHEMICAL & OIL CORP )",
+"LocationAddress":"21251 MEYERS ROAD",
+"SupplementalLocation":null,
+"CityName":"OAK PARK",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48237-3201",
+"FIPSCode":"26125",
+"Latitude83":"42.45115",
+"Longitude83":"-83.17174"
+}
+,{
+"RegistryId":"110033183971",
+"FacilityName":"NEW BOSTON RTM, INC.",
+"LocationAddress":"19155 SHOOK",
+"SupplementalLocation":null,
+"CityName":"NEW BOSTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48164-9288",
+"FIPSCode":"26163",
+"Latitude83":"42.1636",
+"Longitude83":"-83.39396"
+}
+,{
+"RegistryId":"110003616169",
+"FacilityName":"NEW CENTER STAMPING",
+"LocationAddress":"950 E MILWAUKEE ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.37296",
+"Longitude83":"-83.06209"
+}
+,{
+"RegistryId":"110009393049",
+"FacilityName":"NEW MACK  VIPER ASSEMBLY",
+"LocationAddress":"11801 MACK AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214",
+"FIPSCode":"26163",
+"Latitude83":"42.381529",
+"Longitude83":"-82.97459"
+}
+,{
+"RegistryId":"110003683755",
+"FacilityName":"NEXEO SOLUTIONS LLC",
+"LocationAddress":"12005 TOEPFER RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.45624",
+"Longitude83":"-83.001786"
+}
+,{
+"RegistryId":"110062638757",
+"FacilityName":"NORTHFIELD MANUFACTURING",
+"LocationAddress":"38549 WEBB",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48185",
+"FIPSCode":"26163",
+"Latitude83":"42.32729",
+"Longitude83":"-83.4212"
+}
+,{
+"RegistryId":"110002117343",
+"FacilityName":"NORWOOD PRECISION PRODUCTS TEXTRON",
+"LocationAddress":"19540 ALLEN ROAD",
+"SupplementalLocation":null,
+"CityName":"MELVINDALE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48122-1622",
+"FIPSCode":"26163",
+"Latitude83":"42.27453",
+"Longitude83":"-83.19375"
+}
+,{
+"RegistryId":"110003676834",
+"FacilityName":"OAKLAND STAMPING LLC",
+"LocationAddress":"1200 WOODLAND ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.396699",
+"Longitude83":"-83.077655"
+}
+,{
+"RegistryId":"110003704448",
+"FacilityName":"ODYSSEY ELECTRONICS INC",
+"LocationAddress":"12886 FAIRLANE ST",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37701",
+"Longitude83":"-83.38606"
+}
+,{
+"RegistryId":"110000405721",
+"FacilityName":"OWENS CORNING",
+"LocationAddress":"1725 CICOTTE DRIVE",
+"SupplementalLocation":null,
+"CityName":"LINCOLN PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48146-1384",
+"FIPSCode":"26163",
+"Latitude83":"42.260738",
+"Longitude83":"-83.18253"
+}
+,{
+"RegistryId":"110000406908",
+"FacilityName":"OWENS-CORNING - TRUMBULL ASPHALT",
+"LocationAddress":"12500 STOCKER",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217",
+"FIPSCode":"26163",
+"Latitude83":"42.28647",
+"Longitude83":"-83.14307"
+}
+,{
+"RegistryId":"110000406533",
+"FacilityName":"PARK METALLURGICAL CORP",
+"LocationAddress":"8074 MILITARY AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48204-6005",
+"FIPSCode":"26163",
+"Latitude83":"42.35307",
+"Longitude83":"-83.1342"
+}
+,{
+"RegistryId":"110000614452",
+"FacilityName":"PARTS CLEANING TECHNOLOGIES",
+"LocationAddress":"12886 EATON ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227-3946",
+"FIPSCode":"26163",
+"Latitude83":"42.39679",
+"Longitude83":"-83.17265"
+}
+,{
+"RegistryId":"110000406891",
+"FacilityName":"PATTERSON LABORATORIES, INC",
+"LocationAddress":"11930 PLEASANT AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217-1620",
+"FIPSCode":"26163",
+"Latitude83":"42.28057",
+"Longitude83":"-83.14273"
+}
+,{
+"RegistryId":"110071256780",
+"FacilityName":"PENN LANDFILL",
+"LocationAddress":"21280 PENNSYLVANIA ROAD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.1877",
+"Longitude83":"-83.23766"
+}
+,{
+"RegistryId":"110000406542",
+"FacilityName":"PEPSI COLA BOTTLING GROUP",
+"LocationAddress":"1555 MACK AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207",
+"FIPSCode":"26163",
+"Latitude83":"42.35367",
+"Longitude83":"-83.04244"
+}
+,{
+"RegistryId":"110002117717",
+"FacilityName":"PEPSI-COLA BOTTLING CO",
+"LocationAddress":"20021 EXETER AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203",
+"FIPSCode":"26163",
+"Latitude83":"42.4407",
+"Longitude83":"-83.10505"
+}
+,{
+"RegistryId":"110000405883",
+"FacilityName":"PEREGRINE U S  INC  LIVONIA OPS",
+"LocationAddress":"28400 PLYMOUTH RD.",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.36944",
+"Longitude83":"-83.32327"
+}
+,{
+"RegistryId":"110000406828",
+"FacilityName":"PETRO-CHEM PROCESSING GROUP OF NORTRU LLC",
+"LocationAddress":"421 LYCASTE ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214-3443",
+"FIPSCode":"26163",
+"Latitude83":"42.36277",
+"Longitude83":"-82.96421"
+}
+,{
+"RegistryId":"110001130151",
+"FacilityName":"PGP CORPORATION",
+"LocationAddress":"7925 BEECH DALY",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-2033",
+"FIPSCode":"26163",
+"Latitude83":"42.24846",
+"Longitude83":"-83.28907"
+}
+,{
+"RegistryId":"110000407140",
+"FacilityName":"PGP CORPORATION",
+"LocationAddress":"19451 SHERWOOD STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234-2895",
+"FIPSCode":"26163",
+"Latitude83":"42.43795",
+"Longitude83":"-83.03417"
+}
+,{
+"RegistryId":"110002117780",
+"FacilityName":"PILLSBURY CHEMICAL & OIL INC",
+"LocationAddress":"139 SUMMIT ST.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-3243",
+"FIPSCode":"26163",
+"Latitude83":"42.30897",
+"Longitude83":"-83.0917"
+}
+,{
+"RegistryId":"110008446985",
+"FacilityName":"PLATING SPECIALTIES INC",
+"LocationAddress":"1675 E 10 MILE RD",
+"SupplementalLocation":null,
+"CityName":"MADISON HEIGHTS",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48071",
+"FIPSCode":"26125",
+"Latitude83":"42.47633",
+"Longitude83":"-83.08768"
+}
+,{
+"RegistryId":"110000852480",
+"FacilityName":"PLYMOUTH ROAD I LLC C/O DELTA MANAGEMENT CO",
+"LocationAddress":"14250 PLYMOUTH ROAD, 514-13-22",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227-3042",
+"FIPSCode":"26163",
+"Latitude83":"42.37293",
+"Longitude83":"-83.18406"
+}
+,{
+"RegistryId":"110001441930",
+"FacilityName":"POLAR ENVIRONMENTAL SERVICES",
+"LocationAddress":"707 E LEWISTON AVE",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220-1452",
+"FIPSCode":"26125",
+"Latitude83":"42.46498",
+"Longitude83":"-83.12678"
+}
+,{
+"RegistryId":"110022936055",
+"FacilityName":"POLYCHEMIE INC. - WAYNE, MI",
+"LocationAddress":"38070 VAN BORN RD",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481841577",
+"FIPSCode":"26163",
+"Latitude83":"42.26613",
+"Longitude83":"-83.4126"
+}
+,{
+"RegistryId":"110000406873",
+"FacilityName":"POLYMER CONCRETE CORP",
+"LocationAddress":"13500 PLEASANT AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217-1490",
+"FIPSCode":"26163",
+"Latitude83":"42.2871",
+"Longitude83":"-83.15695"
+}
+,{
+"RegistryId":"110002117352",
+"FacilityName":"POLYMER CONCRETE CORP",
+"LocationAddress":"17675 ALLEN RD",
+"SupplementalLocation":null,
+"CityName":"MELVINDALE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48122",
+"FIPSCode":"26163",
+"Latitude83":"42.28644",
+"Longitude83":"-83.18376"
+}
+,{
+"RegistryId":"110043310761",
+"FacilityName":"PONTIAC WAREHOUSE",
+"LocationAddress":"12871 WESTWOOD ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48223",
+"FIPSCode":"26163",
+"Latitude83":"42.38267",
+"Longitude83":"-83.23181"
+}
+,{
+"RegistryId":"110000852596",
+"FacilityName":"PPG INDUSTRIES INC.",
+"LocationAddress":"21500 GIBRALTAR RD.",
+"SupplementalLocation":null,
+"CityName":"FLAT ROCK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481340000",
+"FIPSCode":"26163",
+"Latitude83":"42.095055",
+"Longitude83":"-83.246674"
+}
+,{
+"RegistryId":"110060260729",
+"FacilityName":"PRIMO CONCRETE-BROWNSTOWN",
+"LocationAddress":"20060 SIBLEY RD",
+"SupplementalLocation":null,
+"CityName":"BROWNSTOWN TOWNSHIP",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.16958",
+"Longitude83":"-83.2289"
+}
+,{
+"RegistryId":"110002452532",
+"FacilityName":"PRO V ENTERPRISES",
+"LocationAddress":"4401 WYOMING ST",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48126-3724",
+"FIPSCode":"26163",
+"Latitude83":"42.321457",
+"Longitude83":"-83.157543"
+}
+,{
+"RegistryId":"110000405856",
+"FacilityName":"PRODUCTO CHEMICALS",
+"LocationAddress":"31003 INDUSTRIAL RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.377259",
+"Longitude83":"-83.348428"
+}
+,{
+"RegistryId":"110060261372",
+"FacilityName":"PROGRESSIVE CONCRETE-WAYNE",
+"LocationAddress":"5501 COGSWELL RD",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.26885",
+"Longitude83":"-83.41605"
+}
+,{
+"RegistryId":"110009394574",
+"FacilityName":"PROTO CAST INC",
+"LocationAddress":"2699 JOHN DALY ST",
+"SupplementalLocation":null,
+"CityName":"INKSTER",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48141",
+"FIPSCode":"26163",
+"Latitude83":"42.29196",
+"Longitude83":"-83.30013"
+}
+,{
+"RegistryId":"110070690983",
+"FacilityName":"PSC INDUSTRIAL SERVICES - PETRO CHEM. FACILITY",
+"LocationAddress":"515 LYCASTE DR",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48214",
+"FIPSCode":null,
+"Latitude83":"42.36341",
+"Longitude83":"-82.96464"
+}
+,{
+"RegistryId":"110002456048",
+"FacilityName":"PVS CHEMICALS INC (MICHIGAN)",
+"LocationAddress":"4655 BIDDLE AVENUE",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.18577",
+"Longitude83":"-83.15966"
+}
+,{
+"RegistryId":"110017772846",
+"FacilityName":"PVS NOLWOOD CHEMICALS INC.",
+"LocationAddress":"9000 HUBBELL AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48228",
+"FIPSCode":"26163",
+"Latitude83":"42.36128",
+"Longitude83":"-83.18733"
+}
+,{
+"RegistryId":"110000406784",
+"FacilityName":"PVS TECH  INC",
+"LocationAddress":"10825 HARPER AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48213-3371",
+"FIPSCode":"26163",
+"Latitude83":"42.395228",
+"Longitude83":"-82.996228"
+}
+,{
+"RegistryId":"110000405776",
+"FacilityName":"Q3 ALLMAND ASSOCIATES INC",
+"LocationAddress":"12001 LEVAN ROAD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150-1403",
+"FIPSCode":"26163",
+"Latitude83":"42.37029",
+"Longitude83":"-83.40165"
+}
+,{
+"RegistryId":"110000407051",
+"FacilityName":"QUACKER HOUGHTON",
+"LocationAddress":"9100 FREELAND AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48228",
+"FIPSCode":"26163",
+"Latitude83":"42.36137",
+"Longitude83":"-83.18362"
+}
+,{
+"RegistryId":"110000407186",
+"FacilityName":"QUAKER CHEMICAL CORP.",
+"LocationAddress":"14301 BIRWOOD AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238-2207",
+"FIPSCode":"26163",
+"Latitude83":"42.39308",
+"Longitude83":"-83.16328"
+}
+,{
+"RegistryId":"110002117637",
+"FacilityName":"QUALITY WIRE PROCESSING INC",
+"LocationAddress":"27005 TROLLEY INDUSTRIAL DR",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.249185",
+"Longitude83":"-83.299289"
+}
+,{
+"RegistryId":"110070692055",
+"FacilityName":"QUESTRON",
+"LocationAddress":"7601 W CHICAGO AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48204",
+"FIPSCode":"26163",
+"Latitude83":"42.36646",
+"Longitude83":"-83.14569"
+}
+,{
+"RegistryId":"110003560913",
+"FacilityName":"QUESTSPECIALTY CORPORATION",
+"LocationAddress":"3737 VENOY",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.281272",
+"Longitude83":"-83.361885"
+}
+,{
+"RegistryId":"110071909149",
+"FacilityName":"QUESTSPECIALTY LLC - MYRTLE",
+"LocationAddress":"34136 MYRTLE STREET",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"MI163",
+"Latitude83":"42.2793",
+"Longitude83":"-83.3742"
+}
+,{
+"RegistryId":"110002117977",
+"FacilityName":"R J MARSHALL CO",
+"LocationAddress":"14331 SCHAEFER",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227-5603",
+"FIPSCode":"26163",
+"Latitude83":"42.393",
+"Longitude83":"-83.17871"
+}
+,{
+"RegistryId":"110001130133",
+"FacilityName":"RAMPART INDUSTRIES INC",
+"LocationAddress":"17241 RYAN RD.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.420445",
+"Longitude83":"-83.062554"
+}
+,{
+"RegistryId":"110001301305",
+"FacilityName":"RAYCO PLATING",
+"LocationAddress":"10023 W. FORT STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-2532",
+"FIPSCode":"26163",
+"Latitude83":"42.29355",
+"Longitude83":"-83.13674"
+}
+,{
+"RegistryId":"110017418301",
+"FacilityName":"RED SPOT WESTLAND INC",
+"LocationAddress":"550 SOUTH EDWIN STREET",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48186-3801",
+"FIPSCode":"26163",
+"Latitude83":"42.30338",
+"Longitude83":"-83.41146"
+}
+,{
+"RegistryId":"110002455968",
+"FacilityName":"REICHHOLD CHEMICALS INC",
+"LocationAddress":"707 WOODWARD HEIGHTS BLVD",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220",
+"FIPSCode":"26125",
+"Latitude83":"42.468821",
+"Longitude83":"-83.098969"
+}
+,{
+"RegistryId":"110011910593",
+"FacilityName":"REILLY PLATING",
+"LocationAddress":"17760 CLARANN STREET",
+"SupplementalLocation":null,
+"CityName":"MELVINDALE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48122-1300",
+"FIPSCode":"26163",
+"Latitude83":"42.27946",
+"Longitude83":"-83.17167"
+}
+,{
+"RegistryId":"110002357048",
+"FacilityName":"REPUBLIC INDUSTRIAL AND ENERGY SOLUTIONS",
+"LocationAddress":"28470 CITRIN DR",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.24527",
+"Longitude83":"-83.31151"
+}
+,{
+"RegistryId":"110000406775",
+"FacilityName":"RIM CUSTOM RACKS",
+"LocationAddress":"6501 E. MCNICHOLS RD.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"482122027",
+"FIPSCode":"26163",
+"Latitude83":"42.41924",
+"Longitude83":"-83.03521"
+}
+,{
+"RegistryId":"110002456039",
+"FacilityName":"RING SCREW DIVISION",
+"LocationAddress":"22100 SHERWOOD AVENUE",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091-5444",
+"FIPSCode":"26099",
+"Latitude83":"42.45777",
+"Longitude83":"-83.03484"
+}
+,{
+"RegistryId":"110000406034",
+"FacilityName":"RJF INTL CORP",
+"LocationAddress":"12815 WAYNE ROAD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150-1244",
+"FIPSCode":"26163",
+"Latitude83":"42.37662",
+"Longitude83":"-83.38845"
+}
+,{
+"RegistryId":"110067417236",
+"FacilityName":"ROMIN IRON & METAL INC",
+"LocationAddress":"17400 CONANT ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48212",
+"FIPSCode":"26163",
+"Latitude83":"42.4221",
+"Longitude83":"-83.06592"
+}
+,{
+"RegistryId":"110001841641",
+"FacilityName":"SAFE SPOT BUSINESS PARK LLC",
+"LocationAddress":"18550 ALLEN ROAD",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192-8404",
+"FIPSCode":"26163",
+"Latitude83":"42.172756",
+"Longitude83":"-83.22729"
+}
+,{
+"RegistryId":"110002456253",
+"FacilityName":"SAFETY KLEEN SYSTEMS INC",
+"LocationAddress":"10480 HARRISON RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-2640",
+"FIPSCode":"26163",
+"Latitude83":"42.22859",
+"Longitude83":"-83.31776"
+}
+,{
+"RegistryId":"110003580562",
+"FacilityName":"SAKTHI AUTOMOTIVE GROUP USA, INC",
+"LocationAddress":"6401 W FORT ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.30588",
+"Longitude83":"-83.10525"
+}
+,{
+"RegistryId":"110000407131",
+"FacilityName":"SAMUEL-WHITTAR INC",
+"LocationAddress":"20001 SHERWOOD AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234-2924",
+"FIPSCode":"26163",
+"Latitude83":"42.442136",
+"Longitude83":"-83.034196"
+}
+,{
+"RegistryId":"110039560748",
+"FacilityName":"SAS GLOBAL FKA SURE ALLOY STEEL CORPORATION",
+"LocationAddress":"21601 MULLIN AVE",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089",
+"FIPSCode":"26099",
+"Latitude83":"42.45528",
+"Longitude83":"-83.01125"
+}
+,{
+"RegistryId":"110000406169",
+"FacilityName":"SATURN ELECTRONICS CORP",
+"LocationAddress":"28450 NORTHLINE RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.21013",
+"Longitude83":"-83.31736"
+}
+,{
+"RegistryId":"110000406631",
+"FacilityName":"SECODYNE, INCORPORATED - DETROIT, MI",
+"LocationAddress":"3255 GOLDNER AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48210-3232",
+"FIPSCode":"26163",
+"Latitude83":"42.32871",
+"Longitude83":"-83.10557"
+}
+,{
+"RegistryId":"110000406150",
+"FacilityName":"SEIBERT OXIDERMO INC",
+"LocationAddress":"16255 WAHRMAN RD.",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.18443",
+"Longitude83":"-83.384"
+}
+,{
+"RegistryId":"110000406686",
+"FacilityName":"SEIBERT OXIDERMO INC",
+"LocationAddress":"6455 STRONG AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-1893",
+"FIPSCode":"26163",
+"Latitude83":"42.38556",
+"Longitude83":"-83.0343"
+}
+,{
+"RegistryId":"110000405758",
+"FacilityName":"SH CAPITAL PARTNERS INC CIRCUITS DMA (DBA)",
+"LocationAddress":"32900 CAPITOL",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150-1743",
+"FIPSCode":"26163",
+"Latitude83":"42.37288",
+"Longitude83":"-83.36757"
+}
+,{
+"RegistryId":"110009595820",
+"FacilityName":"SHELL RIVER ROUGE LUBRICANTS PLANT",
+"LocationAddress":"245 MARION AVENUE",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.27537",
+"Longitude83":"-83.12137"
+}
+,{
+"RegistryId":"110070690722",
+"FacilityName":"SILVER'S METAL COMPANY",
+"LocationAddress":"1401 WOODLAND ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.39776",
+"Longitude83":"-83.07414"
+}
+,{
+"RegistryId":"110042072039",
+"FacilityName":"SINGLE SOURCE INC",
+"LocationAddress":"1497 E GRAND BLVD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.37913",
+"Longitude83":"-83.02529"
+}
+,{
+"RegistryId":"110000767402",
+"FacilityName":"SMS GROUP INC",
+"LocationAddress":"15200 HURON AVE.",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-6032",
+"FIPSCode":"26163",
+"Latitude83":"42.19584",
+"Longitude83":"-83.23501"
+}
+,{
+"RegistryId":"110002117575",
+"FacilityName":"SOLAR MACHINE PRODUCTS",
+"LocationAddress":"29350 NORTHLINE RD.",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.21",
+"Longitude83":"-83.32475"
+}
+,{
+"RegistryId":"110000406294",
+"FacilityName":"SOLUTIA INC",
+"LocationAddress":"5045 WEST JEFFERSON AVENUE",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183-4737",
+"FIPSCode":"26163",
+"Latitude83":"42.11988",
+"Longitude83":"-83.18894"
+}
+,{
+"RegistryId":"110015742589",
+"FacilityName":"SOLUTIA PLANT",
+"LocationAddress":"5100 W JEFFERSON AVE",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.1191",
+"Longitude83":"-83.1883"
+}
+,{
+"RegistryId":"110002454647",
+"FacilityName":"SPARTAN METAL FINISHING CO",
+"LocationAddress":"5400 EAST NEVADA STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234-2404",
+"FIPSCode":"26163",
+"Latitude83":"42.42617",
+"Longitude83":"-83.04904"
+}
+,{
+"RegistryId":"110054323521",
+"FacilityName":"SPRAYTEK INC",
+"LocationAddress":"2535 WOLCOTT",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220",
+"FIPSCode":"26125",
+"Latitude83":"42.467049",
+"Longitude83":"-83.127621"
+}
+,{
+"RegistryId":"110041970007",
+"FacilityName":"SRG GLOBAL INC",
+"LocationAddress":"12620 DELTA ST",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.21437",
+"Longitude83":"-83.27667"
+}
+,{
+"RegistryId":"110000614470",
+"FacilityName":"ST MARYS CEMENT",
+"LocationAddress":"9333  DEARBORN ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-2624",
+"FIPSCode":"26163",
+"Latitude83":"42.293126",
+"Longitude83":"-83.129359"
+}
+,{
+"RegistryId":"110000407195",
+"FacilityName":"STANDARD PAINT COMPANY",
+"LocationAddress":"8225 LYNDON AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238-2453",
+"FIPSCode":"26163",
+"Latitude83":"42.39531",
+"Longitude83":"-83.15147"
+}
+,{
+"RegistryId":"110037145130",
+"FacilityName":"STEEL INDUSTRIES INC PLANT 5",
+"LocationAddress":"33100 CAPITOL AVE",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.37283",
+"Longitude83":"-83.36989"
+}
+,{
+"RegistryId":"110025317084",
+"FacilityName":"STEEL INDUSTRIES PLANT 1",
+"LocationAddress":"12600 BEECH DALY",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239-2455",
+"FIPSCode":"26163",
+"Latitude83":"42.378729",
+"Longitude83":"-83.295199"
+}
+,{
+"RegistryId":"110025317093",
+"FacilityName":"STEEL INDUSTRIES PLANT 2",
+"LocationAddress":"12607 BEECH DALY RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239",
+"FIPSCode":"26163",
+"Latitude83":"42.37859",
+"Longitude83":"-83.2952"
+}
+,{
+"RegistryId":"110025333351",
+"FacilityName":"STEEL INDUSTRIES PLANT 4",
+"LocationAddress":"26555 FULLERTON",
+"SupplementalLocation":null,
+"CityName":"REDFORD",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239",
+"FIPSCode":"26163",
+"Latitude83":"42.37842",
+"Longitude83":"-83.3042"
+}
+,{
+"RegistryId":"110000700849",
+"FacilityName":"STERICYCLE SPECIALTY WASTE SOLUTIONS INC",
+"LocationAddress":"29959 BEVERLY RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-2031",
+"FIPSCode":"26163",
+"Latitude83":"42.26032",
+"Longitude83":"-83.33463"
+}
+,{
+"RegistryId":"110001848902",
+"FacilityName":"STRONG STEEL PRODUCTS",
+"LocationAddress":"6464 STRONG ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-1862",
+"FIPSCode":"26163",
+"Latitude83":"42.38556",
+"Longitude83":"-83.03387"
+}
+,{
+"RegistryId":"110000406338",
+"FacilityName":"STRUCTURAL COATINGS AND CHEMICAL",
+"LocationAddress":"5645 COGSWELL RD.",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481840577",
+"FIPSCode":"26163",
+"Latitude83":"42.26767",
+"Longitude83":"-83.416"
+}
+,{
+"RegistryId":"110002454479",
+"FacilityName":"STYLECRAFT PRODS INC, PLANT #1",
+"LocationAddress":"453 BEAUFAIT",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207-4303",
+"FIPSCode":"26163",
+"Latitude83":"42.3454",
+"Longitude83":"-83.00788"
+}
+,{
+"RegistryId":"110000406560",
+"FacilityName":"STYLECRAFT SITE",
+"LocationAddress":"1219 BEAUFAIT",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207-3408",
+"FIPSCode":"26163",
+"Latitude83":"42.34908",
+"Longitude83":"-83.010335"
+}
+,{
+"RegistryId":"110000405375",
+"FacilityName":"SUPER STEEL TREATING, INC.",
+"LocationAddress":"6227 RINKE",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091-5355",
+"FIPSCode":"26099",
+"Latitude83":"42.4739",
+"Longitude83":"-83.04102"
+}
+,{
+"RegistryId":"110022810608",
+"FacilityName":"SUPERIOR MATERIAILS PLANT 02",
+"LocationAddress":"20565 HOOVER RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48205",
+"FIPSCode":"26163",
+"Latitude83":"42.44779",
+"Longitude83":"-83.00518"
+}
+,{
+"RegistryId":"110055498509",
+"FacilityName":"SUPERIOR MATERIALS 32",
+"LocationAddress":"8911 W JEFFERSON",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.286406",
+"Longitude83":"-83.122227"
+}
+,{
+"RegistryId":"110067127139",
+"FacilityName":"SUPERIOR MATERIALS 32",
+"LocationAddress":"8800 DIX",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.31455",
+"Longitude83":"-83.13722"
+}
+,{
+"RegistryId":"110055498493",
+"FacilityName":"SUPERIOR MATERIALS 35",
+"LocationAddress":"39001 W HURON RIVER RD",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.21555",
+"Longitude83":"-83.42013"
+}
+,{
+"RegistryId":"110022810617",
+"FacilityName":"SUPERIOR MATERIALS PLANT 17",
+"LocationAddress":"9690 W JEFFERSON",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.281191",
+"Longitude83":"-83.128447"
+}
+,{
+"RegistryId":"110072218582",
+"FacilityName":"SUPERIOR ONSITE PLANT 11",
+"LocationAddress":"7811 W JEFFERSON AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.29316",
+"Longitude83":"-83.11156"
+}
+,{
+"RegistryId":"110000498836",
+"FacilityName":"T N WOODWORTH",
+"LocationAddress":"1600 FARROW ST",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220",
+"FIPSCode":"26125",
+"Latitude83":"42.45962",
+"Longitude83":"-83.11817"
+}
+,{
+"RegistryId":"110000406436",
+"FacilityName":"TAMINCO HIGHER AMINES INC",
+"LocationAddress":"17168 WEST JEFFERSON AVENUE",
+"SupplementalLocation":null,
+"CityName":"RIVERVIEW",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48193-4206",
+"FIPSCode":"26163",
+"Latitude83":"42.183889",
+"Longitude83":"-83.163056"
+}
+,{
+"RegistryId":"110000856805",
+"FacilityName":"TAYLOR EAST TERMINAL - BUCKEYE (WAS ATLAS OIL CO)",
+"LocationAddress":"24501 ECORSE RD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.25531",
+"Longitude83":"-83.27511"
+}
+,{
+"RegistryId":"110001301029",
+"FacilityName":"TAYLOR MACHINE PRODUCTS",
+"LocationAddress":"21300 EUREKA RD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.19817",
+"Longitude83":"-83.24387"
+}
+,{
+"RegistryId":"110000405829",
+"FacilityName":"THE CROWN GROUP-LIVONIA",
+"LocationAddress":"31774 ENTERPRISE DR.",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.36973",
+"Longitude83":"-83.35609"
+}
+,{
+"RegistryId":"110000406588",
+"FacilityName":"THORN APPLE VALLEY DELI&SMK MEATS DIV",
+"LocationAddress":"3925 TILLMAN STREET",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48208-2445",
+"FIPSCode":"26163",
+"Latitude83":"42.33938",
+"Longitude83":"-83.09421"
+}
+,{
+"RegistryId":"110000767359",
+"FacilityName":"THORN APPLE VALLEY INC, FREDERICK DIV",
+"LocationAddress":"1487 FARNSWORTH AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211",
+"FIPSCode":"26163",
+"Latitude83":"42.36407",
+"Longitude83":"-83.050177"
+}
+,{
+"RegistryId":"110000405838",
+"FacilityName":"TIREMAXX",
+"LocationAddress":"12801 NEWBURGH RD.",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"481501001",
+"FIPSCode":"26163",
+"Latitude83":"42.37647",
+"Longitude83":"-83.41174"
+}
+,{
+"RegistryId":"110002117897",
+"FacilityName":"TOOL CHEMICAL COMPANY INCORPORATED",
+"LocationAddress":"2226 BURDETTE STREET",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220-1404",
+"FIPSCode":"26125",
+"Latitude83":"42.464468",
+"Longitude83":"-83.126081"
+}
+,{
+"RegistryId":"110071720705",
+"FacilityName":"TOOLING & EQUIPMENT INTERNATIONAL",
+"LocationAddress":"12550 TECH CENTER DRIVE",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.372209",
+"Longitude83":"-83.340522"
+}
+,{
+"RegistryId":"110001300707",
+"FacilityName":"TREX PROPERTIES LLC",
+"LocationAddress":"26000 CAPITOL AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239-2402",
+"FIPSCode":"26163",
+"Latitude83":"42.3754",
+"Longitude83":"-83.30027"
+}
+,{
+"RegistryId":"110070692019",
+"FacilityName":"TRITON SYSTEMS LLC",
+"LocationAddress":"5355 ROYAL VALE LN",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48126",
+"FIPSCode":"26163",
+"Latitude83":"42.32726",
+"Longitude83":"-83.23208"
+}
+,{
+"RegistryId":"110002117619",
+"FacilityName":"TWB CORP",
+"LocationAddress":"11700 WORTHINGTON DR",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.22081",
+"Longitude83":"-83.23224"
+}
+,{
+"RegistryId":"110042281134",
+"FacilityName":"U-METCO INC",
+"LocationAddress":"8651 E 7 MILE RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.43413",
+"Longitude83":"-83.0165"
+}
+,{
+"RegistryId":"110000407006",
+"FacilityName":"UNI-BOND BRAKE, INC.",
+"LocationAddress":"1350 JARVIS",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220-2011",
+"FIPSCode":"26125",
+"Latitude83":"42.45669",
+"Longitude83":"-83.11548"
+}
+,{
+"RegistryId":"110045450025",
+"FacilityName":"UNISTRUT INTERNATIONAL CORPORATION",
+"LocationAddress":"4205 ELIZABETH ST",
+"SupplementalLocation":null,
+"CityName":"WAYNE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48184",
+"FIPSCode":"26163",
+"Latitude83":"42.277396",
+"Longitude83":"-83.389557"
+}
+,{
+"RegistryId":"110002117566",
+"FacilityName":"UNITED BRASS MFG INC",
+"LocationAddress":"35030 GODDARD RD.",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-3444",
+"FIPSCode":"26163",
+"Latitude83":"42.22313",
+"Longitude83":"-83.38244"
+}
+,{
+"RegistryId":"110001298961",
+"FacilityName":"UNITED BRASS MFG INC",
+"LocationAddress":"39000 HURON RIVER DRIVE",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-1105",
+"FIPSCode":"26163",
+"Latitude83":"42.21552",
+"Longitude83":"-83.42181"
+}
+,{
+"RegistryId":"110000404562",
+"FacilityName":"UNITED PAINT & CHEMICAL CORP",
+"LocationAddress":"24671 TELEGRAPH RD.",
+"SupplementalLocation":null,
+"CityName":"SOUTHFIELD",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48033-3035",
+"FIPSCode":"26125",
+"Latitude83":"42.46984",
+"Longitude83":"-83.28069"
+}
+,{
+"RegistryId":"110015683875",
+"FacilityName":"UNITED STATES GYPSUM",
+"LocationAddress":"10090 WEST JEFFERSON",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218",
+"FIPSCode":"26163",
+"Latitude83":"42.28033",
+"Longitude83":"-83.12917"
+}
+,{
+"RegistryId":"110000406249",
+"FacilityName":"UNIVAR SOLUTIONS USA INC",
+"LocationAddress":"27001 TROLLEY INDUSTRIAL ROAD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180-1423",
+"FIPSCode":"26163",
+"Latitude83":"42.24908",
+"Longitude83":"-83.30066"
+}
+,{
+"RegistryId":"110000406070",
+"FacilityName":"UNIVAR SOLUTIONS USA INC - ROMULUS BRANCH",
+"LocationAddress":"13395 HURON RIVER DR",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.2068",
+"Longitude83":"-83.40451"
+}
+,{
+"RegistryId":"110000767411",
+"FacilityName":"UNIVERTICAL CHEMICAL CO",
+"LocationAddress":"8051 W CHICAGO",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48204",
+"FIPSCode":"26163",
+"Latitude83":"42.366382",
+"Longitude83":"-83.148971"
+}
+,{
+"RegistryId":"110000822815",
+"FacilityName":"UNIVERTICAL CORP",
+"LocationAddress":"14841 MEYERS RD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48227-3994",
+"FIPSCode":"26163",
+"Latitude83":"42.398302",
+"Longitude83":"-83.169181"
+}
+,{
+"RegistryId":"110002117726",
+"FacilityName":"US AUTO RADIATOR MANUFACTURING CORP",
+"LocationAddress":"221 VICTOR",
+"SupplementalLocation":null,
+"CityName":"HIGHLAND PARK",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48203-3131",
+"FIPSCode":"26163",
+"Latitude83":"42.40889",
+"Longitude83":"-83.09044"
+}
+,{
+"RegistryId":"110000406668",
+"FacilityName":"US ECOLOGY",
+"LocationAddress":"6520 GEORGIA ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48211-1594",
+"FIPSCode":"26163",
+"Latitude83":"42.39353",
+"Longitude83":"-83.03255"
+}
+,{
+"RegistryId":"110000497141",
+"FacilityName":"US STEEL GREAT LAKES WORKS - ECORSE FACILITY",
+"LocationAddress":"1 QUALITY DR",
+"SupplementalLocation":null,
+"CityName":"ECORSE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48229",
+"FIPSCode":"26163",
+"Latitude83":"42.26016",
+"Longitude83":"-83.128653"
+}
+,{
+"RegistryId":"110000852667",
+"FacilityName":"V & S DETROIT GALVANIZING LLC",
+"LocationAddress":"12600 ARNOLD STREET",
+"SupplementalLocation":null,
+"CityName":"REDFORD TWP",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239-2637",
+"FIPSCode":"26163",
+"Latitude83":"42.37874",
+"Longitude83":"-83.29033"
+}
+,{
+"RegistryId":"110000406178",
+"FacilityName":"VACUUM ORNA METAL INC",
+"LocationAddress":"11380 HARRISON",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-2798",
+"FIPSCode":"26163",
+"Latitude83":"42.221",
+"Longitude83":"-83.3178"
+}
+,{
+"RegistryId":"110001298998",
+"FacilityName":"VALASSIS MANUFACTURING COMPANY",
+"LocationAddress":"35955 SCHOOLCRAFT RD",
+"SupplementalLocation":null,
+"CityName":"LIVONIA",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48150",
+"FIPSCode":"26163",
+"Latitude83":"42.38166",
+"Longitude83":"-83.39757"
+}
+,{
+"RegistryId":"110002463879",
+"FacilityName":"VALENITE INC CORP WALMET DIV",
+"LocationAddress":"404 EAST 10 MILE ROAD",
+"SupplementalLocation":null,
+"CityName":"PLEASANT RIDGE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48069-1201",
+"FIPSCode":"26125",
+"Latitude83":"42.47541",
+"Longitude83":"-83.13513"
+}
+,{
+"RegistryId":"110001680789",
+"FacilityName":"VALLEY / VULCAN MOLD CO",
+"LocationAddress":"1251 FORT ST",
+"SupplementalLocation":null,
+"CityName":"TRENTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.1588",
+"Longitude83":"-83.1882"
+}
+,{
+"RegistryId":"110002118020",
+"FacilityName":"VAN DEN BERGH FOODS CO",
+"LocationAddress":"14401 DEXTER BLVD.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48238-2633",
+"FIPSCode":"26163",
+"Latitude83":"42.39563",
+"Longitude83":"-83.1345"
+}
+,{
+"RegistryId":"110002451542",
+"FacilityName":"VAN DRESSER CORPORATION",
+"LocationAddress":"1515 NEWBURGH ROAD",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48185",
+"FIPSCode":"26163",
+"Latitude83":"42.319279",
+"Longitude83":"-83.408487"
+}
+,{
+"RegistryId":"110000592895",
+"FacilityName":"VER MAR PRODUCTS CORPORATION",
+"LocationAddress":"1453 E. 9 MILE RD.",
+"SupplementalLocation":null,
+"CityName":"HAZEL PARK",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48030",
+"FIPSCode":"26125",
+"Latitude83":"42.4617",
+"Longitude83":"-83.09006"
+}
+,{
+"RegistryId":"110000903853",
+"FacilityName":"VESCO OIL CORP",
+"LocationAddress":"1900 E WARREN AVE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207",
+"FIPSCode":"26163",
+"Latitude83":"42.36358",
+"Longitude83":"-83.04656"
+}
+,{
+"RegistryId":"110070814168",
+"FacilityName":"VVP AUTO GLASS, INC.",
+"LocationAddress":"1515 S NEWBURGH RD",
+"SupplementalLocation":"SUITES 200-300",
+"CityName":"WESTLAND",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48186",
+"FIPSCode":"26163",
+"Latitude83":"42.297365",
+"Longitude83":"-83.406195"
+}
+,{
+"RegistryId":"110003571652",
+"FacilityName":"W S MOLNAR CO",
+"LocationAddress":"2545 BEAUFAIT ST",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48207",
+"FIPSCode":"26163",
+"Latitude83":"42.35705",
+"Longitude83":"-83.01561"
+}
+,{
+"RegistryId":"110007224743",
+"FacilityName":"WALKER WIRE ISPAT INC",
+"LocationAddress":"660 E 10 MILE RD",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220",
+"FIPSCode":"26125",
+"Latitude83":"42.47557",
+"Longitude83":"-83.133196"
+}
+,{
+"RegistryId":"110000405393",
+"FacilityName":"WARREN TRUCK ASSEMBLY PLANT (WTAP)",
+"LocationAddress":"21500 MOUND ROAD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091",
+"FIPSCode":"26099",
+"Latitude83":"42.4587",
+"Longitude83":"-83.04451"
+}
+,{
+"RegistryId":"110070263252",
+"FacilityName":"WATERFRONT PETRO TERM-MILLER",
+"LocationAddress":"1071 MILLER ROAD",
+"SupplementalLocation":null,
+"CityName":"DEARBORN",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48120",
+"FIPSCode":"26163",
+"Latitude83":"42.29469",
+"Longitude83":"-83.14412"
+}
+,{
+"RegistryId":"110067428108",
+"FacilityName":"WATERFRONT PETROLEUM",
+"LocationAddress":"5431 W JEFFERSON AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.3044",
+"Longitude83":"-83.09091"
+}
+,{
+"RegistryId":"110070263976",
+"FacilityName":"WATERFRONT PETROLEUM TERMINAL-WEST JEFFERSON",
+"LocationAddress":"5431 WEST JEFFERSON AVENUE",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE COUNTY",
+"StateAbbr":"MI",
+"ZipCode":"48209",
+"FIPSCode":"26163",
+"Latitude83":"42.3044",
+"Longitude83":"-83.09091"
+}
+,{
+"RegistryId":"110002116889",
+"FacilityName":"WAYNE GREASE DIV OF DARLING & CO",
+"LocationAddress":"700 LEIGH",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48209-2615",
+"FIPSCode":"26163",
+"Latitude83":"42.28923",
+"Longitude83":"-83.12675"
+}
+,{
+"RegistryId":"110002117986",
+"FacilityName":"WESLEY QUAKER MAID INC",
+"LocationAddress":"18940 WEAVER",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48228",
+"FIPSCode":"26163",
+"Latitude83":"42.372576",
+"Longitude83":"-83.226082"
+}
+,{
+"RegistryId":"110012705073",
+"FacilityName":"WESTWIN LTD",
+"LocationAddress":"11930 PLEASANT AVE.",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48217-1620",
+"FIPSCode":"26163",
+"Latitude83":"42.28057",
+"Longitude83":"-83.14273"
+}
+,{
+"RegistryId":"110000406374",
+"FacilityName":"WEYERHAEUSER CO DETROIT CSC",
+"LocationAddress":"1550 SUPERIOR PKY.",
+"SupplementalLocation":null,
+"CityName":"WESTLAND",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48185-3252",
+"FIPSCode":"26163",
+"Latitude83":"42.32158",
+"Longitude83":"-83.42734"
+}
+,{
+"RegistryId":"110001845291",
+"FacilityName":"WICO METAL PRODUCTS",
+"LocationAddress":"23500 SHERWOOD RD",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48091-5363",
+"FIPSCode":"26099",
+"Latitude83":"42.46674",
+"Longitude83":"-83.03552"
+}
+,{
+"RegistryId":"110061830826",
+"FacilityName":"WINDSOR MACHINE & STAMPING US LTD",
+"LocationAddress":"26655 NORTHLINE ROAD",
+"SupplementalLocation":null,
+"CityName":"TAYLOR",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48180",
+"FIPSCode":"26163",
+"Latitude83":"42.21097",
+"Longitude83":"-83.29925"
+}
+,{
+"RegistryId":"110000917937",
+"FacilityName":"WIX FILTRATION PRODUCTS",
+"LocationAddress":"2615 WOLCOTT",
+"SupplementalLocation":null,
+"CityName":"FERNDALE",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48220-1422",
+"FIPSCode":"26125",
+"Latitude83":"42.46791",
+"Longitude83":"-83.1272"
+}
+,{
+"RegistryId":"110001843541",
+"FacilityName":"WOLVERINE DIE CAST CORP",
+"LocationAddress":"22550 NAGEL AVE",
+"SupplementalLocation":null,
+"CityName":"WARREN",
+"CountyName":"MACOMB",
+"StateAbbr":"MI",
+"ZipCode":"48089-3755",
+"FIPSCode":"26099",
+"Latitude83":"42.45868",
+"Longitude83":"-83.00221"
+}
+,{
+"RegistryId":"110000405712",
+"FacilityName":"WOLVERINE GASKET",
+"LocationAddress":"2638 PRINCESS ST.",
+"SupplementalLocation":null,
+"CityName":"INKSTER",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48141",
+"FIPSCode":"26163",
+"Latitude83":"42.293591",
+"Longitude83":"-83.302704"
+}
+,{
+"RegistryId":"110009598435",
+"FacilityName":"WOLVERINE GASKET & MANUFACTURING CO",
+"LocationAddress":"1900 W PLEASANT AVE",
+"SupplementalLocation":null,
+"CityName":"RIVER ROUGE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48218-1000",
+"FIPSCode":"26163",
+"Latitude83":"42.27948",
+"Longitude83":"-83.14035"
+}
+,{
+"RegistryId":"110000406187",
+"FacilityName":"WOODBRIDGE ROMULUS CORPORATION",
+"LocationAddress":"15573 OAKWOOD DR.",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174",
+"FIPSCode":"26163",
+"Latitude83":"42.186111",
+"Longitude83":"-83.3925"
+}
+,{
+"RegistryId":"110012705064",
+"FacilityName":"WOODHAVEN CAVERN LLC",
+"LocationAddress":"24400 ALLEN RD",
+"SupplementalLocation":null,
+"CityName":"WOODHAVEN",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48183",
+"FIPSCode":"26163",
+"Latitude83":"42.13188",
+"Longitude83":"-83.22578"
+}
+,{
+"RegistryId":"110000890698",
+"FacilityName":"WOODLAND MEADOWS RECYCLING FACILITY",
+"LocationAddress":"39900 VAN BORN",
+"SupplementalLocation":null,
+"CityName":"CANTON",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48188",
+"FIPSCode":"26163",
+"Latitude83":"42.265244",
+"Longitude83":"-83.430549"
+}
+,{
+"RegistryId":"110000407122",
+"FacilityName":"WOODWORTH INC.",
+"LocationAddress":"20251 SHERWOOD",
+"SupplementalLocation":null,
+"CityName":"DETROIT",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48234",
+"FIPSCode":"26163",
+"Latitude83":"42.445833",
+"Longitude83":"-83.035"
+}
+,{
+"RegistryId":"110011804903",
+"FacilityName":"WOODWORTH INDUSTRIES INC",
+"LocationAddress":"21235 JOHN R ROAD",
+"SupplementalLocation":null,
+"CityName":"HAZEL PARK",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48030-2208",
+"FIPSCode":"26125",
+"Latitude83":"42.45097",
+"Longitude83":"-83.10315"
+}
+,{
+"RegistryId":"110001853575",
+"FacilityName":"WOOLF AIRCRAFT PRODUCTS INC",
+"LocationAddress":"6401 COGSWELL",
+"SupplementalLocation":null,
+"CityName":"ROMULUS",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48174-4039",
+"FIPSCode":"26163",
+"Latitude83":"42.25943",
+"Longitude83":"-83.41621"
+}
+,{
+"RegistryId":"110001680823",
+"FacilityName":"WYANDOTTE MUNICIPAL POWER PLANT",
+"LocationAddress":"2555 VAN ALSTYNE ST",
+"SupplementalLocation":null,
+"CityName":"WYANDOTTE",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48192",
+"FIPSCode":"26163",
+"Latitude83":"42.207794",
+"Longitude83":"-83.147148"
+}
+,{
+"RegistryId":"110001849028",
+"FacilityName":"X-CEL INDUSTRIES INC.",
+"LocationAddress":"21121 TELEGRAPH ROAD",
+"SupplementalLocation":null,
+"CityName":"SOUTHFIELD",
+"CountyName":"OAKLAND",
+"StateAbbr":"MI",
+"ZipCode":"48033-4253",
+"FIPSCode":"26125",
+"Latitude83":"42.445488",
+"Longitude83":"-83.279696"
+}
+,{
+"RegistryId":"110001145895",
+"FacilityName":"Z TECHNOLOGIES CORP.",
+"LocationAddress":"26500 CAPITOL",
+"SupplementalLocation":null,
+"CityName":"REDFORD",
+"CountyName":"WAYNE",
+"StateAbbr":"MI",
+"ZipCode":"48239",
+"FIPSCode":"26163",
+"Latitude83":"42.37528",
+"Longitude83":"-83.3036"
+}
+]
+}
+}

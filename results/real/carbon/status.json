@@ -1,0 +1,5 @@
+{
+  "status": "awaiting_facility_activity_and_documented_factors",
+  "source_template": "data/facility_activity_template.csv",
+  "interpretation": "No Scope 1/2 number is reported; satellite plume rates cannot establish annual inventory."
+}

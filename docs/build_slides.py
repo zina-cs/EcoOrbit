@@ -1,0 +1,26 @@
+from reportlab.pdfgen import canvas
+from reportlab.lib.colors import HexColor
+from reportlab.lib.utils import ImageReader
+c=canvas.Canvas('docs/slides.pdf',pagesize=(960,540))
+def page(n,title,lines=(),img=None,note=''):
+ c.setFillColor(HexColor('#06211F'));c.rect(0,0,960,540,fill=1,stroke=0)
+ c.setFillColor(HexColor('#E7BE63'));c.setFont('Helvetica-Bold',22);c.drawString(48,484,title)
+ c.setFillColor(HexColor('#E6F0EC'));c.setFont('Helvetica',13)
+ for i,s in enumerate(lines):c.drawString(55,430-i*32,'- '+s)
+ if img:c.drawImage(ImageReader(img),80,90,width=800,height=315,preserveAspectRatio=True)
+ c.setFillColor(HexColor('#E7BE63'));c.setFont('Helvetica',11);c.drawString(50,55,note)
+ c.setFont('Helvetica',9);c.drawString(50,25,f'EcoOrbit | {n}');c.showPage()
+page(1,'EcoOrbit | methane and pollutant intelligence',['Three international CH4 case-study sites; QA-screened satellite workflow','Tanager land-use classification is a supporting feature','Team: [add] | Official theme: [add]'])
+page(2,'Methane evidence question',['Stanford Arizona: verified 2022 controlled releases.','Hassi R Mel: published regional methane study; Jeddah landfill target.','Proposed Jeddah 2024 dates require satellite verification.'])
+page(3,'Pollutant data and provenance',['Sentinel-5P CH4: real US regional observations included.','New CH4 case scenes pending; no claimed target plume.','Carbon Mapper / EMIT CH4 and CO2 exports add rate, wind, uncertainty.'])
+page(4,'CH4 method',['TROPOMI XCH4 ppb: QA > 0.5 and 0-25 km versus 25-80 km.','A regional column contrast cannot establish site emissions.','Check hyperspectral plume image, wind and source geometry.'])
+page(5,'Real hyperspectral plumes',['Brazil landfill: Tanager CH4, 2,836 kg/h (29 Sep 2024).','India power generation: Tanager CO2, 838,000 kg/h (1 Nov 2024).','Carbon Mapper EMIT example: CH4 3,610.58 +/- 377.95 kg/h.'],note='Published examples; the three proposed case targets still require observed scenes.')
+page(6,'Supporting factory-site screen',img='results/real/classifier/factory_scores_map.png',note='24 points across three US metros; point scores do not validate building polygons.')
+page(7,'Held-out evaluation',img='results/real/classifier/all_city_test_metrics.png',note='12 test sites across three cities: 11/12 accuracy, AUC 0.944; school-only controls.')
+page(8,'Observed green reference',img='results/real/green_reference_comparison.png',note='Jacksonville Tanager: green cluster NDVI 0.770 vs 8 factory-neighborhood median 0.305; not matched parcels.')
+page(9,'Observed surface heat',img='results/real/heat/site_heat.png',note='19 distinct Landsat sites, 38 dated rows; surface contrast is not waste-heat flux.')
+page(10,'Two-date Sentinel-2 change',img='results/real/land/site_change.png',note='Eight paired sites: six Jacksonville, two Detroit; no valid Rochester pixels in selected scenes.')
+page(11,'Satellite pollutant columns',['TROPOMI NO2 and SO2: observed at eight Detroit sites.','Multi-kilometre pixels may include multiple factories.','Jacksonville download pending; Rochester no image-week items.'])
+page(12,'Carbon and interactive dashboard',['Gas, case and date filters; NO2, SO2, PM and aerosol selectors.','Instantaneous CH4/CO2 plume kg/h is not an annual inventory.','Facility activity and sourced factors enable Scope 1/2 tCO2e.'])
+page(13,'ESG evidence and next steps',['GRI 305 / GHG Protocol gaps shown until records are supplied.','Verify plume source, wind, operating period and site polygons.','Landfill and factory classes require validated training examples.'])
+c.save()

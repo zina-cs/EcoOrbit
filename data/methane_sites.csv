@@ -1,0 +1,4 @@
+site_id,name,country,site_type,latitude,longitude,analysis_start,analysis_end,date_basis,verification,source_url
+stanford_arizona,Stanford controlled-release location,USA,controlled_release,32.8218205,-111.7857730,2022-10-10,2022-11-30,published_2022_experiment,verified_2022_location_and_period,https://amt.copernicus.org/articles/17/765/2024/
+hassi_rmel,Hassi R'Mel gas field,Algeria,oil_gas,32.9,3.2,2020-01-01,2020-12-31,published_2020_region,approximate_field_center_not_stack,https://pubmed.ncbi.nlm.nih.gov/37956986/
+jeddah_landfill,Wadi Al-Asla landfill,Saudi Arabia,landfill,21.644194,39.390260,2024-02-26,2024-10-15,user_proposed_dates_unverified,landfill_location_documented_events_unverified,https://pmc.ncbi.nlm.nih.gov/articles/PMC13024435/
