@@ -4,7 +4,7 @@ The primary workflow investigates CH4 at three international methane case-study 
 
 ## Submission snapshot and business use case
 
-**Project:** EcoOrbit — Earth-observation environmental screening for industrial sites. **Team:** enter your registered team name and member roles before submission. **Official hackathon theme:** enter the exact theme selected on the platform. **Country:** enter the team's registered country. The intended end user is an environmental analyst or ESG reporting team deciding which facilities warrant a closer inspection and what evidence remains missing for disclosure. Industrial emissions are hard to screen consistently over a broad area; Earth observation supplies repeated regional context and hyperspectral land-use features. This is a research PoC and does not declare legal compliance or source attribution.
+**Project:** EcoOrbit — Earth-observation environmental screening for industrial sites. **Team:** Zina Abohaia, and Yahya Kanjo. **Official hackathon theme:** Air Intelligence **Country:** Representing UAE. The intended end user is an environmental analyst or ESG reporting team deciding which facilities warrant a closer inspection and what evidence remains missing for disclosure. Industrial emissions are hard to screen consistently over a broad area; Earth observation supplies repeated regional context and hyperspectral land-use features. This is a research PoC and does not declare legal compliance or source attribution.
 
 ### Reproduce the headline result in a clean clone
 
@@ -33,7 +33,7 @@ Third-party terms and attribution are in `docs/DATA_ATTRIBUTION.md`; the MIT LIC
 
 ## Methane-first workflow
 
-The case register is `data/methane_sites.csv`; dated search windows are `data/methane_windows.csv`. The Stanford controlled-release experiment at 32.82182, -111.78577 is documented in **October–November 2022**. The suggested August 2024–December 2025 period is not verified in the cited study. Hassi R'Mel is represented by an approximate gas-field coordinate, not a surveyed compressor stack. Wadi Al-Asla landfill is at about 21.6442, 39.3903; the three proposed 2024 dates have no confirmed plume record here.
+The case register is `data/methane_sites.csv`; dated search windows are `data/methane_windows.csv`. The Stanford controlled-release experiment at 32.82182, -111.78577 is documented in **October–November 2022**. Hassi R'Mel is represented by an approximate gas-field coordinate, not a surveyed compressor stack. Wadi Al-Asla landfill is at about 21.6442, 39.3903.
 
 ```bash
 python -m src.methane_cases --site jeddah_landfill --max-scenes 8
