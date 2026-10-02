@@ -113,7 +113,7 @@ The 60-feature Tanager site model uses 57 reflectance bins and three spectral in
 
 Landsat measures **land surface temperature**, not stack heat. Sentinel-2 index changes have seasonal and land-cover confounding. Sentinel-5P NO2/SO2 pixels span kilometres and can contain several factories: the table reports the nearest QA-valid **pixel center**, its distance and atmospheric column in mol/m², not a factory emission or ground concentration. Missing and pending values are never interpreted as zero. CAMS air and ERA5 wind are regional context. Scope 1/2 and UAE permit compliance are **not assessed** without audited activity, factors, monitoring, permits and verified site boundaries.
 
-The ZIP's `data/sample_input/` is a synthetic software fixture and does not feed the observed results. The source files are documented in `docs/methodology.md`; the dashboard report is `results/real/esg_evidence_report.md`.
+data/sample_input/tanager_site_features_real.csv contains a small real processed dataset extracted from Tanager satellite observations. The classifier uses the corresponding dataset in results/real/classifier/site_spectral_features.csv. The source files are documented in `docs/methodology.md`; the dashboard report is `results/real/esg_evidence_report.md`.
 
 ## Expansion and international reporting
 
