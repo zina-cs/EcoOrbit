@@ -1,0 +1,28 @@
+{
+  "status": "aerosol screening only; no factory attribution",
+  "method": "500m circle median minus 2-4km annulus median, SCL cloud/water masked",
+  "wind": {
+    "provider": "ERA5 reanalysis through Open-Meteo Historical Weather API",
+    "request": {
+      "latitude": 30.34,
+      "longitude": -81.648,
+      "start_date": "2025-05-16",
+      "end_date": "2025-05-22",
+      "hourly": "wind_speed_10m,wind_direction_10m",
+      "wind_speed_unit": "kmh",
+      "timezone": "UTC",
+      "models": "era5"
+    },
+    "returned_latitude": 30.25,
+    "returned_longitude": -81.75,
+    "units": {
+      "time": "iso8601",
+      "wind_speed_10m": "km/h",
+      "wind_direction_10m": "\u00b0"
+    },
+    "direction_convention": "Degrees clockwise from north; direction wind comes FROM"
+  },
+  "directional_method": "500m-2km upwind versus downwind 90-degree sectors; wind direction FROM north clockwise; 10m reanalysis wind nearest scene hour",
+  "caveat": "AOT may be coarsely estimated or CAMS-filled; wind varies with height, nearby sites overlap, ground validation absent; no emission rate or attribution",
+  "n_scenes": 1
+}

@@ -1,0 +1,96 @@
+{
+  "scene_id": "20250516_164837_16_4001",
+  "scene_datetime": "2025-05-16T16:48:37.165094Z",
+  "bbox": [
+    -81.69369938031545,
+    30.259070621905575,
+    -81.45079750932877,
+    30.439677039738726
+  ],
+  "hyperspectral_product": "Tanager orthorectified L2A surface reflectance",
+  "bin_nm": 30,
+  "stride": 2,
+  "valid_pixels": 86444,
+  "clusters": [
+    {
+      "cluster": 0,
+      "name": "built/bare candidate",
+      "pixels": 14651,
+      "ndvi": 0.0002140525175491348,
+      "ndbi": -0.04987648129463196,
+      "mndwi": 0.06289204955101013
+    },
+    {
+      "cluster": 1,
+      "name": "vegetation-like",
+      "pixels": 21096,
+      "ndvi": 0.46394068002700806,
+      "ndbi": -0.06908908486366272,
+      "mndwi": -0.3759971857070923
+    },
+    {
+      "cluster": 2,
+      "name": "vegetation-like",
+      "pixels": 10406,
+      "ndvi": 0.27285972237586975,
+      "ndbi": 0.042996328324079514,
+      "mndwi": -0.3231571912765503
+    },
+    {
+      "cluster": 3,
+      "name": "vegetation-like",
+      "pixels": 14294,
+      "ndvi": 0.5276411771774292,
+      "ndbi": -0.15212760865688324,
+      "mndwi": -0.3425300121307373
+    },
+    {
+      "cluster": 4,
+      "name": "vegetation-like",
+      "pixels": 14052,
+      "ndvi": 0.7699070572853088,
+      "ndbi": -0.3396416902542114,
+      "mndwi": -0.395496666431427
+    },
+    {
+      "cluster": 5,
+      "name": "built/bare candidate",
+      "pixels": 1301,
+      "ndvi": 0.1906251609325409,
+      "ndbi": 0.11984450370073318,
+      "mndwi": -0.34932518005371094
+    },
+    {
+      "cluster": 6,
+      "name": "built/bare candidate",
+      "pixels": 10644,
+      "ndvi": 0.05617735907435417,
+      "ndbi": -0.05940886586904526,
+      "mndwi": 0.04447516053915024
+    }
+  ],
+  "air": {
+    "request": {
+      "latitude": 30.34937,
+      "longitude": -81.57225,
+      "start_date": "2025-05-16",
+      "end_date": "2025-05-22",
+      "timezone": "UTC",
+      "domains": "cams_global"
+    },
+    "returned_latitude": 30.300003,
+    "returned_longitude": -81.6,
+    "units": {
+      "time": "iso8601",
+      "nitrogen_dioxide": "\u03bcg/m\u00b3",
+      "sulphur_dioxide": "\u03bcg/m\u00b3"
+    },
+    "source": "CAMS global model via Open-Meteo, regional context"
+  },
+  "limitations": [
+    "Clusters are unsupervised materials, not verified factory polygons",
+    "No independent classification accuracy yet",
+    "CAMS grid is regional model context; not source attribution",
+    "No measured emissions or UAE compliance finding"
+  ]
+}

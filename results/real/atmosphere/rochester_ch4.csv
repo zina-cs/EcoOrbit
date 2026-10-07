@@ -1,0 +1,2 @@
+city,date,product,scene_id,n_valid,median,p95,unit,nearest_valid_km,radius_km,qa_threshold,variable,status
+Rochester,2025-08-01/2025-08-09,ch4,,0,,,ppb,,50,0.5,methane_mixing_ratio_bias_corrected,no product scenes in queried image-week window

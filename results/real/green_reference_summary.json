@@ -1,0 +1,16 @@
+{
+  "scene_id": "20250516_164837_16_4001",
+  "green_patch_count": 12,
+  "factory_site_count": 8,
+  "sampled_pixel_m": 60,
+  "patch_width_m_approx": 300,
+  "green_cluster": 4,
+  "green_cluster_pixels": 14052,
+  "green_cluster_ndvi_median": 0.7699070572853088,
+  "green_cluster_ndbi_median": -0.3396416902542114,
+  "factory_site_ndvi_median": 0.30524905394462754,
+  "factory_site_ndbi_median": -0.0074801114814331,
+  "ndvi_reference_minus_factory": 0.4646580033406813,
+  "comparison_scope": "Green cluster-wide median versus 8 factory-neighborhood medians; green patches are spatial reference locations, not 12 independent NDVI measurements or verified parks.",
+  "limitations": "Unsupervised vegetation-like pixels; no OSM park polygon validation; different spatial supports; not classifier test data or evidence of factory emissions."
+}

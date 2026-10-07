@@ -1,0 +1,2 @@
+city,date,product,scene_id,n_valid,median,p95,unit,nearest_valid_km,radius_km,qa_threshold,variable,status
+Rochester,2025-08-01/2025-08-09,aer-ai,,0,,,dimensionless,,30,0.8,aerosol_index_354_388,no product scenes in queried image-week window

@@ -1,0 +1,5 @@
+site_id,name,country,latitude,longitude,case_status,event_date_evidence,interpretation
+stanford_arizona,Stanford controlled-release location,USA,32.8218205,-111.785773,target_registered_no_case_observation_downloaded,published_2022_experiment,No conclusion about methane release from this project output
+hassi_rmel,Hassi R'Mel gas field,Algeria,32.9,3.2,target_registered_no_case_observation_downloaded,published_2020_region,No conclusion about methane release from this project output
+jeddah_landfill,Wadi Al-Asla landfill,Saudi Arabia,21.644194,39.39026,nasa_emit_v002_ch4_plume_granules_near_site_metadata_review_pending,"NASA EMIT CMR granules 2024-02-26, 2024-06-09, 2024-10-15",EMIT vetted plume products near approximate landfill point; source attribution and emissions rate not established
+seropedica_landfill,CTR Santa Rosa landfill,Brazil,-22.795703,-43.760558,nasa_emit_v002_ch4_plume_granules_near_site_metadata_review_pending,NASA EMIT CMR granules 2024-03-05 and 2024-09-24,EMIT vetted plume products near approximate landfill point; source attribution and emissions rate not established

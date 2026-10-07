@@ -1,0 +1,2 @@
+city,date,product,scene_id,n_valid,median,p95,unit,nearest_valid_km,radius_km,qa_threshold,variable,status
+Detroit,2025-09-14,ch4,S5P_L2_CH4____20250914T170154_20250914T184323_41049,53,1941.34423828125,1955.608642578125,ppb,2.097189426422119,50,0.5,methane_mixing_ratio_bias_corrected,regional observation

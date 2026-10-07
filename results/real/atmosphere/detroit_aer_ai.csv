@@ -1,0 +1,2 @@
+city,date,product,scene_id,n_valid,median,p95,unit,nearest_valid_km,radius_km,qa_threshold,variable,status
+Detroit,2025-09-14,aer-ai,S5P_L2_AER_AI_20250914T175829_20250914T180329_41049,81,-0.65367192029953,-0.37275126576423645,dimensionless,2.854661703109741,30,0.8,aerosol_index_354_388,regional observation

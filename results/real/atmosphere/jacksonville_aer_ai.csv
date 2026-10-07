@@ -1,0 +1,2 @@
+city,date,product,scene_id,n_valid,median,p95,unit,nearest_valid_km,radius_km,qa_threshold,variable,status
+Jacksonville,2025-05-16,aer-ai,S5P_L2_AER_AI_20250516T181429_20250516T195559_39333,75,0.133583202958107,0.37074217200279236,dimensionless,2.140056848526001,30,0.8,aerosol_index_354_388,regional observation
