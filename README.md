@@ -240,7 +240,6 @@ The first dashboard tab now contains **source-linked, real hyperspectral plume o
 | Singrauli electricity generation, India | CO2 | 1 Nov 2024, Tanager-1 | preliminary source rate 838,000 kg CO2/h | Carbon Mapper article and named plume image |
 | Carbon Mapper published API example | CH4 | 20 Apr 2024, EMIT | 3,610.58 ± 377.95 kg CH4/h | Carbon Mapper product guide: ID, coordinates, quality and wind |
 
-The exact names, values, rate basis and primary source links are in `data/published_plumes.csv`. The Brazil and India articles do not publish exact plume-origin coordinates or uncertainty in the cited text, so those fields are blank. Do not confuse these published cases with the three separate targets at Stanford Arizona, Hassi R'Mel and Jeddah, which have different evidence status: NASA catalog plume metadata now exists near Jeddah, while Stanford and Hassi R'Mel have no downloaded case observations in this package. Rates are snapshots/source estimates as labelled, not annual totals.
 
 ## Google Colab
 
