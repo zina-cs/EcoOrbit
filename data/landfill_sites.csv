@@ -1,0 +1,3 @@
+site_id,name,country,latitude,longitude,coordinate_basis,source_url
+jeddah_landfill,Wadi Al-Asla landfill,Saudi Arabia,21.644194,39.390260,approximate documented site coordinate,https://pmc.ncbi.nlm.nih.gov/articles/PMC13024435/
+seropedica_landfill,CTR Santa Rosa landfill,Brazil,-22.795703,-43.760558,published study site coordinate,https://www.scielo.br/j/esa/a/KxSL5H6myVRYNSZNRVKgRjm/?lang=en

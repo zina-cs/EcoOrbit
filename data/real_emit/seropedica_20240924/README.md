@@ -1,0 +1,1 @@
+Original real NASA EMIT V002 plume TIFF and GeoJSON uploaded by user; cached real ERA5/Open-Meteo response. No synthetic observations. This PLM-only analysis has no sensitivity/uncertainty rasters and does not infer them. See docs/EMIT_PIXEL_METHOD.md.

@@ -1,0 +1,29 @@
+{
+  "provider": "OpenStreetMap Nominatim",
+  "request": {
+    "q": "459 E 16th St, Jacksonville, FL 32206",
+    "format": "json"
+  },
+  "selected_result": {
+    "place_id": 411122326,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1165089749,
+    "lat": "30.3537190",
+    "lon": "-81.6473639",
+    "class": "place",
+    "type": "house",
+    "place_rank": 30,
+    "importance": 9.99999999995449e-06,
+    "addresstype": "place",
+    "name": "",
+    "display_name": "459, East 16th Street, Springfield, Jacksonville, Duval County, Florida, 32206, United States",
+    "boundingbox": [
+      "30.3536690",
+      "30.3537690",
+      "-81.6474139",
+      "-81.6473139"
+    ]
+  },
+  "factory_address_source": "https://swishersweets.com/terms-conditions/"
+}

@@ -1,0 +1,25 @@
+from reportlab.pdfgen import canvas
+from reportlab.lib.colors import HexColor
+from reportlab.lib.utils import ImageReader
+c=canvas.Canvas('docs/slides.pdf',pagesize=(960,540))
+def page(n,title,lines=(),img=None,note=''):
+ c.setFillColor(HexColor('#06211F'));c.rect(0,0,960,540,fill=1,stroke=0)
+ c.setFillColor(HexColor('#E7BE63'));c.setFont('Helvetica-Bold',22);c.drawString(48,484,title)
+ c.setFillColor(HexColor('#E6F0EC'));c.setFont('Helvetica',13)
+ for i,s in enumerate(lines):c.drawString(55,430-i*32,'- '+s)
+ if img:c.drawImage(ImageReader(img),80,90,width=800,height=315,preserveAspectRatio=True)
+ c.setFillColor(HexColor('#E7BE63'));c.setFont('Helvetica',11);c.drawString(50,55,note)
+ c.setFont('Helvetica',9);c.drawString(50,25,f'EcoOrbit | {n}');c.showPage()
+page(1,'EcoOrbit | methane and carbon intelligence',['Team: EcoOrbit | Challenge: Air Intelligence','Real NASA methane pixels and separate published CO2 references','Site ML and multispectral analysis support follow-up'])
+page(2,'Solution: three real methane observations',['Jeddah: 9 June 2024; Seropedica: 5 March and 24 September 2024','Inspect pixels, overpass wind, selected excess mass and thresholds','Diagnostic flux scenarios are not validated facility emissions'])
+page(3,'Hyperspectral gas evidence',img='results/real/emit_pixels/jeddah_20240609/pixel_analysis.png',note='Jeddah: sensitivity correction, background subtraction and uncertainty screening.')
+page(4,'Brazil methane: March observation',img='results/real/emit_pixels/seropedica_20240305/pixel_analysis.png',note='Original NASA plume pixels; no invented sensitivity or uncertainty correction.')
+page(5,'Brazil methane: September observation',img='results/real/emit_pixels/seropedica_20240924/pixel_analysis.png',note='Real ERA5 wind and mask sensitivity; attributed emission rate remains unvalidated.')
+page(6,'Preprocessing: provider and project roles',['Providers supply calibrated gas retrievals and L2 surface products','EcoOrbit applies geometry, QA, spectral bins and plume pixel selection','EcoOrbit does not rerun radiance calibration or atmospheric correction'])
+page(7,'Actual gas analysis',['Integrate selected column excess methane using real pixel areas','Use pressure/temperature and overpass ERA5 wind as assumptions','Report mask sensitivity and avoid annualizing snapshot flux'])
+page(8,'Supplementary machine learning',img='results/real/classifier/all_city_test_metrics.png',note='36 training / 12 test sites across all cities; 11/12 accuracy; school-control limitation.')
+page(9,'Multispectral site follow-up',img='results/real/land/site_change.png',note='Sentinel-2 B04/B08/B11 and SCL; completed US examples are separate from landfill events.')
+page(10,'Additional features',img='results/real/heat/site_heat.png',note='Landsat surface heat, green context, site maps and relevant NO2/SO2 columns.')
+page(11,'Carbon evidence and reporting',['Published Tanager CO2 reference: 838,000 kg/h at power-generation site','This is provider-reported evidence, not an EcoOrbit landfill retrieval','GRI 305 / GHG Protocol: no annual inventory without facility records'])
+page(12,'Judge walkthrough and reproduction',['Website pages: Solution, Methodology, Additional features','Run src.emit_cases, src.evaluate_sites and src.build_website','Real bundled inputs, notebooks and precise source/processing documentation'])
+c.save()

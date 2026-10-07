@@ -1,0 +1,3 @@
+facility_id,name,latitude,longitude,address,kind,coordinate_status,source_url
+MAXWELL01,Maxwell House Coffee Plant,30.324434,-81.648545,"Jacksonville, Florida, USA",manufacturing_site,"University of North Florida archival site coordinate; verify parcel",https://digitalcommons.unf.edu/historical_architecture_main/2244/
+SWISHER01,Swisher Jacksonville Cigar Factory,30.353719,-81.6473639,"459 E 16th St, Jacksonville, FL 32206",manufacturing_site,"Company address geocoded through OpenStreetMap Nominatim; verify parcel",https://www.swisher.com/our-history
