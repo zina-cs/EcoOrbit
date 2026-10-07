@@ -1,3 +1,0 @@
-facility_id,name,scene_id,source_pixel_valid,exact_sampled_pixel_valid,valid_pixels_near_point,dominant_spectral_cluster,dominant_fraction,interpretation
-MAXWELL01,Maxwell House Coffee Plant,20250516_164837_16_4001,True,False,22,2,0.7272727272727273,150 m neighborhood material context; factory class unverified
-SWISHER01,Swisher Jacksonville Cigar Factory,20250516_164837_16_4001,True,True,22,1,0.36363636363636365,150 m neighborhood material context; factory class unverified

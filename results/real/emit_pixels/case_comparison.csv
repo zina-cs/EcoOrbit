@@ -1,4 +1,0 @@
-case_id,observed_utc,processing_mode,peak_raw_ppmm,wind_m_s,threshold_ppmm,selected_pixels,area_m2,integrated_excess_ch4_kg,sensor_only_mass_sigma_kg,fetch_m,hypothetical_simple_ime_kg_h,partial_sigma_kg_h
-jeddah_20240609,2024-06-09T05:02:26Z,"Sensitivity correction, background subtraction, SNR≥2",4475.826171875,1.14,500,812,2737060.2625329196,2219.68228566144,30.986329743990304,11857.552727970586,768.2509459870349,1010.9133975095853
-seropedica_20240305,2024-03-05T12:33:25Z,NASA plume enhancement; no sensitivity correction or SNR screen applied,11075.9208984375,1.9396569441442575,500,2084,6968117.635587633,6413.220302513844,,5767.8832182687975,7764.028598379562,
-seropedica_20240924,2024-09-24T13:36:17Z,NASA plume enhancement; no sensitivity correction or SNR screen applied,2510.91552734375,2.7259249431086916,500,747,2497045.76951465,1399.094327231282,,4758.7931583460395,2885.1378050803446,
