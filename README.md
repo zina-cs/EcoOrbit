@@ -139,24 +139,22 @@ python -m pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-The dashboard works immediately from included outputs. **A Gemini API key is not required to open the app or inspect any results tab.** The EcoOrbit Chat tab stays available but only replies after a key is provided. Open the Methane cases tab first; target locations have explicit pending statuses while measured US regional CH4 context is shown. Select a city and factory to inspect the map, held-out classifier scores, heat and land-change tables, QA-filtered pollutant columns and wind/ESG evidence. The methodology diagram and detailed report are in `docs/methodology.md` and `docs/methodology_report.pdf`. A short submission deck is `docs/slides.pdf`.
+The dashboard works immediately from the included outputs. **A Gemini API key is not required to open the app or inspect any results tab.** The EcoOrbit Chat tab stays available but only replies after a key is provided. Open the Methane cases tab first; target locations have explicit pending statuses while measured US regional CH4 context is shown. Select a city and factory to inspect the map, held-out classifier scores, heat and land-change tables, QA-filtered pollutant columns and wind/ESG evidence. The methodology diagram and detailed report are in `docs/methodology.md` and `docs/methodology_report.pdf`. A short submission deck is `docs/slides.pdf`.
 
 ## EcoOrbit Chat (optional Gemini key)
 
-The **EcoOrbit Chat** tab is an on-topic explainable-AI helper for this PoC. It answers from bundled results, methodology and README material (methane pixels, classifier metrics, coverage limits, ESG gaps). It declines unrelated questions. The chat uses Google Gemini; without a key the tab explains how to add one and the rest of Streamlit still runs.
+The **EcoOrbit Chat** tab is an on-topic explainable-AI helper for this PoC. It answers from bundled results, methodology and README material (methane pixels, classifier metrics, coverage limits, ESG gaps). It declines unrelated questions. The chat uses Google Gemini; without a key, the tab explains how to add one and the rest of Streamlit still runs.
 
-Do **not** put an API key in `requirements.txt` (that file is only Python packages) and do not commit a key.
+**Easiest way to use the chat:** open the dashboard, go to EcoOrbit Chat, paste a free key from [Google AI Studio](https://aistudio.google.com/apikey) into the key box, then ask a starter question. The key stays in the browser session and is not written to disk.
 
-**Easiest for judges:** open the dashboard, go to EcoOrbit Chat, paste a free key from [Google AI Studio](https://aistudio.google.com/apikey) into the key box, then ask a starter question. The key stays in the browser session and is not written to disk.
-
-Optional, if you prefer not to paste each time (PowerShell):
+Optional, if *you prefer not to paste each time (PowerShell)*:
 
 ```bash
 $env:GEMINI_API_KEY="your_key_here"
 streamlit run dashboard.py
 ```
 
-A local `.env` file with `GEMINI_API_KEY=your_key_here` is also read if present. Never commit `.env`.
+A local `.env` file with `GEMINI_API_KEY=your_key_here` is also read if present.
 
 To reproduce from public sources, run the notebook **from the project root** (`jupyter lab notebooks/02_main_analysis.ipynb`) or execute:
 
