@@ -24,26 +24,6 @@ flowchart TD
 
 **Future:** verified factory/landfill attribution, dedicated landfill and green-site training labels, stronger plume wind and uncertainty validation, repeated gas measurements, site-specific CO2 evidence, activity ledgers and reporting-period GRI/GHG inventories, external user trials and Satellite 813 integration. Reporting depends on connecting observations to verified facilities and operational records.
 
-## Evidence against the judging criteria
-
-This mapping follows the supplied scoring image. It documents evidence rather than predicting a score. The image emphasizes quality of space data use and states that technical feasibility and space data quality break ties.
-
-| Scoring criterion | EcoOrbit evidence | Scope / next step |
-|---|---|---|
-| **Quality of space data use** | NASA EMIT hyperspectral CH4 pixels underpin mask selection and methane mass. Tanager narrow-band reflectance supplies spectral features and site ML. Sentinel-2/Landsat provide contextual examples. Exact IDs, dates, processing levels, QA and provider/local responsibilities appear below. | Provider gas retrievals are the input. EcoOrbit performs downstream pixel analysis. Source attribution and complete uncertainty need further evidence. |
-| **Team strength and expertise** | The delivered project demonstrates Python development, geospatial QA, hyperspectral feature extraction, ML evaluation, result presentation and documentation. The author, team member and mentor reviewed the PoC. | Registered names and individual contributions must match actual team records. No unconfirmed credentials or individual assignments are claimed. |
-| **Problem relevance and impact** | Factory/landfill operators, environmental analysts and sustainability teams need interpretable gas observations. The Jeddah example establishes a regional case alongside Brazilian observations. | Intended impact is better prioritization of investigation and traceable evidence. No measured emissions reduction, cost savings or assured inventory is claimed. |
-| **Innovation** | A reproducible workflow connects retrieved gas pixels, weather, transparent threshold scenarios and source files to an interactive interface. Hyperspectral site screening offers a future route to connect pollutant evidence with candidate industrial locations. | This is workflow integration and interpretability. The PoC does not claim to invent NASA's gas retrieval or establish superiority over all existing tools. |
-| **Feasibility** | Bundled real gas inputs and spectral features support the offline reviewer commands. Outputs include tables, masks, figures and a static website. No GPU or Earthdata login is required for the bundled path. | Remote refreshes need network access and full scenes. Current source linkage, new-region ML and reporting boundaries still need validation. |
-
-### Bonus evidence
-
-| Bonus in the scoring image | Current evidence | Accurate boundary |
-|---|---|---|
-| Progress beyond the PoC | Working results website, Streamlit app, optional Gemini explanation, reusable exports and three real gas case analyses. | Working features exist. A production deployment or external operational pilot is not documented. |
-| Hyperspectral data | Real EMIT methane retrievals and Tanager spectral features. Narrow-band observations enable gas enhancement inputs and material-pattern screening beyond broadband context alone. | No hyperspectral-versus-multispectral ablation is bundled. The project does not claim a measured comparative accuracy gain. |
-| User validation: contact with at least three real users or stakeholders | Three-person PoC review confirmed by the project author: the author, one EcoOrbit team member and the mentor. Mentor advice led to the methane/carbon focus and clearer methodology. | Two reviewers belong to the project team. This records internal/stakeholder review, not three independent customer interviews or scientific validation. The organizers determine bonus eligibility. |
-
 
 ## 1. Business use case
 
