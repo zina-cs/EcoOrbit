@@ -29,7 +29,7 @@ flowchart TD
 
 Environmental analysts, factory and landfill operators, and sustainability teams need to decide which sites warrant investigation and which observations can support a disclosure. They currently combine satellite portals, spreadsheets and operational records manually. EcoOrbit brings plume pixels, acquisition times, quality rules and weather into one view, with exported evidence for follow-up.
 
-The delivered solution includes a self-contained results website, a Streamlit dashboard and an optional Gemini assistant that explains packaged project evidence. An API key is required only for chat.
+The delivered solution includes a self-contained results website, a Streamlit dashboard and an optional Gemini assistant that explains packaged project evidence. An API key is required only for chat. To view a video of the dashboard, please visit this site: https://drive.google.com/file/d/1B5kyxzIMqYGuO-RWi-4kw2aFKdlncZuU/view?usp=sharing
 
 ## 2. Problem
 
