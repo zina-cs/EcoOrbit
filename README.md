@@ -44,15 +44,6 @@ This mapping follows the supplied scoring image. It documents evidence rather th
 | Hyperspectral data | Real EMIT methane retrievals and Tanager spectral features. Narrow-band observations enable gas enhancement inputs and material-pattern screening beyond broadband context alone. | No hyperspectral-versus-multispectral ablation is bundled. The project does not claim a measured comparative accuracy gain. |
 | User validation: contact with at least three real users or stakeholders | Three-person PoC review confirmed by the project author: the author, one EcoOrbit team member and the mentor. Mentor advice led to the methane/carbon focus and clearer methodology. | Two reviewers belong to the project team. This records internal/stakeholder review, not three independent customer interviews or scientific validation. The organizers determine bonus eligibility. |
 
-### Three-person review record
-
-| Reviewer | Relationship to the PoC | Evidence available |
-|---|---|---|
-| Project author (you) | Team contributor and PoC reviewer | Review participation confirmed by the author. Individual review date and feedback record were not supplied. |
-| EcoOrbit team member | Team contributor and PoC reviewer | Review participation confirmed by the author. Name, date and separate feedback record were not supplied. |
-| Project mentor | Mentor stakeholder and PoC reviewer | Mentor advice supplied in the project discussion: focus on methane/carbon, keep relevant NO2/SO2, show hyperspectral and multispectral use, and explain the processing stages clearly. |
-
-The updated scope and presentation incorporate the documented mentor feedback. This review concerns the PoC's focus and presentation. It does not establish a verified facility source, independently measured gas flux, or an assured ESG inventory. Before submission, add reviewers' names, review dates and any existing feedback notes you can substantiate, with permission to disclose them. External operator/analyst trials are a future step.
 
 ## 1. Business use case
 
@@ -106,7 +97,6 @@ Provider processing happens **before download**. EcoOrbit's Python processing ha
 | Spectral binning | Tanager retains narrow-band reflectance with wavelengths. | `src/train_classifier.py`: 30 nm bins over 450–2400 nm, excluding centres in 1350–1450 and 1800–1950 nm. Produces 57 spectral bins plus NDVI/NDBI/MNDWI. |
 | Quality screening | Providers supply cloud, cirrus, no-data and retrieval quality layers. | Tanager: mask no-data/cloud/cirrus, valid centre and ≥50 valid pixels in 11×11 neighbourhood. Sentinel-2: SCL 4/5/7. Landsat: QA_PIXEL bits. TROPOMI: NO2 QA >0.75, SO2 QA >0.50. |
 
-Detailed formulas, code paths, geometry choices and limitations are in [the preprocessing explanation](docs/PREPROCESSING_EXPLAINED.md).
 
 ### Methane processing, in execution order
 
@@ -168,7 +158,7 @@ python -m src.import_methane_plumes --published
 python -m src.build_website
 ```
 
-This reproduces the three methane cases, the site classifier and the website from included real inputs. Allow several minutes on a typical laptop; runtime depends on environment and image rendering and is not a benchmark. Outputs appear in `results/real/emit_pixels/`, `results/real/classifier/` and `EcoOrbit_Results_Website.html`. Supporting remote heat/land/column processing is not rerun by this offline path.
+This reproduces the three methane cases, the site classifier and the website from included real inputs. Allow several minutes on a typical laptop; runtime depends on environment and image rendering and is not a benchmark. Outputs appear in `results/real/emit_pixels/`, `results/real/classifier/` and `EcoOrbit_Results_Website.html`. 
 
 ### Required Jupyter notebooks
 
@@ -259,22 +249,13 @@ The following values are from the committed `case_summaries.json`, at 500 ppm·m
 
 ## 9. Team, licence and attribution
 
-Team **EcoOrbit**, challenge **Air Intelligence**, country representation **United Arab Emirates**. Add every registered member's name and actual role below before submitting. Registration and nationality eligibility are platform checks and cannot be inferred from this repository.
+Team **EcoOrbit**, challenge **Air Intelligence**, country representation **United Arab Emirates**. 
 
-| Registered member | Role |
+| Registered member | Experience |
 |---|---|
-| Project author | Add registered name and actual contributions |
-| EcoOrbit team member | Add registered name and actual contributions |
+| Yahya Kanjo | Python-based data science, machine learning and AI, Agentic AI, LLM and Chatbot Development, Data Engineering, Interactive dashboard development |
+| Zina Abohaia | Earth observation and Remote Sensing, Spectral image analysis, GIS and geospatial analytics, Machine learning and AI, Data Science, ESG and Sustainability Analytics |
 
 The MIT [LICENSE](LICENSE) covers project code only. Third-party data keep their original terms. Credit NASA/JPL/LP DAAC, Planet, ESA/Copernicus, USGS, ECMWF, Open-Meteo, Microsoft Planetary Computer, EPA, OpenStreetMap contributors, Carbon Mapper and the organizer's example notebooks. Detailed provider links are in [DATA_ATTRIBUTION](docs/DATA_ATTRIBUTION.md).
 
-Updated pitch deliverables: [PDF for the form](docs/slides.pdf) and [editable PowerPoint](docs/EcoOrbit_Pitch_Deck.pptx). The appendix explains provider versus project preprocessing.
 
-## 10. Submission checklist
-
-- The repository URL resolves for the evaluators and includes this root README, pinned requirements, runnable notebooks and visible outputs.
-- Confirm a clean-machine kernel restart / Run All and keep example figures committed.
-- Keep all real source inputs or exact acquisition scripts available. Exclude credentials, full scenes, model weights and unnecessary intermediate rasters.
-- Add registered members, their actual roles, and the reviewer names/dates/feedback where available. Confirm the official theme/country details on the platform.
-- Attach `docs/slides.pdf` to the submission form and enter the correct GitHub URL. Both form and repository are required.
-- The supplied guide states **11 October 2026, 23:59 in the team creator's local time**. Confirm the final platform deadline before submitting.
